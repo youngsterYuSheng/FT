@@ -158,11 +158,6 @@ class SLRModel(nn.Module):
         vis_data = {}
         if len(x.shape) == 5:
             feat_l4, feat_l3,res = self.conv2d(x.permute(0, 2, 1, 3, 4))
-
-            if hasattr(self.conv2d, 'vis_data_cache'):
-                vis_data = self.conv2d.vis_data_cache
-
-            vis_data['pre_bridge_x'] = feat_l4.detach()
             framewise = feat_l4.mean(dim=[-2, -1])
             framewise = framewise.permute(0, 2, 1)
 
