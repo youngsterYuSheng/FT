@@ -1,0 +1,4179 @@
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   ./work_dir/phoenix2014-T-1/out.output-hypothesis-dev.ctm
+
+Speakers: 
+    0:  signer04
+    1:  signer05
+    2:  signer08
+    3:  signer09
+    4:  signer01
+    5:  signer03
+    6:  signer07
+    7:  signer02
+    8:  signer06
+
+Speaker sentences   0:  signer04   #utts: 74
+id: (signer04-000)
+File: 01april_2010_thursday_heute-6697
+Channel: 1
+Scores: (#C #S #D #I) 0 2 2 0
+REF:  ICH OSTERN WETTER ZUFRIEDEN 
+HYP:  *** ****** HEUTE  REGEN     
+Eval: D   D      S      S         
+
+id: (signer04-001)
+File: 01april_2010_thursday_heute-6698
+Channel: 1
+Scores: (#C #S #D #I) 0 3 3 0
+REF:  MITTAG TEMPERATUR SUED WARM    POSS-MEIN   NICHT   
+HYP:  ****** ********** **** FREITAG WECHSELHAFT ZWANZIG 
+Eval: D      D          D    S       S           S       
+
+id: (signer04-002)
+File: 01july_2011_friday_tagesschau-2763
+Channel: 1
+Scores: (#C #S #D #I) 4 4 2 0
+REF:  NORD   sonne wolke wechselhaft bisschen SCHAUER SUEDWEST BESONDERS SONNE MOEGLICH 
+HYP:  REGION sonne wolke wechselhaft bisschen ******* ******** REGEN     SUED  KOENNEN  
+Eval: S                                       D       D        S         S     S        
+
+id: (signer04-003)
+File: 01july_2011_friday_tagesschau-2765
+Channel: 1
+Scores: (#C #S #D #I) 3 1 2 0
+REF:  heute nacht DREIZEHN nord VIER BERG  
+HYP:  heute nacht ******** nord **** ALPEN 
+Eval:             D             D    S     
+
+id: (signer04-004)
+File: 01july_2011_friday_tagesschau-2766
+Channel: 1
+Scores: (#C #S #D #I) 0 1 5 0
+REF:  AM-TAG DREIZEHN OST EINS ZWANZIG FLUSS  
+HYP:  ****** ******** *** **** ******* MORGEN 
+Eval: D      D        D   D    D       S      
+
+id: (signer04-005)
+File: 01october_2010_friday_tagesschau-2691
+Channel: 1
+Scores: (#C #S #D #I) 4 0 3 0
+REF:  jetzt wetter wie-aussehen morgen SAMSTAG ZWEITE OKTOBER 
+HYP:  jetzt wetter wie-aussehen morgen ******* ****** ******* 
+Eval:                                  D       D      D       
+
+id: (signer04-006)
+File: 02december_2011_friday_tagesschau-8009
+Channel: 1
+Scores: (#C #S #D #I) 3 1 2 0
+REF:  nacht IX BISSCHEN regen HOCH schnee 
+HYP:  nacht ** SCHAUER  regen **** schnee 
+Eval:       D  S              D           
+
+id: (signer04-007)
+File: 02december_2011_friday_tagesschau-8010
+Channel: 1
+Scores: (#C #S #D #I) 2 0 4 0
+REF:  REGION TEIL KLAR nord GEBEN schauer 
+HYP:  ****** **** **** nord ***** schauer 
+Eval: D      D    D         D             
+
+id: (signer04-008)
+File: 03july_2009_friday_tagesschau-2003
+Channel: 1
+Scores: (#C #S #D #I) 1 1 3 0
+REF:  GERADE RHEIN-PFALZ SAARLAND NORDRHEIN-WESTFALEN gewitter 
+HYP:  ****** *********** ******** REGION              gewitter 
+Eval: D      D           D        S                            
+
+id: (signer04-009)
+File: 03july_2009_friday_tagesschau-2008
+Channel: 1
+Scores: (#C #S #D #I) 1 1 8 0
+REF:  IM-MOMENT DOCH gewitter DEUTSCH WETTER DIENST WARNUNG SCHON FERTIG BEKANNTGEBEN 
+HYP:  ********* **** gewitter ******* ****** ****** ******* ***** ****** AUCH         
+Eval: D         D             D       D      D      D       D     D      S            
+
+id: (signer04-010)
+File: 03july_2011_sunday_tagesschau-1673
+Channel: 1
+Scores: (#C #S #D #I) 2 0 0 1
+REF:  mittwoch wechselhaft **** 
+HYP:  mittwoch wechselhaft AUCH 
+Eval:                      I    
+
+id: (signer04-011)
+File: 03july_2011_sunday_tagesschau-1674
+Channel: 1
+Scores: (#C #S #D #I) 0 1 3 0
+REF:  AUCH DONNERSTAG WEITER WECHSELHAFT 
+HYP:  **** ********** ****** [EMPTY]     
+Eval: D    D          D      S           
+
+id: (signer04-012)
+File: 04july_2009_saturday_tagesschau-3345
+Channel: 1
+Scores: (#C #S #D #I) 4 3 2 0
+REF:  MONTAG UEBERWIEGEND schauer ost gewitter SUED WEST LANG freundlich 
+HYP:  MORGEN MEISTENS     schauer ost gewitter **** **** MEHR freundlich 
+Eval: S      S                                 D    D    S               
+
+id: (signer04-013)
+File: 04july_2010_sunday_tagesschau-7198
+Channel: 1
+Scores: (#C #S #D #I) 5 0 2 0
+REF:  jetzt wetter wie-aussehen morgen montag FUENFTE JULI 
+HYP:  jetzt wetter wie-aussehen morgen montag ******* **** 
+Eval:                                         D       D    
+
+id: (signer04-014)
+File: 04july_2010_sunday_tagesschau-7199
+Channel: 1
+Scores: (#C #S #D #I) 3 2 4 0
+REF:  TIEF nord EUROPA DIESE NORDWEST morgen SCHAUER SUEDOST gewitter 
+HYP:  **** nord ****** ***** ******** morgen BERG    SUED    gewitter 
+Eval: D         D      D     D               S       S                
+
+id: (signer04-015)
+File: 04may_2010_tuesday_heute-453
+Channel: 1
+Scores: (#C #S #D #I) 2 1 4 0
+REF:  HOCH nord sonne DESHALB GRENZE HOCH TIEF 
+HYP:  **** nord sonne ******* ****** **** WIND 
+Eval: D               D       D      D    S    
+
+id: (signer04-016)
+File: 05february_2011_saturday_tagesschau-7855
+Channel: 1
+Scores: (#C #S #D #I) 4 0 3 0
+REF:  heute nacht nord TEIL sturm BERG ORKAN 
+HYP:  heute nacht nord **** sturm **** ***** 
+Eval:                  D          D    D     
+
+id: (signer04-017)
+File: 05september_2009_saturday_tagesschau-4078
+Channel: 1
+Scores: (#C #S #D #I) 4 1 1 1
+REF:  ***** wetter wie-aussehen morgen sonntag SECHS SEPTEMBER 
+HYP:  JETZT wetter wie-aussehen morgen sonntag ***** ZWANZIG   
+Eval: I                                        D     S         
+
+id: (signer04-018)
+File: 05september_2010_sunday_tagesschau-3132
+Channel: 1
+Scores: (#C #S #D #I) 2 0 5 0
+REF:  auch OBER FLUSS BIS abend MEHR WOLKE 
+HYP:  auch **** ***** *** abend **** ***** 
+Eval:      D    D     D         D    D     
+
+id: (signer04-019)
+File: 06august_2010_friday_tagesschau-2172
+Channel: 1
+Scores: (#C #S #D #I) 5 0 2 0
+REF:  jetzt wetter wie-aussehen morgen samstag SIEBTE AUGUST 
+HYP:  jetzt wetter wie-aussehen morgen samstag ****** ****** 
+Eval:                                          D      D      
+
+id: (signer04-020)
+File: 06february_2011_sunday_tagesschau-6914
+Channel: 1
+Scores: (#C #S #D #I) 5 0 4 0
+REF:  heute nacht AB morgen NACHMITTAG nord HARZ REGION sturm 
+HYP:  heute nacht ** morgen ********** nord **** ****** sturm 
+Eval:             D         D               D    D            
+
+id: (signer04-021)
+File: 06february_2011_sunday_tagesschau-6917
+Channel: 1
+Scores: (#C #S #D #I) 3 1 3 0
+REF:  nord morgen sieben REGION FLUSS BIS FUENFZEHN 
+HYP:  nord morgen sieben ****** ***** *** ZWANZIG   
+Eval:                    D      D     D   S         
+
+id: (signer04-022)
+File: 06may_2010_thursday_heute-1054
+Channel: 1
+Scores: (#C #S #D #I) 1 1 2 0
+REF:  NACHMITTAG KOENNEN sonne KOENNEN 
+HYP:  ********** AUCH    sonne ******* 
+Eval: D          S             D       
+
+id: (signer04-023)
+File: 07june_2010_monday_heute-2322
+Channel: 1
+Scores: (#C #S #D #I) 1 1 6 0
+REF:  DAZU WARM LUFT TATSAECHLICH warm HEISS NAECHSTE-WOCHE KUEHL 
+HYP:  **** **** **** ************ warm ***** ************** SONNE 
+Eval: D    D    D    D                 D     D              S     
+
+id: (signer04-024)
+File: 07june_2010_monday_heute-2327
+Channel: 1
+Scores: (#C #S #D #I) 5 1 6 0
+REF:  ost SUED BERLIN sued DEUTSCHLAND VIER   zwanzig GRAD bis ACHT ZWANZIG grad 
+HYP:  ost **** ****** sued *********** REGION zwanzig **** bis **** ******* grad 
+Eval:     D    D           D           S              D        D    D            
+
+id: (signer04-025)
+File: 08february_2010_monday_tagesschau-2796
+Channel: 1
+Scores: (#C #S #D #I) 4 0 3 0
+REF:  jetzt wetter wie-aussehen morgen DIENSTAG NEUNTE FEBRUAR 
+HYP:  jetzt wetter wie-aussehen morgen ******** ****** ******* 
+Eval:                                  D        D      D       
+
+id: (signer04-026)
+File: 10november_2009_tuesday_tagesschau-7250
+Channel: 1
+Scores: (#C #S #D #I) 0 3 3 0
+REF:  DONNERSTAG NEBEL AUFLOESEN WOLKE  BEWOELKT HABEN2 
+HYP:  ********** ***** ********* REGION KOMMEN   REGION 
+Eval: D          D     D         S      S        S      
+
+id: (signer04-027)
+File: 11december_2009_friday_tagesschau-3509
+Channel: 1
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  ALPEN LANG SCHNEE  
+HYP:  ***** **** SONNTAG 
+Eval: D     D    S       
+
+id: (signer04-028)
+File: 12september_2009_saturday_tagesschau-6589
+Channel: 1
+Scores: (#C #S #D #I) 0 1 3 0
+REF:  DESHALB NAECHSTE WOCHE KOMMEN 
+HYP:  ******* ******** ***** MORGEN 
+Eval: D       D        D     S      
+
+id: (signer04-029)
+File: 12september_2009_saturday_tagesschau-6590
+Channel: 1
+Scores: (#C #S #D #I) 3 0 3 0
+REF:  IM-VERLAUF nacht nord WOLKE BISSCHEN regen 
+HYP:  ********** nacht nord ***** ******** regen 
+Eval: D                     D     D              
+
+id: (signer04-030)
+File: 12september_2009_saturday_tagesschau-6591
+Channel: 1
+Scores: (#C #S #D #I) 3 1 4 0
+REF:  TAG    sued FREUNDLICH UNTEN KOMMEN mehr regen TROPFEN 
+HYP:  MORGEN sued ********** ***** ****** mehr regen ******* 
+Eval: S           D          D     D                 D       
+
+id: (signer04-031)
+File: 13december_2009_sunday_tagesschau-6822
+Channel: 1
+Scores: (#C #S #D #I) 2 3 5 0
+REF:  SUEDOST SCHNEE REGION trocken MINUS ACHT bis PLUS EINS   ZWISCHEN 
+HYP:  ******* ****** SUED   trocken ***** **** bis **** SIEBEN BIS      
+Eval: D       D      S              D     D        D    S      S        
+
+id: (signer04-032)
+File: 17october_2009_saturday_tagesschau-2127
+Channel: 1
+Scores: (#C #S #D #I) 4 1 4 0
+REF:  TIEF REGION schwach morgen SOLL EINFLUSS ost REGION sued 
+HYP:  **** OST    schwach morgen **** ******** ost ****** sued 
+Eval: D    S                     D    D            D           
+
+id: (signer04-033)
+File: 17october_2009_saturday_tagesschau-2133
+Channel: 1
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  wind schwach WEHEN 
+HYP:  wind schwach SUED  
+Eval:              S     
+
+id: (signer04-034)
+File: 17october_2009_saturday_tagesschau-2138
+Channel: 1
+Scores: (#C #S #D #I) 1 1 4 0
+REF:  mittwoch WEST WOLKE ACHT BIS SECHSZEHN 
+HYP:  mittwoch **** ***** **** *** GEWITTER  
+Eval:          D    D     D    D   S         
+
+id: (signer04-035)
+File: 17october_2009_saturday_tagesschau-2139
+Channel: 1
+Scores: (#C #S #D #I) 0 2 0 0
+REF:  NEBEL   KUEHL 
+HYP:  SCHAUER KALT  
+Eval: S       S     
+
+id: (signer04-036)
+File: 18november_2011_friday_tagesschau-2143
+Channel: 1
+Scores: (#C #S #D #I) 2 3 1 0
+REF:  WOLKE region SCHAFFEN NUR NORDWEST kommen 
+HYP:  ***** region SCHAUER  OST REGION   kommen 
+Eval: D            S        S   S               
+
+id: (signer04-037)
+File: 18october_2010_monday_heute-629
+Channel: 1
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  NUR  sued mehr freundlich 
+HYP:  AUCH sued mehr freundlich 
+Eval: S                         
+
+id: (signer04-038)
+File: 18october_2010_monday_heute-630
+Channel: 1
+Scores: (#C #S #D #I) 1 1 2 0
+REF:  JETZT WUENSCHEN SCHOEN abend 
+HYP:  ***** ********* NORD   abend 
+Eval: D     D         S            
+
+id: (signer04-039)
+File: 19march_2011_saturday_tagesschau-4690
+Channel: 1
+Scores: (#C #S #D #I) 1 1 8 0
+REF:  morgen FRUEH VERSCHWINDEN LANGSAM SCHNELL NORDOST BISSCHEN WOLKE BLEIBEN TROCKEN  
+HYP:  morgen ***** ************ ******* ******* ******* ******** ***** ******* GEWITTER 
+Eval:        D     D            D       D       D       D        D     D       S        
+
+id: (signer04-040)
+File: 19march_2011_saturday_tagesschau-4697
+Channel: 1
+Scores: (#C #S #D #I) 1 3 2 0
+REF:  KUESTE bisschen WOLKE ABER NEG-REGEN NEG-HABEN 
+HYP:  NORD   bisschen ***** **** SCHAUER   AUCH      
+Eval: S               D     D    S         S         
+
+id: (signer04-041)
+File: 20february_2011_sunday_tagesschau-3164
+Channel: 1
+Scores: (#C #S #D #I) 3 0 4 1
+REF:  ***** wetter wie-aussehen morgen MONTAG EINS ZWANZIG FEBRUAR 
+HYP:  JETZT wetter wie-aussehen morgen ****** **** ******* ******* 
+Eval: I                                D      D    D       D       
+
+id: (signer04-042)
+File: 20february_2011_sunday_tagesschau-3166
+Channel: 1
+Scores: (#C #S #D #I) 1 1 3 0
+REF:  AM-TAG REGION SCHNEE FLUSS regen 
+HYP:  ****** ****** ****** SUED  regen 
+Eval: D      D      D      S           
+
+id: (signer04-043)
+File: 20november_2010_saturday_tagesschau-1823
+Channel: 1
+Scores: (#C #S #D #I) 1 1 4 0
+REF:  AB MONTAG DAS-IST-ES DEUTSCH EINFLUSS regen 
+HYP:  ** ****** ********** ******* MORGEN   regen 
+Eval: D  D      D          D       S              
+
+id: (signer04-044)
+File: 20november_2010_saturday_tagesschau-1824
+Channel: 1
+Scores: (#C #S #D #I) 0 2 4 0
+REF:  IX WIND UND SCHNEE STUFENWEISE GRENZE  
+HYP:  ** **** *** ****** AUCH        SCHAUER 
+Eval: D  D    D   D      S           S       
+
+id: (signer04-045)
+File: 20november_2011_sunday_tagesschau-536
+Channel: 1
+Scores: (#C #S #D #I) 1 3 2 0
+REF:  MISCHUNG NEBEL  HOCH  NEBEL sonne BLEIBEN 
+HYP:  ******** REGION WOLKE OST   sonne ******* 
+Eval: D        S      S     S           D       
+
+id: (signer04-046)
+File: 21january_2011_friday_tagesschau-4890
+Channel: 1
+Scores: (#C #S #D #I) 1 2 4 0
+REF:  NORDWEST regen ODER SCHNEE VORSICHT GLATT KOENNEN 
+HYP:  NORD     regen **** ****** ******** ***** NORD    
+Eval: S              D    D      D        D     S       
+
+id: (signer04-047)
+File: 21july_2009_tuesday_tagesschau-8061
+Channel: 1
+Scores: (#C #S #D #I) 0 2 4 0
+REF:  DIESE WARNUNG UNWETTER DEUTSCH WETTER DIENST 
+HYP:  ***** ******* ******** ******* IX     AUCH   
+Eval: D     D       D        D       S      S      
+
+id: (signer04-048)
+File: 21july_2009_tuesday_tagesschau-8062
+Channel: 1
+Scores: (#C #S #D #I) 2 2 1 0
+REF:  HAUPTSAECHLICH nord MITTE REGEN   gewitter 
+HYP:  SUED           nord ***** SCHAUER gewitter 
+Eval: S                   D     S                
+
+id: (signer04-049)
+File: 21november_2009_saturday_tagesschau-4905
+Channel: 1
+Scores: (#C #S #D #I) 0 2 3 0
+REF:  KOMMEN LOCH ABER TROTZDEM SCHAUER 
+HYP:  ****** **** **** REGION   AUCH    
+Eval: D      D    D    S        S       
+
+id: (signer04-050)
+File: 21november_2009_saturday_tagesschau-4906
+Channel: 1
+Scores: (#C #S #D #I) 0 2 2 0
+REF:  SUEDOST SCHWACH WEHEN MAESSIG 
+HYP:  ******* ******* SUED  STURM   
+Eval: D       D       S     S       
+
+id: (signer04-051)
+File: 21november_2009_saturday_tagesschau-4911
+Channel: 1
+Scores: (#C #S #D #I) 3 1 2 1
+REF:  NAECHSTE WOCHE wechselhaft *** WOLKE  teil regen 
+HYP:  ******** ***** wechselhaft OST REGION teil regen 
+Eval: D        D                 I   S                 
+
+id: (signer04-052)
+File: 21october_2009_wednesday_tagesschau-735
+Channel: 1
+Scores: (#C #S #D #I) 2 4 2 0
+REF:  FRANKREICH KOMMEN wolke OST    NIEDERSACHSEN BAYERN SUEDWEST regen 
+HYP:  ********** ****** wolke REGION SONNE         NORD   SUED     regen 
+Eval: D          D            S      S             S      S              
+
+id: (signer04-053)
+File: 22january_2010_friday_tagesschau-907
+Channel: 1
+Scores: (#C #S #D #I) 3 5 1 0
+REF:  TAG   VIEL wolke NEBEL BLEIBEN trocken IX   sonne MOEGLICH 
+HYP:  HEUTE NORD wolke ***** REGION  trocken NORD sonne KOENNEN  
+Eval: S     S          D     S               S          S        
+
+id: (signer04-054)
+File: 22january_2011_saturday_tagesschau-2080
+Channel: 1
+Scores: (#C #S #D #I) 2 1 0 1
+REF:  wind schwach ***** WEHEN 
+HYP:  wind schwach REGEN WIND  
+Eval:              I     S     
+
+id: (signer04-055)
+File: 22january_2011_saturday_tagesschau-2082
+Channel: 1
+Scores: (#C #S #D #I) 3 0 5 1
+REF:  *** region morgen SECHS BERG ALLGAEU kalt MINUS VIER 
+HYP:  OST region morgen ***** **** ******* kalt ***** **** 
+Eval: I                 D     D    D            D     D    
+
+id: (signer04-056)
+File: 22november_2009_sunday_tagesschau-5490
+Channel: 1
+Scores: (#C #S #D #I) 1 0 4 1
+REF:  ***** nacht TEMPERATUR VIER BIS NEUN 
+HYP:  HEUTE nacht ********** **** *** **** 
+Eval: I           D          D    D   D    
+
+id: (signer04-057)
+File: 23april_2010_friday_tagesschau-3667
+Channel: 1
+Scores: (#C #S #D #I) 3 2 5 0
+REF:  nacht MINUS DREI bis PLUS VIER    nord PLUS FUENF IX      
+HYP:  nacht ***** **** bis **** ZWANZIG nord **** ***** ZWANZIG 
+Eval:       D     D        D    S            D    D     S       
+
+id: (signer04-058)
+File: 23april_2010_friday_tagesschau-3668
+Channel: 1
+Scores: (#C #S #D #I) 1 2 6 0
+REF:  MORGEN ZEHN BIS    FUENFZEHN region SECHSZEHN BIS DREI ZWANZIG 
+HYP:  ****** **** SIEBEN GRAD      region ********* *** **** ******* 
+Eval: D      D    S      S                D         D   D    D       
+
+id: (signer04-059)
+File: 23january_2011_sunday_tagesschau-7834
+Channel: 1
+Scores: (#C #S #D #I) 1 1 5 0
+REF:  auch DIENSTAG WOLKE MEHR REGEN ODER SCHNEE  
+HYP:  auch ******** ***** **** ***** **** SCHAUER 
+Eval:      D        D     D    D     D    S       
+
+id: (signer04-060)
+File: 23july_2011_saturday_tagesschau-5498
+Channel: 1
+Scores: (#C #S #D #I) 1 1 2 0
+REF:  SPAETER REGEN UEBERALL region 
+HYP:  ******* ***** SCHWACH  region 
+Eval: D       D     S               
+
+id: (signer04-061)
+File: 24april_2010_saturday_tagesschau-3963
+Channel: 1
+Scores: (#C #S #D #I) 2 0 4 0
+REF:  morgen AUCH HOCH LUFT VIEL sonne 
+HYP:  morgen **** **** **** **** sonne 
+Eval:        D    D    D    D          
+
+id: (signer04-062)
+File: 24january_2010_sunday_tagesschau-8710
+Channel: 1
+Scores: (#C #S #D #I) 1 1 4 0
+REF:  SUED schwach WEHEN IX MAESSIG WEHEN   
+HYP:  **** schwach ***** ** ******* TROCKEN 
+Eval: D            D     D  D       S       
+
+id: (signer04-063)
+File: 24july_2011_sunday_tagesschau-6621
+Channel: 1
+Scores: (#C #S #D #I) 0 1 4 0
+REF:  DARUNTER TAG IM-VERLAUF MEHR WARM 
+HYP:  ******** *** ********** **** IX   
+Eval: D        D   D          D    S    
+
+id: (signer04-064)
+File: 24july_2011_sunday_tagesschau-6622
+Channel: 1
+Scores: (#C #S #D #I) 1 1 3 0
+REF:  TROTZDEM BLEIBEN SCHAUER gewitter NOCH 
+HYP:  ******** ******* REGEN   gewitter **** 
+Eval: D        D       S                D    
+
+id: (signer04-065)
+File: 25september_2010_saturday_tagesschau-3480
+Channel: 1
+Scores: (#C #S #D #I) 6 0 2 0
+REF:  jetzt wetter wie-aussehen morgen sonntag SECHS zwanzig SEPTEMBER 
+HYP:  jetzt wetter wie-aussehen morgen sonntag ***** zwanzig ********* 
+Eval:                                          D             D         
+
+id: (signer04-066)
+File: 26july_2010_monday_tagesschau-6256
+Channel: 1
+Scores: (#C #S #D #I) 4 0 4 0
+REF:  jetzt wetter wie-aussehen morgen DIENSTAG SIEBEN ZWANZIG JULI 
+HYP:  jetzt wetter wie-aussehen morgen ******** ****** ******* **** 
+Eval:                                  D        D      D       D    
+
+id: (signer04-067)
+File: 27september_2009_sunday_tagesschau-2169
+Channel: 1
+Scores: (#C #S #D #I) 2 5 2 0
+REF:  SUED schwach WEHEN IX   MAESSIG KUESTE FRISCH OST   sturm 
+HYP:  **** schwach ***** KLAR STURM   NORD   WIND   SONNE sturm 
+Eval: D            D     S    S       S      S      S           
+
+id: (signer04-068)
+File: 27september_2009_sunday_tagesschau-2170
+Channel: 1
+Scores: (#C #S #D #I) 1 1 2 0
+REF:  nacht TEIL BODEN FROST  
+HYP:  nacht **** ***** REGION 
+Eval:       D    D     S      
+
+id: (signer04-069)
+File: 28december_2011_wednesday_tagesschau-1911
+Channel: 1
+Scores: (#C #S #D #I) 3 0 5 0
+REF:  BERG morgen NOCH REGEN IX SCHAUER nord gewitter 
+HYP:  **** morgen **** ***** ** ******* nord gewitter 
+Eval: D           D    D     D  D                     
+
+id: (signer04-070)
+File: 28september_2009_monday_tagesschau-4679
+Channel: 1
+Scores: (#C #S #D #I) 2 0 3 1
+REF:  ***** nacht VIERZEHN nord SECHS ALLGAEU 
+HYP:  HEUTE nacht ******** nord ***** ******* 
+Eval: I           D             D     D       
+
+id: (signer04-071)
+File: 28september_2009_monday_tagesschau-4680
+Channel: 1
+Scores: (#C #S #D #I) 2 2 3 0
+REF:  TAG VIERZEHN nord regen EINS ZWANZIG FLUSS    
+HYP:  *** HEUTE    nord regen **** ******* GEWITTER 
+Eval: D   S                   D    D       S        
+
+id: (signer04-072)
+File: 29september_2009_tuesday_tagesschau-8538
+Channel: 1
+Scores: (#C #S #D #I) 3 3 1 0
+REF:  sued SCHWACH nord MAESSIG KUESTE STARK sturm 
+HYP:  sued ******* nord STURM   NORD   SONNE sturm 
+Eval:      D            S       S      S           
+
+id: (signer04-073)
+File: 30july_2010_friday_tagesschau-1520
+Channel: 1
+Scores: (#C #S #D #I) 1 1 5 0
+REF:  KUEHL SIEBEN GRAD ALLGAEU IX SECHSZEHN nord 
+HYP:  ***** ****** **** ******* ** SCHWACH   nord 
+Eval: D     D      D    D       D  S              
+
+Speaker sentences   1:  signer05   #utts: 108
+id: (signer05-000)
+File: 01december_2011_thursday_heute-3058
+Channel: 1
+Scores: (#C #S #D #I) 4 2 2 0
+REF:  STUNDE auch meistens regen ERST WEST   DANN    region 
+HYP:  ****** auch meistens regen **** REGION FREITAG region 
+Eval: D                          D    S      S              
+
+id: (signer05-001)
+File: 01december_2011_thursday_heute-3060
+Channel: 1
+Scores: (#C #S #D #I) 4 2 7 0
+REF:  UND TAG BLEIBEN KUEHL SECHS grad BAYERN ix region AUCH S+H IX    auch 
+HYP:  *** *** ******* ***** ABER  grad ****** ix region **** *** SONNE auch 
+Eval: D   D   D       D     S          D                D    D   S          
+
+id: (signer05-002)
+File: 01december_2011_thursday_heute-3061
+Channel: 1
+Scores: (#C #S #D #I) 2 1 5 0
+REF:  ABER DAZWISCHEN region MILD NEUN BIS VIERZEHN grad 
+HYP:  **** ********** region **** **** *** GEWITTER grad 
+Eval: D    D                 D    D    D   S             
+
+id: (signer05-003)
+File: 01may_2010_saturday_tagesschau-7197
+Channel: 1
+Scores: (#C #S #D #I) 3 2 3 0
+REF:  MITTWOCH SUED nord BISSCHEN REGEN SONST region freundlich 
+HYP:  ******** **** nord ******** SONNE NORD  region freundlich 
+Eval: D        D         D        S     S                       
+
+id: (signer05-004)
+File: 01november_2010_monday_tagesschau-140
+Channel: 1
+Scores: (#C #S #D #I) 1 1 3 0
+REF:  NORDWEST AUCH TEIL IX   regen 
+HYP:  ******** **** **** NORD regen 
+Eval: D        D    D    S          
+
+id: (signer05-005)
+File: 02november_2010_tuesday_heute-2742
+Channel: 1
+Scores: (#C #S #D #I) 0 3 3 0
+REF:  GUT ABEND LIEB DU    ZUSCHAUER POSS-EUCH 
+HYP:  *** ***** **** HEUTE NACHT     NORD      
+Eval: D   D     D    S     S         S         
+
+id: (signer05-006)
+File: 02november_2010_tuesday_heute-2754
+Channel: 1
+Scores: (#C #S #D #I) 3 0 9 0
+REF:  MILD nord auch ZWOELF ZWISCHEN VIERZEHN sued UNGEFAEHR VIERZEHN MAXIMAL SECHSZEHN GRAD 
+HYP:  **** nord auch ****** ******** ******** sued ********* ******** ******* ********* **** 
+Eval: D              D      D        D             D         D        D       D         D    
+
+id: (signer05-007)
+File: 02november_2010_tuesday_tagesschau-2031
+Channel: 1
+Scores: (#C #S #D #I) 2 2 3 0
+REF:  sued WAHRSCHEINLICH HOCH DRUCK RUHIG freundlich HERBST 
+HYP:  sued ************** **** ***** NACHT freundlich WIND   
+Eval:      D              D    D     S                S      
+
+id: (signer05-008)
+File: 02november_2010_tuesday_tagesschau-2039
+Channel: 1
+Scores: (#C #S #D #I) 0 2 6 0
+REF:  AUCH SAMSTAG NAECHSTE GLEICH IX KOMMEN MEHR  KUEHL 
+HYP:  **** ******* ******** ****** ** ****** HEUTE NORD  
+Eval: D    D       D        D      D  D      S     S     
+
+id: (signer05-009)
+File: 02october_2012_tuesday_heute-3494
+Channel: 1
+Scores: (#C #S #D #I) 4 1 5 0
+REF:  heute nacht NEG-KAUM NUR NORDWEST BISSCHEN regen SONST region RUHIG 
+HYP:  heute nacht ******** *** ******** NORD     regen ***** region ***** 
+Eval:             D        D   D        S              D            D     
+
+id: (signer05-010)
+File: 02september_2010_thursday_heute-3456
+Channel: 1
+Scores: (#C #S #D #I) 4 4 8 0
+REF:  nord DEUTSCHLAND IX KLAR LUFT IX NEBEL UND    TEILWEISE BISSCHEN DAZWISCHEN regen HERZ berg BAYERN region 
+HYP:  nord *********** ** **** **** ** ***** REGION WOLKE     GEWITTER TEIL       regen **** berg ****** region 
+Eval:      D           D  D    D    D  D     S      S         S        S                D         D             
+
+id: (signer05-011)
+File: 02september_2010_thursday_heute-3457
+Channel: 1
+Scores: (#C #S #D #I) 3 0 0 0
+REF:  morgen nord freundlich 
+HYP:  morgen nord freundlich 
+Eval:                        
+
+id: (signer05-012)
+File: 03march_2011_thursday_tagesschau-7064
+Channel: 1
+Scores: (#C #S #D #I) 3 3 1 0
+REF:  morgen IX MILD  ZWOELF nord ZWEI    grad 
+HYP:  morgen ** FUENF FLUSS  nord ZWANZIG grad 
+Eval:        D  S     S           S            
+
+id: (signer05-013)
+File: 03october_2012_wednesday_tagesschau-7651
+Channel: 1
+Scores: (#C #S #D #I) 4 1 2 0
+REF:  jetzt wetter wie-aussehen morgen DONNERSTAG VIERTE OKTOBER 
+HYP:  jetzt wetter wie-aussehen morgen ********** ****** ZWANZIG 
+Eval:                                  D          D      S       
+
+id: (signer05-014)
+File: 03october_2012_wednesday_tagesschau-7655
+Channel: 1
+Scores: (#C #S #D #I) 1 2 0 0
+REF:  SUEDOST MEISTENS trocken 
+HYP:  SUED    WIND     trocken 
+Eval: S       S                
+
+id: (signer05-015)
+File: 03october_2012_wednesday_tagesschau-7656
+Channel: 1
+Scores: (#C #S #D #I) 1 1 3 0
+REF:  MORGEN HAUPTSAECHLICH wolke VERSCHWINDEN IX 
+HYP:  ****** TAG            wolke ************ ** 
+Eval: D      S                    D            D  
+
+id: (signer05-016)
+File: 03october_2012_wednesday_tagesschau-7657
+Channel: 1
+Scores: (#C #S #D #I) 2 0 2 0
+REF:  SONST region HAUPTSAECHLICH regen 
+HYP:  ***** region ************** regen 
+Eval: D            D                    
+
+id: (signer05-017)
+File: 03september_2010_friday_tagesschau-8423
+Channel: 1
+Scores: (#C #S #D #I) 0 2 0 0
+REF:  KUEHL KOMMEN 
+HYP:  JETZT WETTER 
+Eval: S     S      
+
+id: (signer05-018)
+File: 03september_2010_friday_tagesschau-8424
+Channel: 1
+Scores: (#C #S #D #I) 1 2 2 0
+REF:  TEMPERATUR samstag SONNTAG IX GLEICH 
+HYP:  REGION     samstag ******* ** WIND   
+Eval: S                  D       D  S      
+
+id: (signer05-019)
+File: 03september_2010_friday_tagesschau-8432
+Channel: 1
+Scores: (#C #S #D #I) 3 4 1 0
+REF:  tag NORDOST SECHSZEHN REGION IX  DREI  zwanzig grad 
+HYP:  tag ******* NORD      WIND   OST FLUSS zwanzig grad 
+Eval:     D       S         S      S   S                  
+
+id: (signer05-020)
+File: 04august_2011_thursday_tagesschau-718
+Channel: 1
+Scores: (#C #S #D #I) 2 1 3 0
+REF:  MONTAG auch wechselhaft UND MEHR KUEHL 
+HYP:  MORGEN auch wechselhaft *** **** ***** 
+Eval: S                       D   D    D     
+
+id: (signer05-021)
+File: 04december_2009_friday_tagesschau-841
+Channel: 1
+Scores: (#C #S #D #I) 4 3 2 1
+REF:  MANCHMAL schwach maessig IX WIND IX     west STARK wind ***** 
+HYP:  NACHT    schwach maessig ** **** WETTER west NORD  wind STURM 
+Eval: S                        D  D    S           S          I     
+
+id: (signer05-022)
+File: 06july_2010_tuesday_tagesschau-2653
+Channel: 1
+Scores: (#C #S #D #I) 3 1 1 2
+REF:  **** NORDOST bisschen schauer ***** abend AUFLOESEN 
+HYP:  NORD REGION  bisschen schauer NACHT abend ********* 
+Eval: I    S                        I           D         
+
+id: (signer05-023)
+File: 06july_2010_tuesday_tagesschau-2654
+Channel: 1
+Scores: (#C #S #D #I) 0 2 3 0
+REF:  EIN-PAAR HARMLOS NEBEL DANN   KLAR   
+HYP:  ******** ******* ***** MORGEN REGION 
+Eval: D        D       D     S      S      
+
+id: (signer05-024)
+File: 07april_2010_wednesday_heute-1631
+Channel: 1
+Scores: (#C #S #D #I) 4 2 0 1
+REF:  ***** FREUNDLICH BLEIBEN region sued bisschen schauer 
+HYP:  NACHT MORGEN     OST     region sued bisschen schauer 
+Eval: I     S          S                                    
+
+id: (signer05-025)
+File: 07april_2010_wednesday_heute-1632
+Channel: 1
+Scores: (#C #S #D #I) 0 2 1 0
+REF:  SCHOEN ABEND AUSRICHTEN 
+HYP:  ****** HEUTE NACHT      
+Eval: D      S     S          
+
+id: (signer05-026)
+File: 07april_2010_wednesday_tagesschau-6029
+Channel: 1
+Scores: (#C #S #D #I) 5 4 2 1
+REF:  *** region SUEDOST sonne NORDWEST UEBERWIEGEND wolke IX regen SUEDOST AUCH schauer 
+HYP:  OST region SUED    sonne NORD     SONNE        wolke ** regen ******* SUED schauer 
+Eval: I          S             S        S                  D        D       S            
+
+id: (signer05-027)
+File: 08april_2010_thursday_heute-4004
+Channel: 1
+Scores: (#C #S #D #I) 2 1 1 0
+REF:  regen NEGALP-AUCH ABER kuehl 
+HYP:  regen *********** AUCH kuehl 
+Eval:       D           S          
+
+id: (signer05-028)
+File: 08april_2010_thursday_tagesschau-3949
+Channel: 1
+Scores: (#C #S #D #I) 2 3 3 0
+REF:  LUFT KUEHL region TIEF HOCH region KOMMEN KUEHL 
+HYP:  **** HEUTE region SUED OST  region ****** ***** 
+Eval: D    S            S    S           D      D     
+
+id: (signer05-029)
+File: 09august_2010_monday_heute-5905
+Channel: 1
+Scores: (#C #S #D #I) 2 2 2 0
+REF:  AUCH  BIS     freitag WIEDER SINKEN kuehl 
+HYP:  HEUTE SONNTAG freitag ****** ****** kuehl 
+Eval: S     S               D      D            
+
+id: (signer05-030)
+File: 09august_2010_monday_heute-5906
+Channel: 1
+Scores: (#C #S #D #I) 0 3 1 0
+REF:  SCHOEN ABEND MACHEN GUT    
+HYP:  ****** HEUTE NACHT  SCHNEE 
+Eval: D      S     S      S      
+
+id: (signer05-031)
+File: 09august_2010_monday_tagesschau-3000
+Channel: 1
+Scores: (#C #S #D #I) 0 3 5 0
+REF:  NORDWEST SPAETER AUCH WOLKE DANN DABEI GEWITTER SCHAUER 
+HYP:  ******** ******* **** ***** **** NORD  REGION   REGEN   
+Eval: D        D       D    D     D    S     S        S       
+
+id: (signer05-032)
+File: 09august_2010_monday_tagesschau-3004
+Channel: 1
+Scores: (#C #S #D #I) 4 2 3 0
+REF:  mittwoch SINKEN KUEHLER WECHSELHAFT sonne WOLKE schauer gewitter WEST 
+HYP:  mittwoch ****** ******* *********** sonne NACHT schauer gewitter NORD 
+Eval:          D      D       D                 S                      S    
+
+id: (signer05-033)
+File: 10august_2010_tuesday_heute-1455
+Channel: 1
+Scores: (#C #S #D #I) 8 1 4 0
+REF:  ost region sonne MEHR WARM MAXIMAL SECHS  zwanzig sued MAXIMAL sieben zwanzig grad 
+HYP:  ost region sonne **** **** ******* SIEBEN zwanzig sued ******* sieben zwanzig grad 
+Eval:                  D    D    D       S                   D                           
+
+id: (signer05-034)
+File: 10august_2010_tuesday_tagesschau-3865
+Channel: 1
+Scores: (#C #S #D #I) 6 1 4 0
+REF:  OST sued heute nacht TROCKEN auch KLAR DANN TEIL     region schauer 
+HYP:  *** sued heute nacht ******* auch **** **** GEWITTER region schauer 
+Eval: D                    D            D    D    S                       
+
+id: (signer05-035)
+File: 10august_2011_wednesday_tagesschau-6303
+Channel: 1
+Scores: (#C #S #D #I) 0 2 2 0
+REF:  IM-VERLAUF IM-VERLAUF TEMPERATUR REGION 
+HYP:  ********** ********** SONNTAG    BERG   
+Eval: D          D          S          S      
+
+id: (signer05-036)
+File: 10august_2011_wednesday_tagesschau-6304
+Channel: 1
+Scores: (#C #S #D #I) 7 1 3 1
+REF:  ****** sued mehr freundlich IX nord NICHT ORT    auch schauer gewitter KURZ 
+HYP:  REGION sued mehr freundlich ** nord ***** REGION auch schauer gewitter **** 
+Eval: I                           D       D     S                            D    
+
+id: (signer05-037)
+File: 10august_2011_wednesday_tagesschau-6305
+Channel: 1
+Scores: (#C #S #D #I) 2 4 1 0
+REF:  sonntag bis DREISSIG GRAD    MOEGLICH WIEDER  UNWETTER 
+HYP:  sonntag bis ******** ZWANZIG NORD     KOENNEN STURM    
+Eval:             D        S       S        S       S        
+
+id: (signer05-038)
+File: 11january_2011_tuesday_heute-8176
+Channel: 1
+Scores: (#C #S #D #I) 3 3 1 0
+REF:  AB MITTAG ZWISCHEN kommen wolke MEISTENS regen 
+HYP:  ** AUCH   REGION   kommen wolke SONNE    regen 
+Eval: D  S      S                     S              
+
+id: (signer05-039)
+File: 12december_2010_sunday_tagesschau-5597
+Channel: 1
+Scores: (#C #S #D #I) 1 3 5 0
+REF:  IX    nacht WAHRSCHEINLICH LOCKER ORT NEBEL HABEN LANG   BLEIBEN 
+HYP:  HEUTE nacht ************** ****** *** ***** ***** REGION KOENNEN 
+Eval: S           D              D      D   D     D     S      S       
+
+id: (signer05-040)
+File: 12december_2010_sunday_tagesschau-5605
+Channel: 1
+Scores: (#C #S #D #I) 2 4 3 0
+REF:  tag VOGEL LAND   MINUS ACHT   nord MINUS DREI GRAD 
+HYP:  tag AUCH  REGION BIS   SIEBEN nord ***** **** **** 
+Eval:     S     S      S     S           D     D    D    
+
+id: (signer05-041)
+File: 12january_2011_wednesday_tagesschau-1732
+Channel: 1
+Scores: (#C #S #D #I) 4 1 3 1
+REF:  heute nacht **** sieben SONST region SECHS ZWISCHEN EINS 
+HYP:  heute nacht WIND sieben ***** region ***** ******** WARM 
+Eval:             I           D            D     D        S    
+
+id: (signer05-042)
+File: 12november_2009_thursday_tagesschau-6770
+Channel: 1
+Scores: (#C #S #D #I) 4 0 1 0
+REF:  nord morgen BEWOELKT region regen 
+HYP:  nord morgen ******** region regen 
+Eval:             D                     
+
+id: (signer05-043)
+File: 12november_2009_thursday_tagesschau-6771
+Channel: 1
+Scores: (#C #S #D #I) 4 2 2 0
+REF:  sued MEISTENS trocken EINIGE wolke NEBEL MAL    sonne 
+HYP:  sued ******** trocken MEHR   wolke ***** REGION sonne 
+Eval:      D                S            D     S            
+
+id: (signer05-044)
+File: 12november_2009_thursday_tagesschau-6772
+Channel: 1
+Scores: (#C #S #D #I) 1 2 2 0
+REF:  IM-VERLAUF MITTE  auch WOLKE AUFLOESEN 
+HYP:  ********** MORGEN auch ***** KUEHL     
+Eval: D          S           D     S         
+
+id: (signer05-045)
+File: 13august_2009_thursday_tagesschau-8487
+Channel: 1
+Scores: (#C #S #D #I) 3 0 2 0
+REF:  wind schwach maessig IX WEHEN 
+HYP:  wind schwach maessig ** ***** 
+Eval:                      D  D     
+
+id: (signer05-046)
+File: 13july_2009_monday_tagesschau-7513
+Channel: 1
+Scores: (#C #S #D #I) 6 3 2 0
+REF:  region sonne SCHAUER gewitter sued IX ENORM HAGEL stark REGEN sturm 
+HYP:  region sonne REGEN   gewitter sued ** STURM SONNE stark ***** sturm 
+Eval:              S                     D  S     S           D           
+
+id: (signer05-047)
+File: 14april_2010_wednesday_heute-1879
+Channel: 1
+Scores: (#C #S #D #I) 0 3 1 0
+REF:  GUT ABEND LIEB  ZUSCHAUER 
+HYP:  *** HEUTE NACHT MORGEN    
+Eval: D   S     S     S         
+
+id: (signer05-048)
+File: 14april_2010_wednesday_heute-1880
+Channel: 1
+Scores: (#C #S #D #I) 1 1 3 0
+REF:  IN-KOMMEND FRUEHLING WETTER morgen WARM 
+HYP:  ********** ********* ****** morgen AUCH 
+Eval: D          D         D             S    
+
+id: (signer05-049)
+File: 14april_2010_wednesday_heute-1881
+Channel: 1
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  WOHER WARM    
+HYP:  ***** [EMPTY] 
+Eval: D     S       
+
+id: (signer05-050)
+File: 14april_2010_wednesday_heute-1892
+Channel: 1
+Scores: (#C #S #D #I) 0 3 3 0
+REF:  SCHOEN ABEND WUENSCHEN MACHEN GUT   WUENSCHEN   
+HYP:  ****** ***** ********* HEUTE  NACHT WECHSELHAFT 
+Eval: D      D     D         S      S     S           
+
+id: (signer05-051)
+File: 14august_2009_friday_tagesschau-72
+Channel: 1
+Scores: (#C #S #D #I) 3 1 3 0
+REF:  morgen DAENEMARK IX      zwanzig MAXIMAL DREISSIG grad 
+HYP:  morgen ********* FREITAG zwanzig ******* ******** grad 
+Eval:        D         S               D       D             
+
+id: (signer05-052)
+File: 15december_2010_wednesday_tagesschau-40
+Channel: 1
+Scores: (#C #S #D #I) 0 2 3 0
+REF:  DANN STARK SCHNEE SCHNEIEN KOMMEN   
+HYP:  **** ***** ****** AUCH     MEISTENS 
+Eval: D    D     D      S        S        
+
+id: (signer05-053)
+File: 15september_2010_wednesday_heute-2476
+Channel: 1
+Scores: (#C #S #D #I) 0 2 1 0
+REF:  IM-VERLAUF FRUEH   HERBST 
+HYP:  ********** SONNTAG MEHR   
+Eval: D          S       S      
+
+id: (signer05-054)
+File: 15september_2010_wednesday_tagesschau-5209
+Channel: 1
+Scores: (#C #S #D #I) 6 1 1 0
+REF:  samstag nord SCHAUER region freundlich sued IM-VERLAUF regen 
+HYP:  samstag nord REGEN   region freundlich sued ********** regen 
+Eval:              S                              D                
+
+id: (signer05-055)
+File: 15september_2010_wednesday_tagesschau-5210
+Channel: 1
+Scores: (#C #S #D #I) 5 2 4 0
+REF:  SONNTAG ALPEN IX   auch regen nord SCHAUER MITTE mehr FREUNDLICH sonne 
+HYP:  ******* ***** SUED auch regen nord ******* REGEN mehr ********** sonne 
+Eval: D       D     S                    D       S          D                
+
+id: (signer05-056)
+File: 16december_2009_wednesday_tagesschau-5918
+Channel: 1
+Scores: (#C #S #D #I) 1 6 0 0
+REF:  freitag MEHR  WOLKE NEG-SONNE NORDOST SCHNEE SCHNEIEN 
+HYP:  freitag HEUTE NACHT SONNE     NORD    REGION REGEN    
+Eval:         S     S     S         S       S      S        
+
+id: (signer05-057)
+File: 16january_2010_saturday_tagesschau-8073
+Channel: 1
+Scores: (#C #S #D #I) 5 2 7 1
+REF:  WEST TEIL SCHNEE SCHNEIEN TEIL   regen heute nacht moeglich ***** regen MIT EIS GLATT GEFAHR 
+HYP:  **** **** ****** ******** REGION regen heute nacht moeglich HEUTE regen *** *** ***** NACHT  
+Eval: D    D    D      D        S                                 I           D   D   D     S      
+
+id: (signer05-058)
+File: 16july_2011_saturday_tagesschau-7524
+Channel: 1
+Scores: (#C #S #D #I) 6 2 2 1
+REF:  nacht ****** kommen regen stark ost SUEDOST KLAR SEHEN STERN koennen 
+HYP:  nacht REGION kommen regen stark ost ******* **** SUED  SONNE koennen 
+Eval:       I                             D       D    S     S             
+
+id: (signer05-059)
+File: 16september_2010_thursday_tagesschau-6271
+Channel: 1
+Scores: (#C #S #D #I) 2 2 1 0
+REF:  UNGEMUETLICH sued BESSER ALS    nord 
+HYP:  WEST         sued ****** REGION nord 
+Eval: S                 D      S           
+
+id: (signer05-060)
+File: 16september_2010_thursday_tagesschau-6272
+Channel: 1
+Scores: (#C #S #D #I) 3 1 0 2
+REF:  heute nacht nord ******* **** MITTE 
+HYP:  heute nacht nord SCHAUER SUED REGEN 
+Eval:                  I       I    S     
+
+id: (signer05-061)
+File: 16september_2010_thursday_tagesschau-6276
+Channel: 1
+Scores: (#C #S #D #I) 2 3 7 0
+REF:  heute nacht ZWISCHEN FUENF ZWISCHEN TAG MITTE BERG DREIZEHN IX    NEUNZEHN GRAD   
+HYP:  heute nacht ******** ***** ******** *** ***** **** ******** SONNE NORD     REGION 
+Eval:             D        D     D        D   D     D    D        S     S        S      
+
+id: (signer05-062)
+File: 17january_2010_sunday_tagesschau-5554
+Channel: 1
+Scores: (#C #S #D #I) 1 4 4 0
+REF:  TAG HAUPTSAECHLICH WOLKE NEBEL DANN TEIL     SCHNEE SCHNEIEN regen 
+HYP:  *** ************** ***** ***** OST  MEISTENS NACHT  REGION   regen 
+Eval: D   D              D     D     S    S        S      S              
+
+id: (signer05-063)
+File: 17january_2010_sunday_tagesschau-5555
+Channel: 1
+Scores: (#C #S #D #I) 1 2 0 0
+REF:  SUEDWEST BISSCHEN sonne 
+HYP:  SUED     IX       sonne 
+Eval: S        S              
+
+id: (signer05-064)
+File: 18november_2009_wednesday_tagesschau-5583
+Channel: 1
+Scores: (#C #S #D #I) 1 4 0 0
+REF:  WENN   KLAR  MOEGLICH NEBEL nord 
+HYP:  REGION SONNE HEUTE    NACHT nord 
+Eval: S      S     S        S          
+
+id: (signer05-065)
+File: 18november_2009_wednesday_tagesschau-5584
+Channel: 1
+Scores: (#C #S #D #I) 1 3 0 0
+REF:  morgen UEBERWIEGEND WOLKE TROPFEN 
+HYP:  morgen MEISTENS     NACHT SONNE   
+Eval:        S            S     S       
+
+id: (signer05-066)
+File: 18november_2009_wednesday_tagesschau-5585
+Channel: 1
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  SPAETER VERSCHWINDEN 
+HYP:  ******* REGION       
+Eval: D       S            
+
+id: (signer05-067)
+File: 18november_2009_wednesday_tagesschau-5586
+Channel: 1
+Scores: (#C #S #D #I) 1 2 1 0
+REF:  WENN NEBEL NEG-HABEN freundlich 
+HYP:  **** SONNE WOLKE     freundlich 
+Eval: D    S     S                    
+
+id: (signer05-068)
+File: 18november_2009_wednesday_tagesschau-5587
+Channel: 1
+Scores: (#C #S #D #I) 0 3 1 0
+REF:  OST NACHT GEFAHR WIND  
+HYP:  *** NORD  REGION STURM 
+Eval: D   S     S      S     
+
+id: (signer05-069)
+File: 20april_2011_wednesday_tagesschau-3084
+Channel: 1
+Scores: (#C #S #D #I) 5 3 3 0
+REF:  SUEDWEST DEUTSCH LAND bisschen FEUCHT  kommen IX      moeglich schauer gewitter WAHRSCHEINLICH 
+HYP:  ******** ******* SUED bisschen SCHAUER kommen KOENNEN moeglich schauer gewitter ************** 
+Eval: D        D       S             S              S                                 D              
+
+id: (signer05-070)
+File: 20october_2010_wednesday_heute-8493
+Channel: 1
+Scores: (#C #S #D #I) 0 3 0 0
+REF:  HALLO GUT   ABEND 
+HYP:  NACHT HEUTE NACHT 
+Eval: S     S     S     
+
+id: (signer05-071)
+File: 20october_2010_wednesday_heute-8494
+Channel: 1
+Scores: (#C #S #D #I) 0 3 5 0
+REF:  WINTER SCHON HABEN MITTE BERG SCHON WEISS   BODEN   
+HYP:  ****** ***** ***** ***** **** WIND  MAESSIG SAMSTAG 
+Eval: D      D     D     D     D    S     S       S       
+
+id: (signer05-072)
+File: 20october_2010_wednesday_heute-8501
+Channel: 1
+Scores: (#C #S #D #I) 3 2 4 0
+REF:  IX SUED DANN  RUHIG    mehr TROCKEN auch BISSCHEN sonne 
+HYP:  ** **** SONNE GEWITTER mehr ******* auch ******** sonne 
+Eval: D  D    S     S             D            D              
+
+id: (signer05-073)
+File: 22august_2010_sunday_tagesschau-1345
+Channel: 1
+Scores: (#C #S #D #I) 0 5 7 0
+REF:  WIND MAESSIG FRISCH KUESTE IX STARK WENN GEWITTER IX     DANN         STURM  MOEGLICH 
+HYP:  **** ******* ****** ****** ** ***** **** JETZT    WETTER WIE-AUSSEHEN WETTER SONNE    
+Eval: D    D       D      D      D  D     D    S        S      S            S      S        
+
+id: (signer05-074)
+File: 22july_2010_thursday_tagesschau-8194
+Channel: 1
+Scores: (#C #S #D #I) 4 1 2 0
+REF:  jetzt wetter morgen freitag DREI ZWANZIG JULI   
+HYP:  jetzt wetter morgen freitag **** ******* MORGEN 
+Eval:                             D    D       S      
+
+id: (signer05-075)
+File: 22july_2010_thursday_tagesschau-8195
+Channel: 1
+Scores: (#C #S #D #I) 3 0 5 0
+REF:  SKANDINAVIEN nord WOLKE TIEF AUCH DEUTSCHLAND region kommen 
+HYP:  ************ nord ***** **** **** *********** region kommen 
+Eval: D                 D     D    D    D                         
+
+id: (signer05-076)
+File: 23february_2011_wednesday_heute-3780
+Channel: 1
+Scores: (#C #S #D #I) 0 2 3 0
+REF:  SCHOEN ABEND MACHEN POSS-EUCH GUT   
+HYP:  ****** ***** ****** HEUTE     NACHT 
+Eval: D      D     D      S         S     
+
+id: (signer05-077)
+File: 23march_2011_wednesday_tagesschau-8751
+Channel: 1
+Scores: (#C #S #D #I) 2 2 4 0
+REF:  NORDOST WIEDER wolke ABER SONST NUR  bisschen WOLKE 
+HYP:  ******* NORD   wolke **** ***** AUCH bisschen ***** 
+Eval: D       S            D    D     S             D     
+
+id: (signer05-078)
+File: 23november_2011_wednesday_tagesschau-973
+Channel: 1
+Scores: (#C #S #D #I) 4 1 3 1
+REF:  jetzt ****** wie-aussehen wetter morgen DONNERSTAG VIER ZWANZIG NOVEMBER 
+HYP:  jetzt WETTER wie-aussehen wetter morgen ********** **** ******* ABEND    
+Eval:       I                                 D          D    D       S        
+
+id: (signer05-079)
+File: 23november_2011_wednesday_tagesschau-980
+Channel: 1
+Scores: (#C #S #D #I) 3 4 2 0
+REF:  NORDWEST WOLKE MANCHMAL sonne BISSCHEN ix S+H    IX    regen 
+HYP:  ******** NORD  REGION   sonne ******** ix REGION SONNE regen 
+Eval: D        S     S              D           S      S           
+
+id: (signer05-080)
+File: 23november_2011_wednesday_tagesschau-984
+Channel: 1
+Scores: (#C #S #D #I) 1 3 9 0
+REF:  DONNERSTAG DANN WIEDER MEHR WIND IX WIND KOMMEN ANFANG IX     regen KOMMEN GLEICH 
+HYP:  ********** **** ****** **** **** ** **** WETTER NORD   WETTER regen ****** ****** 
+Eval: D          D    D      D    D    D  D    S      S      S            D      D      
+
+id: (signer05-081)
+File: 24june_2011_friday_tagesschau-4071
+Channel: 1
+Scores: (#C #S #D #I) 4 3 3 0
+REF:  IX morgen IM-VERLAUF IX ANFANG freundlich ABER WOLKE  kommen ost 
+HYP:  ** morgen ********** ** REGION freundlich AUCH REGION kommen ost 
+Eval: D         D          D  S                 S    S                 
+
+id: (signer05-082)
+File: 24june_2011_friday_tagesschau-4073
+Channel: 1
+Scores: (#C #S #D #I) 4 0 3 1
+REF:  morgen IX wehen IX nord FRISCH wind ***** 
+HYP:  morgen ** wehen ** nord ****** wind STURM 
+Eval:        D        D       D           I     
+
+id: (signer05-083)
+File: 24may_2010_monday_tagesschau-3142
+Channel: 1
+Scores: (#C #S #D #I) 3 3 1 0
+REF:  nacht TEIL WOLKE TEIL  KLAR  schauer gewitter 
+HYP:  nacht **** NORD  NACHT SONNE schauer gewitter 
+Eval:       D    S     S     S                      
+
+id: (signer05-084)
+File: 24november_2011_thursday_heute-222
+Channel: 1
+Scores: (#C #S #D #I) 2 2 1 0
+REF:  nord NUR WOLKE  FROST sued 
+HYP:  nord *** REGION SONNE sued 
+Eval:      D   S      S          
+
+id: (signer05-085)
+File: 24november_2011_thursday_heute-223
+Channel: 1
+Scores: (#C #S #D #I) 1 3 7 0
+REF:  DRESDEN IX REGION BERG NULL MINUS SECHS nord NEG-FROST NEG-HABEN MILD    
+HYP:  ******* ** ****** **** **** ***** ***** nord WIND      WEST      TROCKEN 
+Eval: D       D  D      D    D    D     D          S         S         S       
+
+id: (signer05-086)
+File: 24september_2009_thursday_heute-6077
+Channel: 1
+Scores: (#C #S #D #I) 1 0 1 4
+REF:  ZWEI tief **** **** ******** ***** 
+HYP:  **** tief SUED NORD GEWITTER SONNE 
+Eval: D         I    I    I        I     
+
+id: (signer05-087)
+File: 25may_2010_tuesday_tagesschau-1294
+Channel: 1
+Scores: (#C #S #D #I) 4 1 3 0
+REF:  heute nacht FLUSS VIERZEHN grad nord MAXIMAL NULL 
+HYP:  heute nacht ***** AUCH     grad nord ******* **** 
+Eval:             D     S                  D       D    
+
+id: (signer05-088)
+File: 25november_2010_thursday_tagesschau-2529
+Channel: 1
+Scores: (#C #S #D #I) 0 2 6 0
+REF:  TAG SUEDOST SCHNEE SCHNEIEN FLACH AUCH SCHNEE SCHNEIEN 
+HYP:  *** ******* ****** ******** ***** **** SUED   REGEN    
+Eval: D   D       D      D        D     D    S      S        
+
+id: (signer05-089)
+File: 25november_2010_thursday_tagesschau-2530
+Channel: 1
+Scores: (#C #S #D #I) 0 2 2 0
+REF:  NORDWEST SCHNEE SCHAUER VERSCHWINDEN 
+HYP:  ******** ****** NORD    NACHT        
+Eval: D        D      S       S            
+
+id: (signer05-090)
+File: 25november_2010_thursday_tagesschau-2536
+Channel: 1
+Scores: (#C #S #D #I) 5 4 3 0
+REF:  SONNTAG IX   wolke teil freundlich trocken MINUS FUENF ZWISCHEN MAXIMAL ZWEI    grad 
+HYP:  SUED    AUCH wolke teil freundlich trocken ***** ***** ******** BIS     ZWANZIG grad 
+Eval: S       S                                  D     D     D        S       S            
+
+id: (signer05-091)
+File: 26may_2010_wednesday_heute-7867
+Channel: 1
+Scores: (#C #S #D #I) 2 2 3 0
+REF:  morgen regen NORDOST SCHNELL VERSCHWINDEN SCHON SCHAUER 
+HYP:  morgen regen ******* ******* ************ NORD  SONNE   
+Eval:              D       D       D            S     S       
+
+id: (signer05-092)
+File: 26september_2009_saturday_tagesschau-2333
+Channel: 1
+Scores: (#C #S #D #I) 7 0 1 0
+REF:  jetzt wetter wie-aussehen morgen sonntag sieben zwanzig SEPTEMBER 
+HYP:  jetzt wetter wie-aussehen morgen sonntag sieben zwanzig ********* 
+Eval:                                                         D         
+
+id: (signer05-093)
+File: 26september_2009_saturday_tagesschau-2335
+Channel: 1
+Scores: (#C #S #D #I) 1 1 2 0
+REF:  NUR nord BISSCHEN WOLKE  
+HYP:  *** nord ******** REGION 
+Eval: D        D        S      
+
+id: (signer05-094)
+File: 26september_2009_saturday_tagesschau-2342
+Channel: 1
+Scores: (#C #S #D #I) 4 2 2 0
+REF:  heute nacht nord ZWOELF LAND ix VIER    GRAD 
+HYP:  heute nacht nord ****** **** ix SAMSTAG NORD 
+Eval:                  D      D       S       S    
+
+id: (signer05-095)
+File: 26september_2009_saturday_tagesschau-2343
+Channel: 1
+Scores: (#C #S #D #I) 3 3 1 0
+REF:  morgen TAG ACHTZEHN MAXIMAL DREI zwanzig grad 
+HYP:  morgen *** NORD     SCHAUER BIS  zwanzig grad 
+Eval:        D   S        S       S                 
+
+id: (signer05-096)
+File: 27october_2009_tuesday_tagesschau-6148
+Channel: 1
+Scores: (#C #S #D #I) 2 2 1 1
+REF:  **** NORDOST TIEF  kommen WOLKE regen 
+HYP:  NORD REGION  SONNE kommen ***** regen 
+Eval: I    S       S            D           
+
+id: (signer05-097)
+File: 28january_2010_thursday_tagesschau-2817
+Channel: 1
+Scores: (#C #S #D #I) 3 2 4 0
+REF:  WIE-AUSSEHEN IN-KOMMEND samstag SCHNEE SCHNEIEN BESONDERS nord WAHRSCHEINLICH sonne 
+HYP:  ************ SUED       samstag ****** ******** REGEN     nord ************** sonne 
+Eval: D            S                  D      D        S              D                    
+
+id: (signer05-098)
+File: 29january_2010_friday_tagesschau-6489
+Channel: 1
+Scores: (#C #S #D #I) 3 3 2 0
+REF:  morgen wechselhaft ABER IX   morgen BISSCHEN BESSER RUHIG  
+HYP:  morgen wechselhaft **** NORD morgen ******** OST    REGION 
+Eval:                    D    S           D        S      S      
+
+id: (signer05-099)
+File: 29january_2010_friday_tagesschau-6490
+Channel: 1
+Scores: (#C #S #D #I) 3 4 6 0
+REF:  nacht SCHNEE MEHR region KOMMEN DANN morgen SCHNEE SCHNEIEN NORDOST LANG  SCHNEE SCHNEIEN 
+HYP:  nacht ****** **** region ****** AUCH morgen ****** ******** ******* REGEN REGION REGEN    
+Eval:       D      D           D      S           D      D        D       S     S      S        
+
+id: (signer05-100)
+File: 29july_2010_thursday_tagesschau-7411
+Channel: 1
+Scores: (#C #S #D #I) 2 2 5 0
+REF:  A HOCH KOMMEN SAMSTAG SONNTAG mehr sonne TEMPERATUR STEIGEN 
+HYP:  * **** ****** OST     REGION  mehr sonne ********** ******* 
+Eval: D D    D      S       S                  D          D       
+
+id: (signer05-101)
+File: 29october_2009_thursday_tagesschau-1011
+Channel: 1
+Scores: (#C #S #D #I) 4 1 1 0
+REF:  jetzt wetter wie-aussehen morgen DREISSIG OKTOBER 
+HYP:  jetzt wetter wie-aussehen morgen ******** NORD    
+Eval:                                  D        S       
+
+id: (signer05-102)
+File: 29september_2011_thursday_heute-4235
+Channel: 1
+Scores: (#C #S #D #I) 0 2 4 0
+REF:  SCHOEN ABEND POSS-EUCH MACHEN GUT   POSS-EUCH 
+HYP:  ****** ***** ********* ****** HEUTE NACHT     
+Eval: D      D     D         D      S     S         
+
+id: (signer05-103)
+File: 30january_2013_wednesday_tagesschau-475
+Channel: 1
+Scores: (#C #S #D #I) 4 1 2 0
+REF:  freitag DANN     kommen regen IX UEBERWIEGEND wind 
+HYP:  freitag GEWITTER kommen regen ** ************ wind 
+Eval:         S                     D  D                 
+
+id: (signer05-104)
+File: 30january_2013_wednesday_tagesschau-477
+Channel: 1
+Scores: (#C #S #D #I) 2 1 5 0
+REF:  SONNTAG WAHRSCHEINLICH freundlich IM-VERLAUF WEST SCHNEE SCHNEIEN regen 
+HYP:  ******* ************** freundlich ********** **** ****** REGION   regen 
+Eval: D       D                         D          D    D      S              
+
+id: (signer05-105)
+File: 30march_2011_wednesday_tagesschau-7127
+Channel: 1
+Scores: (#C #S #D #I) 3 4 6 0
+REF:  samstag SONNTAG HOCH SPANIEN IX   VERBREITEN sonne auch TEIL TATSAECHLICH SCHON SOMMER TEMPERATUR 
+HYP:  samstag ******* **** ******* AUCH KOENNEN    sonne auch **** ************ ***** SONNE  GRAD       
+Eval:         D       D    D       S    S                     D    D            D     S      S          
+
+id: (signer05-106)
+File: 30march_2011_wednesday_tagesschau-7130
+Channel: 1
+Scores: (#C #S #D #I) 4 2 4 0
+REF:  ost region IX sonne WAHRSCHEINLICH DANN ABEND    IX    regen IX 
+HYP:  ost region ** sonne ************** **** GEWITTER NACHT regen ** 
+Eval:            D        D              D    S        S           D  
+
+id: (signer05-107)
+File: 31january_2010_sunday_tagesschau-1333
+Channel: 1
+Scores: (#C #S #D #I) 2 2 6 0
+REF:  morgen NORDWEST ZWEI SONST region MINUS FUENF ZWISCHEN EINS ZWISCHEN 
+HYP:  morgen ******** **** ***** region ***** ***** ******** BIS  SUED     
+Eval:        D        D    D            D     D     D        S    S        
+
+Speaker sentences   2:  signer08   #utts: 60
+id: (signer08-000)
+File: 01february_2011_tuesday_heute-4637
+Channel: 1
+Scores: (#C #S #D #I) 1 3 4 0
+REF:  SUED VERAENDERN KAUM WIE  HEUTE   sonne ODER NEBEL 
+HYP:  **** ********** **** WIND SCHWACH sonne **** NACHT 
+Eval: D    D          D    S    S             D    S     
+
+id: (signer08-001)
+File: 01february_2011_tuesday_tagesschau-4975
+Channel: 1
+Scores: (#C #S #D #I) 0 2 0 0
+REF:  IN-KOMMEND SCHNEE 
+HYP:  SUED       REGEN  
+Eval: S          S      
+
+id: (signer08-002)
+File: 01february_2011_tuesday_tagesschau-4976
+Channel: 1
+Scores: (#C #S #D #I) 7 0 1 0
+REF:  freitag samstag nord wind regen sued freundlich TROCKEN 
+HYP:  freitag samstag nord wind regen sued freundlich ******* 
+Eval:                                                 D       
+
+id: (signer08-003)
+File: 03february_2011_thursday_tagesschau-938
+Channel: 1
+Scores: (#C #S #D #I) 1 3 5 0
+REF:  BAYERN WALD HEUTE ABEND MINUS FUENF FLUSS   DREI    grad 
+HYP:  ****** **** ***** ***** ***** NACHT KOENNEN ZWANZIG grad 
+Eval: D      D    D     D     D     S     S       S            
+
+id: (signer08-004)
+File: 03february_2011_thursday_tagesschau-939
+Channel: 1
+Scores: (#C #S #D #I) 2 1 4 0
+REF:  morgen ZWEI GRAD REGION FLUSS NEUN    grad 
+HYP:  morgen **** **** ****** ***** ZWANZIG grad 
+Eval:        D    D    D      D     S            
+
+id: (signer08-005)
+File: 05may_2011_thursday_tagesschau-25
+Channel: 1
+Scores: (#C #S #D #I) 5 0 3 0
+REF:  jetzt wetter wie-aussehen morgen freitag SECHSTE MAI ZEIGEN-BILDSCHIRM 
+HYP:  jetzt wetter wie-aussehen morgen freitag ******* *** ***************** 
+Eval:                                          D       D   D                 
+
+id: (signer08-006)
+File: 06october_2012_saturday_tagesschau-8729
+Channel: 1
+Scores: (#C #S #D #I) 3 0 4 0
+REF:  jetzt wetter wie-aussehen MORGEN SONNTAG SIEBTE OKTOBER 
+HYP:  jetzt wetter wie-aussehen ****** ******* ****** ******* 
+Eval:                           D      D       D      D       
+
+id: (signer08-007)
+File: 06october_2012_saturday_tagesschau-8730
+Channel: 1
+Scores: (#C #S #D #I) 2 1 5 0
+REF:  morgen DEUTSCH LAND IX      tief KOMMEN KUEHL KOMMEN 
+HYP:  morgen ******* **** FREITAG tief ****** ***** ****** 
+Eval:        D       D    S            D      D     D      
+
+id: (signer08-008)
+File: 06october_2012_saturday_tagesschau-8744
+Channel: 1
+Scores: (#C #S #D #I) 1 3 3 0
+REF:  MITTWOCH TEIL SONNE TEIL   WOLKE BLEIBEN trocken 
+HYP:  ******** **** ***** MORGEN NORD  ABEND   trocken 
+Eval: D        D    D     S      S     S               
+
+id: (signer08-009)
+File: 07december_2011_wednesday_tagesschau-5399
+Channel: 1
+Scores: (#C #S #D #I) 2 2 2 0
+REF:  NACH MITTAG NORDWEST WOLKE  koennen regen 
+HYP:  **** ****** WEST     KOMMEN koennen regen 
+Eval: D    D      S        S                    
+
+id: (signer08-010)
+File: 07october_2012_sunday_tagesschau-3026
+Channel: 1
+Scores: (#C #S #D #I) 0 2 4 0
+REF:  TAG KLAR STERN SEHEN KOENNEN  FROST 
+HYP:  *** **** ***** ***** GEWITTER STURM 
+Eval: D   D    D     D     S        S     
+
+id: (signer08-011)
+File: 09april_2010_friday_tagesschau-7623
+Channel: 1
+Scores: (#C #S #D #I) 4 0 4 0
+REF:  jetzt wetter morgen SAMSTAG ZEHNTE APRIL wie-aussehen ZEIGEN-BILDSCHIRM 
+HYP:  jetzt wetter morgen ******* ****** ***** wie-aussehen ***************** 
+Eval:                     D       D      D                  D                 
+
+id: (signer08-012)
+File: 09april_2010_friday_tagesschau-7632
+Channel: 1
+Scores: (#C #S #D #I) 3 2 3 0
+REF:  nacht NULL BIS ZEHN FLUSS   bis SIEBEN  grad 
+HYP:  nacht **** *** **** ZWANZIG bis ZWANZIG grad 
+Eval:       D    D   D    S           S            
+
+id: (signer08-013)
+File: 09june_2010_wednesday_heute-8266
+Channel: 1
+Scores: (#C #S #D #I) 2 1 7 0
+REF:  freitag BLEIBEN WARM NASS    samstag DANN SUEDWEST REGEN UND KUEHL 
+HYP:  freitag ******* **** TROCKEN samstag **** ******** ***** *** ***** 
+Eval:         D       D    S               D    D        D     D   D     
+
+id: (signer08-014)
+File: 10april_2010_saturday_tagesschau-4140
+Channel: 1
+Scores: (#C #S #D #I) 4 1 7 0
+REF:  morgen VIER GRAD REGION SECHS BIS ELF     grad FLUSS bis ZWOELF grad 
+HYP:  morgen **** **** ****** ***** *** ZWANZIG grad ***** bis ****** grad 
+Eval:        D    D    D      D     D   S            D         D           
+
+id: (signer08-015)
+File: 11april_2010_sunday_tagesschau-8639
+Channel: 1
+Scores: (#C #S #D #I) 2 3 4 0
+REF:  DANN STURM WEHEN OST  FRISCH wind BERG KOENNEN sturm 
+HYP:  **** ***** WIND  NORD SONNE  wind **** ******* sturm 
+Eval: D    D     S     S    S           D    D             
+
+id: (signer08-016)
+File: 11august_2010_wednesday_tagesschau-2
+Channel: 1
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  DRUCK TIEF KOMMEN 
+HYP:  ***** **** SUED   
+Eval: D     D    S      
+
+id: (signer08-017)
+File: 11august_2010_wednesday_tagesschau-3
+Channel: 1
+Scores: (#C #S #D #I) 3 1 4 0
+REF:  ES-BEDEUTET VIEL wolke UND KOENNEN regen gewitter KOENNEN 
+HYP:  *********** **** wolke *** AUCH    regen gewitter ******* 
+Eval: D           D          D   S                      D       
+
+id: (signer08-018)
+File: 11august_2010_wednesday_tagesschau-8
+Channel: 1
+Scores: (#C #S #D #I) 3 3 2 0
+REF:  wind MAESSIG schwach REGION WENN GEWITTER wind KOENNEN 
+HYP:  wind WETTER  schwach ****** **** SUED     wind STURM   
+Eval:      S               D      D    S             S       
+
+id: (signer08-019)
+File: 11december_2010_saturday_tagesschau-8657
+Channel: 1
+Scores: (#C #S #D #I) 3 0 5 0
+REF:  jetzt wetter MORGEN sonntag ZWOELF DEZEMBER WIE-AUSSEHEN ZEIGEN-BILDSCHIRM 
+HYP:  jetzt wetter ****** sonntag ****** ******** ************ ***************** 
+Eval:              D              D      D        D            D                 
+
+id: (signer08-020)
+File: 11december_2010_saturday_tagesschau-8659
+Channel: 1
+Scores: (#C #S #D #I) 2 0 2 0
+REF:  morgen sonne IX KOMMEN 
+HYP:  morgen sonne ** ****** 
+Eval:              D  D      
+
+id: (signer08-021)
+File: 12december_2011_monday_heute-5806
+Channel: 1
+Scores: (#C #S #D #I) 3 1 2 0
+REF:  UND DAZU sturm nord KUESTE sturm 
+HYP:  *** WIND sturm nord ****** sturm 
+Eval: D   S               D            
+
+id: (signer08-022)
+File: 12december_2011_monday_tagesschau-8281
+Channel: 1
+Scores: (#C #S #D #I) 1 2 6 0
+REF:  morgen DREI GRAD REGION BAYERN WALD IX ZWOELF  KOELN   
+HYP:  morgen **** **** ****** ****** **** ** ZWANZIG KOENNEN 
+Eval:        D    D    D      D      D    D  S       S       
+
+id: (signer08-023)
+File: 12december_2011_monday_tagesschau-8282
+Channel: 1
+Scores: (#C #S #D #I) 3 0 2 0
+REF:  MITTWOCH wind KOENNEN sturm regen 
+HYP:  ******** wind ******* sturm regen 
+Eval: D             D                   
+
+id: (signer08-024)
+File: 13august_2011_saturday_tagesschau-1409
+Channel: 1
+Scores: (#C #S #D #I) 3 2 4 0
+REF:  SPEZIELL SUEDOST koennen ORT UNWETTER regen HAGEL sturm KOENNEN 
+HYP:  ******** SUED    koennen *** WIND     regen ***** sturm ******* 
+Eval: D        S               D   S              D           D       
+
+id: (signer08-025)
+File: 13august_2011_saturday_tagesschau-1410
+Channel: 1
+Scores: (#C #S #D #I) 1 2 3 0
+REF:  NORMAL WIND LEICHT      maessig KOMMEN WEHEN  
+HYP:  ****** **** WECHSELHAFT maessig ****** REGION 
+Eval: D      D    S                   D      S      
+
+id: (signer08-026)
+File: 15february_2011_tuesday_tagesschau-7468
+Channel: 1
+Scores: (#C #S #D #I) 5 0 3 0
+REF:  jetzt wetter wie-aussehen morgen mittwoch SECHSZEHN FEBRUAR ZEIGEN-BILDSCHIRM 
+HYP:  jetzt wetter wie-aussehen morgen mittwoch ********* ******* ***************** 
+Eval:                                           D         D       D                 
+
+id: (signer08-027)
+File: 15july_2011_friday_tagesschau-8726
+Channel: 1
+Scores: (#C #S #D #I) 4 0 4 0
+REF:  ix morgen NEUNZEHN GRAD REGION sieben zwanzig GRAD 
+HYP:  ix morgen ******** **** ****** sieben zwanzig **** 
+Eval:           D        D    D                     D    
+
+id: (signer08-028)
+File: 16december_2011_friday_tagesschau-6529
+Channel: 1
+Scores: (#C #S #D #I) 2 2 4 0
+REF:  KOMMEN IX KALT kommen IX SCHNEE GLATT koennen 
+HYP:  ****** ** **** kommen ** REGION REGEN koennen 
+Eval: D      D  D           D  S      S             
+
+id: (signer08-029)
+File: 16december_2011_friday_tagesschau-6532
+Channel: 1
+Scores: (#C #S #D #I) 2 1 8 0
+REF:  morgen NORDOST NOCH REGEN SCHNEE regen BERG IX NOCH SCHNEE DURCHGEHEND 
+HYP:  morgen ******* **** ***** NORD   regen **** ** **** ****** *********** 
+Eval:        D       D    D     S            D    D  D    D      D           
+
+id: (signer08-030)
+File: 16may_2010_sunday_tagesschau-5227
+Channel: 1
+Scores: (#C #S #D #I) 4 1 8 0
+REF:  NORD heute nacht klar HIMMEL STERN KOENNEN SEHEN SUEDWEST regen KOENNEN NEBEL BEREICH 
+HYP:  **** heute nacht klar ****** ***** ******* ***** SUED     regen ******* ***** ******* 
+Eval: D                     D      D     D       D     S              D       D     D       
+
+id: (signer08-031)
+File: 17may_2010_monday_tagesschau-8473
+Channel: 1
+Scores: (#C #S #D #I) 3 1 3 0
+REF:  NORD auch regen DABEI SUEDWEST BLEIBEN trocken 
+HYP:  **** auch regen ***** ******** SUED    trocken 
+Eval: D               D     D        S               
+
+id: (signer08-032)
+File: 17may_2010_monday_tagesschau-8477
+Channel: 1
+Scores: (#C #S #D #I) 4 0 7 0
+REF:  WIE-AUSSEHEN IN-KOMMEND MITTWOCH BLEIBEN wolke ix KOENNEN regen WEST KOENNEN sonne 
+HYP:  ************ ********** ******** ******* wolke ix ******* regen **** ******* sonne 
+Eval: D            D          D        D                D             D    D             
+
+id: (signer08-033)
+File: 19april_2010_monday_heute-781
+Channel: 1
+Scores: (#C #S #D #I) 1 2 3 0
+REF:  sued MEHR RUHIG FREUNDLICH BISSCHEN MILD     
+HYP:  sued **** ***** ********** AUCH     GEWITTER 
+Eval:      D    D     D          S        S        
+
+id: (signer08-034)
+File: 21april_2010_wednesday_heute-3122
+Channel: 1
+Scores: (#C #S #D #I) 2 0 5 0
+REF:  WOCHE warm AUCH sonne JEDEN-TAG GRAD STEIGEN 
+HYP:  ***** warm **** sonne ********* **** ******* 
+Eval: D          D          D         D    D       
+
+id: (signer08-035)
+File: 21april_2010_wednesday_heute-3124
+Channel: 1
+Scores: (#C #S #D #I) 1 0 2 0
+REF:  SCHOEN abend WUENSCHEN 
+HYP:  ****** abend ********* 
+Eval: D            D         
+
+id: (signer08-036)
+File: 21august_2011_sunday_tagesschau-264
+Channel: 1
+Scores: (#C #S #D #I) 0 2 3 0
+REF:  SUEDWEST SOWIESO STERN KOENNEN SEHEN    
+HYP:  ******** ******* ***** SUED    GEWITTER 
+Eval: D        D       D     S       S        
+
+id: (signer08-037)
+File: 21august_2011_sunday_tagesschau-265
+Channel: 1
+Scores: (#C #S #D #I) 4 0 3 0
+REF:  MITTE REGION wolke morgen KOENNEN regen gewitter 
+HYP:  ***** ****** wolke morgen ******* regen gewitter 
+Eval: D     D                   D                      
+
+id: (signer08-038)
+File: 22march_2011_tuesday_tagesschau-4956
+Channel: 1
+Scores: (#C #S #D #I) 2 3 3 1
+REF:  ***** nacht wolke KOMMEN BLEIBEN KLAR HIMMEL   STERN      SEHEN 
+HYP:  HEUTE nacht wolke ****** ******* **** GEWITTER FREUNDLICH IX    
+Eval: I                 D      D       D    S        S          S     
+
+id: (signer08-039)
+File: 23august_2010_monday_heute-5319
+Channel: 1
+Scores: (#C #S #D #I) 1 0 4 0
+REF:  FRISCH morgen ANGENEHM DEUTSCH LAND 
+HYP:  ****** morgen ******** ******* **** 
+Eval: D             D        D       D    
+
+id: (signer08-040)
+File: 23august_2010_monday_heute-5320
+Channel: 1
+Scores: (#C #S #D #I) 2 2 4 0
+REF:  ABER IM-MOMENT DANN VIEL regen REGION OST    region 
+HYP:  **** ********* **** AUCH regen ****** KOMMEN region 
+Eval: D    D         D    S          D      S             
+
+id: (signer08-041)
+File: 23august_2010_monday_heute-5321
+Channel: 1
+Scores: (#C #S #D #I) 2 2 3 0
+REF:  OST LANGSAM ABER SUED WEITER regen gewitter 
+HYP:  *** ******* **** AUCH MEHR   regen gewitter 
+Eval: D   D       D    S    S                     
+
+id: (signer08-042)
+File: 23august_2010_monday_tagesschau-4429
+Channel: 1
+Scores: (#C #S #D #I) 1 2 6 0
+REF:  WOLKE DABEI HEUTE    nacht KOENNEN REGEN KOMMEN SUEDOST REGEN 
+HYP:  ***** ***** GEWITTER nacht ******* ***** ****** ******* SUED  
+Eval: D     D     S              D       D     D      D       S     
+
+id: (signer08-043)
+File: 23august_2010_monday_tagesschau-4430
+Channel: 1
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  DAZU KOENNEN GEWITTER 
+HYP:  **** ******* [EMPTY]  
+Eval: D    D       S        
+
+id: (signer08-044)
+File: 23august_2010_monday_tagesschau-4438
+Channel: 1
+Scores: (#C #S #D #I) 2 0 1 0
+REF:  sued MEHR freundlich 
+HYP:  sued **** freundlich 
+Eval:      D               
+
+id: (signer08-045)
+File: 23may_2011_monday_heute-6459
+Channel: 1
+Scores: (#C #S #D #I) 4 0 3 0
+REF:  dann regen VERSCHWINDEN wind sturm WEST KOMMEN 
+HYP:  dann regen ************ wind sturm **** ****** 
+Eval:            D                       D    D      
+
+id: (signer08-046)
+File: 23may_2011_monday_heute-6461
+Channel: 1
+Scores: (#C #S #D #I) 3 3 2 0
+REF:  DANN ABEND koennen BISSCHEN regen gewitter BERG IX   
+HYP:  **** NACHT koennen AUCH     regen gewitter **** SUED 
+Eval: D    S             S                       D    S    
+
+id: (signer08-047)
+File: 23may_2011_monday_heute-6466
+Channel: 1
+Scores: (#C #S #D #I) 1 1 1 0
+REF:  VIEL regen NEG-HABEN  
+HYP:  **** regen FREUNDLICH 
+Eval: D          S          
+
+id: (signer08-048)
+File: 23may_2011_monday_tagesschau-1097
+Channel: 1
+Scores: (#C #S #D #I) 3 0 3 0
+REF:  IX nord tief KOMMEN WOLKE kommen 
+HYP:  ** nord tief ****** ***** kommen 
+Eval: D            D      D            
+
+id: (signer08-049)
+File: 25february_2011_friday_tagesschau-575
+Channel: 1
+Scores: (#C #S #D #I) 0 1 3 0
+REF:  DIENSTAG RUHIG TROCKEN WETTER 
+HYP:  ******** ***** ******* AUCH   
+Eval: D        D     D       S      
+
+id: (signer08-050)
+File: 26march_2011_saturday_tagesschau-5730
+Channel: 1
+Scores: (#C #S #D #I) 1 1 2 0
+REF:  BERG IX DURCHGEHEND regen 
+HYP:  **** ** SUED        regen 
+Eval: D    D  S                 
+
+id: (signer08-051)
+File: 26march_2011_saturday_tagesschau-5731
+Channel: 1
+Scores: (#C #S #D #I) 3 2 2 0
+REF:  DIENSTAG UEBERALL VIEL   sonne wolke LOCKER trocken 
+HYP:  ******** IX       REGION sonne wolke ****** trocken 
+Eval: D        S        S                  D              
+
+id: (signer08-052)
+File: 27july_2010_tuesday_heute-5261
+Channel: 1
+Scores: (#C #S #D #I) 0 1 3 0
+REF:  LIEB ZUSCHAUER GUT ABEND 
+HYP:  **** ********* *** NACHT 
+Eval: D    D         D   S     
+
+id: (signer08-053)
+File: 27may_2011_friday_tagesschau-8122
+Channel: 1
+Scores: (#C #S #D #I) 2 0 4 0
+REF:  morgen A HOCH kommen REGION FREUNDLICH 
+HYP:  morgen * **** kommen ****** ********** 
+Eval:        D D           D      D          
+
+id: (signer08-054)
+File: 27may_2011_friday_tagesschau-8133
+Channel: 1
+Scores: (#C #S #D #I) 6 1 4 1
+REF:  DIENSTAG kommen regen KOENNEN gewitter **** UNWETTER regen HAGEL KRAEFTIG wind koennen 
+HYP:  ******** kommen regen ******* gewitter WIND STURM    regen ***** ******** wind koennen 
+Eval: D                     D                I    S              D     D                     
+
+id: (signer08-055)
+File: 28may_2010_friday_tagesschau-7496
+Channel: 1
+Scores: (#C #S #D #I) 1 1 6 0
+REF:  HOCH KOMMEN OST KOMMEN ES-BEDEUTET morgen FREUNDLICH WETTER 
+HYP:  **** ****** *** ****** REGION      morgen ********** ****** 
+Eval: D    D      D   D      S                  D          D      
+
+id: (signer08-056)
+File: 30november_2010_tuesday_tagesschau-4617
+Channel: 1
+Scores: (#C #S #D #I) 2 2 1 0
+REF:  SKANDINAVIEN HOCH kommen KALT  kommen 
+HYP:  ************ OST  kommen STURM kommen 
+Eval: D            S           S            
+
+id: (signer08-057)
+File: 30november_2010_tuesday_tagesschau-4618
+Channel: 1
+Scores: (#C #S #D #I) 3 0 6 0
+REF:  FRANKREICH KOMMEN tief KOMMEN WOLKE kommen KOENNEN schnee REGEN 
+HYP:  ********** ****** tief ****** ***** kommen ******* schnee ***** 
+Eval: D          D           D      D            D              D     
+
+id: (signer08-058)
+File: 30november_2010_tuesday_tagesschau-4620
+Channel: 1
+Scores: (#C #S #D #I) 3 3 2 0
+REF:  KUESTE heute nacht SCHNEE region WOLKE BISSCHEN TROCKEN 
+HYP:  ****** heute nacht REGEN  region ***** AUCH     SCHAUER 
+Eval: D                  S             D     S        S       
+
+id: (signer08-059)
+File: 30november_2010_tuesday_tagesschau-4621
+Channel: 1
+Scores: (#C #S #D #I) 3 0 1 0
+REF:  nord morgen KOENNEN sonne 
+HYP:  nord morgen ******* sonne 
+Eval:             D             
+
+Speaker sentences   3:  signer09   #utts: 17
+id: (signer09-000)
+File: 01july_2009_wednesday_tagesschau-4555
+Channel: 1
+Scores: (#C #S #D #I) 4 1 1 0
+REF:  morgen nord KAUM GEWITTER region sonne 
+HYP:  morgen nord **** AUCH     region sonne 
+Eval:             D    S                     
+
+id: (signer09-001)
+File: 06july_2009_monday_tagesschau-2109
+Channel: 1
+Scores: (#C #S #D #I) 3 3 2 0
+REF:  morgen WERT EIFEL ACHTZEHN bis SECHS  zwanzig LAND   
+HYP:  morgen **** ***** REGEN    bis SIEBEN zwanzig REGION 
+Eval:        D    D     S            S              S      
+
+id: (signer09-002)
+File: 07january_2010_thursday_tagesschau-2301
+Channel: 1
+Scores: (#C #S #D #I) 2 4 4 0
+REF:  heute nacht TEMPERATUR MINUS DREI MINUS SIEBZEHN WENN KLAR TIEF 
+HYP:  heute nacht ********** ***** **** ***** REGION   BIS  BERG NORD 
+Eval:             D          D     D    D     S        S    S    S    
+
+id: (signer09-003)
+File: 07january_2010_thursday_tagesschau-2302
+Channel: 1
+Scores: (#C #S #D #I) 1 2 2 0
+REF:  TAG MINUS SIEBEN  nord NULL 
+HYP:  *** NORD  SCHWACH nord **** 
+Eval: D   S     S            D    
+
+id: (signer09-004)
+File: 08january_2010_friday_tagesschau-3984
+Channel: 1
+Scores: (#C #S #D #I) 2 4 3 1
+REF:  WIE-AUSSEHEN IN-KOMMEND SONNTAG OST  SPEZIELL SCHNEE nord BLEIBEN wind ***** 
+HYP:  ************ ********** ******* NORD REGION   REGEN  nord REGION  wind STURM 
+Eval: D            D          D       S    S        S           S            I     
+
+id: (signer09-005)
+File: 09january_2010_saturday_tagesschau-1919
+Channel: 1
+Scores: (#C #S #D #I) 5 0 2 0
+REF:  jetzt wetter wie-aussehen morgen sonntag ZEHNTE JANUAR 
+HYP:  jetzt wetter wie-aussehen morgen sonntag ****** ****** 
+Eval:                                          D      D      
+
+id: (signer09-006)
+File: 12february_2010_friday_tagesschau-125
+Channel: 1
+Scores: (#C #S #D #I) 2 3 0 0
+REF:  morgen MAL   sonne SPEZIELL ALPEN 
+HYP:  morgen HEUTE sonne WEST     SUED  
+Eval:        S           S        S     
+
+id: (signer09-007)
+File: 12february_2010_friday_tagesschau-126
+Channel: 1
+Scores: (#C #S #D #I) 2 2 3 0
+REF:  MAL BISSCHEN SCHNEE nord MEHR STARK schnee 
+HYP:  *** MORGEN   AUCH   nord **** ***** schnee 
+Eval: D   S        S           D    D            
+
+id: (signer09-008)
+File: 13february_2010_saturday_tagesschau-6036
+Channel: 1
+Scores: (#C #S #D #I) 4 1 1 1
+REF:  ***** wetter wie-aussehen morgen sonntag VIERZEHN FEBRUAR 
+HYP:  JETZT wetter wie-aussehen morgen sonntag ******** NORD    
+Eval: I                                        D        S       
+
+id: (signer09-009)
+File: 13february_2010_saturday_tagesschau-6044
+Channel: 1
+Scores: (#C #S #D #I) 2 3 5 0
+REF:  WIE-AUSSEHEN IN-KOMMEND MONTAG MAL    sonne MAL wolke WEST BISSCHEN SCHNEE 
+HYP:  ************ ********** ****** MORGEN sonne *** wolke **** NORD     REGION 
+Eval: D            D          D      S            D         D    S        S      
+
+id: (signer09-010)
+File: 13november_2009_friday_tagesschau-8610
+Channel: 1
+Scores: (#C #S #D #I) 3 2 5 0
+REF:  heute nacht DREIZEHN bis DREI GRAD ALPEN WAHRSCHEINLICH ZWISCHEN NULL   
+HYP:  heute nacht ******** bis **** **** ***** ************** NORD     MORGEN 
+Eval:             D            D    D    D     D              S        S      
+
+id: (signer09-011)
+File: 19february_2010_friday_tagesschau-4101
+Channel: 1
+Scores: (#C #S #D #I) 1 0 4 0
+REF:  NAECHSTE WOCHE MILD ABER wechselhaft 
+HYP:  ******** ***** **** **** wechselhaft 
+Eval: D        D     D    D                
+
+id: (signer09-012)
+File: 19july_2009_sunday_tagesschau-1568
+Channel: 1
+Scores: (#C #S #D #I) 1 2 6 0
+REF:  MONTAG MEISTENS TIEF DRUCK region LUFT MEER LUFT KOMMEN 
+HYP:  ****** ******** **** SONNE region **** **** **** NORD   
+Eval: D      D        D    S            D    D    D    S      
+
+id: (signer09-013)
+File: 19october_2009_monday_tagesschau-229
+Channel: 1
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  jetzt wetter wie-aussehen morgen 
+HYP:  jetzt wetter wie-aussehen morgen 
+Eval:                                  
+
+id: (signer09-014)
+File: 20october_2009_tuesday_tagesschau-3586
+Channel: 1
+Scores: (#C #S #D #I) 5 0 3 0
+REF:  JETZT wie-aussehen wetter morgen mittwoch EINS zwanzig OKTOBER 
+HYP:  ***** wie-aussehen wetter morgen mittwoch **** zwanzig ******* 
+Eval: D                                         D            D       
+
+id: (signer09-015)
+File: 20october_2009_tuesday_tagesschau-3594
+Channel: 1
+Scores: (#C #S #D #I) 4 2 0 0
+REF:  ABEND FLUSS west region moeglich regen 
+HYP:  HEUTE NACHT west region moeglich regen 
+Eval: S     S                                
+
+id: (signer09-016)
+File: 20october_2009_tuesday_tagesschau-3595
+Channel: 1
+Scores: (#C #S #D #I) 1 0 3 0
+REF:  wind WEHEN MAESSIG WEHEN 
+HYP:  wind ***** ******* ***** 
+Eval:      D     D       D     
+
+Speaker sentences   4:  signer01   #utts: 138
+id: (signer01-000)
+File: 01june_2010_tuesday_tagesschau-5002
+Channel: 1
+Scores: (#C #S #D #I) 3 1 2 0
+REF:  morgen WETTER wie-aussehen mittwoch ZWEITE JUNI 
+HYP:  morgen ABEND  wie-aussehen mittwoch ****** **** 
+Eval:        S                            D      D    
+
+id: (signer01-001)
+File: 01march_2011_tuesday_tagesschau-2209
+Channel: 1
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  morgen MEISTENS sonne 
+HYP:  morgen STARK    sonne 
+Eval:        S              
+
+id: (signer01-002)
+File: 01march_2011_tuesday_tagesschau-2210
+Channel: 1
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  nord koennen BEWOELKT 
+HYP:  nord koennen SCHNEE   
+Eval:              S        
+
+id: (signer01-003)
+File: 01march_2011_tuesday_tagesschau-2211
+Channel: 1
+Scores: (#C #S #D #I) 2 2 8 0
+REF:  REGION WEHEN SUED VIEL FRISCH WIND  bisschen STURM BERG  sturm ORKAN KOENNEN 
+HYP:  ****** ***** **** **** ****** STURM bisschen ***** SONNE sturm ***** ******* 
+Eval: D      D     D    D    D      S              D     S           D     D       
+
+id: (signer01-004)
+File: 02june_2010_wednesday_heute-6796
+Channel: 1
+Scores: (#C #S #D #I) 2 1 5 0
+REF:  SAMSTAG AUCH DANN     sonntag WEST BISSCHEN SCHAUER gewitter 
+HYP:  ******* **** GEWITTER sonntag **** ******** ******* gewitter 
+Eval: D       D    S                D    D        D                
+
+id: (signer01-005)
+File: 02june_2010_wednesday_tagesschau-7160
+Channel: 1
+Scores: (#C #S #D #I) 6 2 9 0
+REF:  heute nacht SECHS bis DREIZEHN grad TAG TEMPERATUR STEIGEN ZEHN GRAD   ALPEN bis FUENF zwanzig GRAD WEST 
+HYP:  heute nacht ***** bis ******** grad *** ********** ******* **** SIEBEN SUED  bis ***** zwanzig **** **** 
+Eval:             D         D             D   D          D       D    S      S         D             D    D    
+
+id: (signer01-006)
+File: 03august_2010_tuesday_tagesschau-2776
+Channel: 1
+Scores: (#C #S #D #I) 2 1 3 0
+REF:  DANN kommen SCHAUER STARK MIT   gewitter 
+HYP:  **** kommen ******* ***** SONNE gewitter 
+Eval: D           D       D     S              
+
+id: (signer01-007)
+File: 04april_2011_monday_heute-965
+Channel: 1
+Scores: (#C #S #D #I) 1 0 5 0
+REF:  morgen MEHR WARM IX ALS HEUTE 
+HYP:  morgen **** **** ** *** ***** 
+Eval:        D    D    D  D   D     
+
+id: (signer01-008)
+File: 04april_2011_monday_heute-966
+Channel: 1
+Scores: (#C #S #D #I) 2 0 3 0
+REF:  VIERZEHN BIS NEUNZEHN grad koennen 
+HYP:  ******** *** ******** grad koennen 
+Eval: D        D   D                     
+
+id: (signer01-009)
+File: 04february_2010_thursday_heute-7966
+Channel: 1
+Scores: (#C #S #D #I) 0 2 15 0
+REF:  SCHNEE WARUM HEUTE NACHT KALT ZEIGEN-BILDSCHIRM LEICHT FROST MINUS EINS BIS MINUS VIER NUR WEST FROST KEIN  
+HYP:  ****** ***** ***** ***** **** ***************** ****** ***** ***** **** *** ***** **** *** **** WIND  STURM 
+Eval: D      D     D     D     D    D                 D      D     D     D    D   D     D    D   D    S     S     
+
+id: (signer01-010)
+File: 04february_2010_thursday_heute-7970
+Channel: 1
+Scores: (#C #S #D #I) 5 1 6 0
+REF:  nord TAG REGEN KOMMEN NOCH-NICHT sonne freundlich sonne DABEI UND  sturm WIND 
+HYP:  nord *** ***** ****** ********** sonne freundlich sonne ***** AUCH sturm **** 
+Eval:      D   D     D      D                                 D     S          D    
+
+id: (signer01-011)
+File: 04january_2010_monday_heute-7399
+Channel: 1
+Scores: (#C #S #D #I) 1 2 6 0
+REF:  SCHWARZ WALD FUENF ZWANZIG C+M HARZ bis SECHZIG C+M     
+HYP:  ******* **** ***** ******* *** OST  bis ******* ZWANZIG 
+Eval: D       D    D     D       D   S        D       S       
+
+id: (signer01-012)
+File: 04january_2010_monday_heute-7401
+Channel: 1
+Scores: (#C #S #D #I) 3 1 4 0
+REF:  region ANDERS MILD HINREICHEND heute nacht HINREICHEND SCHNEE 
+HYP:  region ****** **** TROCKEN     heute nacht *********** ****** 
+Eval:        D      D    S                       D           D      
+
+id: (signer01-013)
+File: 04may_2011_wednesday_heute-3996
+Channel: 1
+Scores: (#C #S #D #I) 6 1 8 0
+REF:  LANGSAM STEIGEN WARM FLUSS ACHTZEHN bis zwanzig grad region ZWOELF bis ACHTZEHN grad KUEHL POSS-SEIN 
+HYP:  ******* ******* **** ***** ******** bis zwanzig grad region ****** bis ******** grad ***** SONNE     
+Eval: D       D       D    D     D                                D          D             D     S         
+
+id: (signer01-014)
+File: 04october_2010_monday_heute-5945
+Channel: 1
+Scores: (#C #S #D #I) 0 2 3 0
+REF:  LIEB ZUSCHAUER POSS-EUCH GUT   ABEND 
+HYP:  **** ********* ********* SONNE NACHT 
+Eval: D    D         D         S     S     
+
+id: (signer01-015)
+File: 04october_2010_monday_heute-5954
+Channel: 1
+Scores: (#C #S #D #I) 3 0 2 0
+REF:  ZWANZIG bis UEBER zwanzig grad 
+HYP:  ******* bis ***** zwanzig grad 
+Eval: D           D                  
+
+id: (signer01-016)
+File: 05april_2011_tuesday_tagesschau-6420
+Channel: 1
+Scores: (#C #S #D #I) 4 0 1 0
+REF:  region kommen sonne SEHEN koennen 
+HYP:  region kommen sonne ***** koennen 
+Eval:                     D             
+
+id: (signer01-017)
+File: 05december_2009_saturday_tagesschau-4701
+Channel: 1
+Scores: (#C #S #D #I) 4 0 7 0
+REF:  IX AUCH wind DABEI TEMPERATUR FUENF bis UNGEFAEHR DREIZEHN grad region 
+HYP:  ** **** wind ***** ********** ***** bis ********* ******** grad region 
+Eval: D  D         D     D          D         D         D                    
+
+id: (signer01-018)
+File: 05february_2010_friday_tagesschau-2919
+Channel: 1
+Scores: (#C #S #D #I) 4 2 5 0
+REF:  heute nacht TEMPERATUR MINUS FUENF nord bis PLUS DREI WEST FLUSS 
+HYP:  heute nacht ********** GRAD  BIS   nord bis **** **** **** ***** 
+Eval:             D          S     S              D    D    D    D     
+
+id: (signer01-019)
+File: 05february_2010_friday_tagesschau-2920
+Channel: 1
+Scores: (#C #S #D #I) 1 4 4 0
+REF:  IX PLUS SECHS   grad VOR POMMERN REGION BISSCHEN FROST 
+HYP:  ** **** ZWANZIG grad *** ******* MORGEN WIND     STURM 
+Eval: D  D    S            D   D       S      S        S     
+
+id: (signer01-020)
+File: 05january_2010_tuesday_tagesschau-2672
+Channel: 1
+Scores: (#C #S #D #I) 4 1 5 0
+REF:  heute nacht MINUS ZWEI nord MITTE MINUS EINS ZWANZIG grad 
+HYP:  heute nacht ***** **** nord ***** ***** **** BIS     grad 
+Eval:             D     D         D     D     D    S            
+
+id: (signer01-021)
+File: 05july_2010_monday_tagesschau-1200
+Channel: 1
+Scores: (#C #S #D #I) 3 2 3 0
+REF:  TAG  sonne WOLKE wechselhaft TEILWEISE AUCH LANG     sonne 
+HYP:  NORD sonne ***** wechselhaft ********* **** GEWITTER sonne 
+Eval: S          D                 D         D    S              
+
+id: (signer01-022)
+File: 05october_2011_wednesday_heute-1069
+Channel: 1
+Scores: (#C #S #D #I) 0 2 3 0
+REF:  LIEB ZUSCHAUER POSS-EUCH GUT   ABEND 
+HYP:  **** ********* ********* HEUTE NACHT 
+Eval: D    D         D         S     S     
+
+id: (signer01-023)
+File: 06january_2010_wednesday_heute-3523
+Channel: 1
+Scores: (#C #S #D #I) 2 2 2 0
+REF:  heute nacht MEHR SCHNEE NORD SUEDOST 
+HYP:  heute nacht **** ****** OST  SUED    
+Eval:             D    D      S    S       
+
+id: (signer01-024)
+File: 06january_2010_wednesday_heute-3525
+Channel: 1
+Scores: (#C #S #D #I) 3 1 4 0
+REF:  morgen BESONDERS NORD region UND west REGEN KOENNEN 
+HYP:  morgen ********* OST  region *** west ***** ******* 
+Eval:        D         S           D        D     D       
+
+id: (signer01-025)
+File: 06january_2010_wednesday_heute-3530
+Channel: 1
+Scores: (#C #S #D #I) 1 1 3 0
+REF:  wind KOMMEN DANN SCHNEE WITTERUNG 
+HYP:  wind ****** **** ****** STURM     
+Eval:      D      D    D      S         
+
+id: (signer01-026)
+File: 06january_2010_wednesday_tagesschau-7726
+Channel: 1
+Scores: (#C #S #D #I) 2 4 7 1
+REF:  GROSSBRITANNIEN REGION FRANKREICH MITTE EUROPA REGION TIEF kommen SCHNEIEN SCHNEE WENIG NUR ix ******** 
+HYP:  *************** ****** ********** HEUTE NACHT  OST    IX   kommen ******** ****** ***** *** ix GEWITTER 
+Eval: D               D      D          S     S      S      S           D        D      D     D      I        
+
+id: (signer01-027)
+File: 06may_2011_friday_tagesschau-6438
+Channel: 1
+Scores: (#C #S #D #I) 1 0 5 0
+REF:  MONTAG WEITER SONNE west SCHAUER GEWITTER 
+HYP:  ****** ****** ***** west ******* ******** 
+Eval: D      D      D          D       D        
+
+id: (signer01-028)
+File: 06october_2010_wednesday_tagesschau-632
+Channel: 1
+Scores: (#C #S #D #I) 1 2 9 0
+REF:  IN-KOMMEND BLEIBEN LUFT DRUCK HOCH KOMMEN BEDEUTEN NEBEL HIMMEL UND        sonne MISCHUNG 
+HYP:  ********** ******* **** ***** **** ****** ******** ***** MEHR   FREUNDLICH sonne ******** 
+Eval: D          D       D    D     D    D      D        D     S      S                D        
+
+id: (signer01-029)
+File: 06october_2010_wednesday_tagesschau-640
+Channel: 1
+Scores: (#C #S #D #I) 1 1 10 0
+REF:  morgen DREIZEHN REGION SUEDWEST IX VIER ZWANZIG GRAD PASSEN FAST WIE SOMMER 
+HYP:  morgen ******** ****** ******** ** **** ******* **** ****** **** *** BIS    
+Eval:        D        D      D        D  D    D       D    D      D    D   S      
+
+id: (signer01-030)
+File: 06october_2011_thursday_heute-5532
+Channel: 1
+Scores: (#C #S #D #I) 0 2 2 0
+REF:  LIEB ZUSCHAUER GUT   ABEND 
+HYP:  **** ********* SONNE NACHT 
+Eval: D    D         S     S     
+
+id: (signer01-031)
+File: 07april_2011_thursday_tagesschau-8102
+Channel: 1
+Scores: (#C #S #D #I) 3 1 6 0
+REF:  SUED WEHEN IX WEHEN KOENNEN STURM koennen nord SCHWER sturm 
+HYP:  **** ***** ** ***** ******* SONNE koennen nord ****** sturm 
+Eval: D    D     D  D     D       S                  D            
+
+id: (signer01-032)
+File: 08october_2009_thursday_tagesschau-5348
+Channel: 1
+Scores: (#C #S #D #I) 4 1 3 0
+REF:  heute nacht nord MITTE KLAR STERN koennen SEHEN 
+HYP:  heute nacht nord ***** **** AUCH  koennen ***** 
+Eval:                  D     D    S             D     
+
+id: (signer01-033)
+File: 08october_2009_thursday_tagesschau-5349
+Channel: 1
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  region NEBEL  
+HYP:  region KOMMEN 
+Eval:        S      
+
+id: (signer01-034)
+File: 08october_2009_thursday_tagesschau-5350
+Channel: 1
+Scores: (#C #S #D #I) 3 1 2 0
+REF:  sued regen koennen DABEI BLITZ DONNER   
+HYP:  sued regen koennen ***** ***** GEWITTER 
+Eval:                    D     D     S        
+
+id: (signer01-035)
+File: 08october_2009_thursday_tagesschau-5351
+Channel: 1
+Scores: (#C #S #D #I) 3 1 6 0
+REF:  MORGEN region REGEN DABEI nord DANN AUFLOESEN DANN sonne DABEI 
+HYP:  ****** region ***** ***** nord **** ********* BIS  sonne ***** 
+Eval: D             D     D          D    D         S          D     
+
+id: (signer01-036)
+File: 09august_2009_sunday_tagesschau-1179
+Channel: 1
+Scores: (#C #S #D #I) 4 1 2 1
+REF:  morgen west TIEF kommen RICHTUNG ost ****** AUFZIEHEN 
+HYP:  morgen west **** kommen ******** ost KOMMEN REGEN     
+Eval:             D           D            I      S         
+
+id: (signer01-037)
+File: 09august_2009_sunday_tagesschau-1180
+Channel: 1
+Scores: (#C #S #D #I) 2 0 1 0
+REF:  REGEN gewitter stark 
+HYP:  ***** gewitter stark 
+Eval: D                    
+
+id: (signer01-038)
+File: 09august_2009_sunday_tagesschau-1181
+Channel: 1
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  NORDWEST SPAETER AUFLOESEN 
+HYP:  ******** ******* MEHR      
+Eval: D        D       S         
+
+id: (signer01-039)
+File: 09august_2009_sunday_tagesschau-1182
+Channel: 1
+Scores: (#C #S #D #I) 4 0 3 0
+REF:  jetzt IN-KOMMEND IX regen gewitter koennen STARK 
+HYP:  jetzt ********** ** regen gewitter koennen ***** 
+Eval:       D          D                         D     
+
+id: (signer01-040)
+File: 09july_2009_thursday_tagesschau-7110
+Channel: 1
+Scores: (#C #S #D #I) 4 1 1 0
+REF:  morgen wetter wie-aussehen freitag ZEHNTE JULI     
+HYP:  morgen wetter wie-aussehen freitag ****** GEWITTER 
+Eval:                                    D      S        
+
+id: (signer01-041)
+File: 09july_2009_thursday_tagesschau-7122
+Channel: 1
+Scores: (#C #S #D #I) 3 5 2 0
+REF:  SAMSTAG SUEDWEST UEBERWIEGEND trocken IX sonne SCHAUER NORDWEST DANN    gewitter 
+HYP:  ******* SUED     STARK        trocken ** sonne REGEN   NORD     KOENNEN gewitter 
+Eval: D       S        S                    D        S       S        S                
+
+id: (signer01-042)
+File: 09march_2011_wednesday_heute-1742
+Channel: 1
+Scores: (#C #S #D #I) 4 2 3 0
+REF:  auch wind STARK STROEMEN region STURM ORKAN KUESTE koennen 
+HYP:  auch wind ***** SIEBEN   region ***** ***** SONNE  koennen 
+Eval:           D     S               D     D     S              
+
+id: (signer01-043)
+File: 09may_2011_monday_tagesschau-8583
+Channel: 1
+Scores: (#C #S #D #I) 5 0 3 0
+REF:  morgen zwanzig GRAD nord bis ACHT zwanzig REGION 
+HYP:  morgen zwanzig **** nord bis **** zwanzig ****** 
+Eval:                D             D            D      
+
+id: (signer01-044)
+File: 09may_2011_monday_tagesschau-8585
+Channel: 1
+Scores: (#C #S #D #I) 3 1 2 0
+REF:  DONNERSTAG sonne TEILWEISE regen STARK   gewitter 
+HYP:  ********** sonne ********* regen KOENNEN gewitter 
+Eval: D                D               S                
+
+id: (signer01-045)
+File: 09may_2011_monday_tagesschau-8586
+Channel: 1
+Scores: (#C #S #D #I) 2 1 1 0
+REF:  freitag RUHIG MEHR   kuehl 
+HYP:  freitag ***** REGION kuehl 
+Eval:         D     S            
+
+id: (signer01-046)
+File: 10august_2009_monday_heute-6891
+Channel: 1
+Scores: (#C #S #D #I) 1 2 4 0
+REF:  ABER JETZT ost KOMMEN SCHWUEL LUFT AUFZIEHEN 
+HYP:  **** AUCH  ost ****** ******* **** REGION    
+Eval: D    S         D      D       D    S         
+
+id: (signer01-047)
+File: 10august_2009_monday_heute-6892
+Channel: 1
+Scores: (#C #S #D #I) 1 2 5 0
+REF:  NEU KOMMEN regen ABER MEHR ANGENEHM NASE     LUFT       
+HYP:  *** ****** regen **** **** ******** GEWITTER FREUNDLICH 
+Eval: D   D            D    D    D        S        S          
+
+id: (signer01-048)
+File: 10december_2011_saturday_tagesschau-5420
+Channel: 1
+Scores: (#C #S #D #I) 1 2 3 0
+REF:  AB montag IN-KOMMEND WETTER WECHSELHAFT WIND  
+HYP:  ** montag ********** ****** GEWITTER    STURM 
+Eval: D         D          D      S           S     
+
+id: (signer01-049)
+File: 10december_2011_saturday_tagesschau-5421
+Channel: 1
+Scores: (#C #S #D #I) 1 2 1 0
+REF:  AB   DIENSTAG sturm KOENNEN 
+HYP:  NORD WIND     sturm ******* 
+Eval: S    S              D       
+
+id: (signer01-050)
+File: 10december_2011_saturday_tagesschau-5422
+Channel: 1
+Scores: (#C #S #D #I) 1 2 2 0
+REF:  TEIL regen BERG MOEGLICH SCHNEE 
+HYP:  **** regen **** KOENNEN  REGEN  
+Eval: D          D    S        S      
+
+id: (signer01-051)
+File: 10december_2011_saturday_tagesschau-5423
+Channel: 1
+Scores: (#C #S #D #I) 0 2 6 0
+REF:  ABER IN-KOMMEND MILD DANN WIEDER SCHNEE GRENZE  AUF      
+HYP:  **** ********** **** **** ****** ****** TROCKEN BISSCHEN 
+Eval: D    D          D    D    D      D      S       S        
+
+id: (signer01-052)
+File: 10january_2011_monday_heute-1375
+Channel: 1
+Scores: (#C #S #D #I) 0 2 5 0
+REF:  REGEN DANN MITTWOCH REGEN DONNERSTAG STARK REGEN    
+HYP:  ***** **** ******** ***** ********** SONNE GEWITTER 
+Eval: D     D    D        D     D          S     S        
+
+id: (signer01-053)
+File: 10january_2011_monday_tagesschau-6404
+Channel: 1
+Scores: (#C #S #D #I) 0 4 2 0
+REF:  HEUTE-NACHT TROCKEN IX    REGEN MEISTENS REGION 
+HYP:  *********** ******* HEUTE NACHT KOENNEN  KOMMEN 
+Eval: D           D       S     S     S        S      
+
+id: (signer01-054)
+File: 10january_2011_monday_tagesschau-6409
+Channel: 1
+Scores: (#C #S #D #I) 1 3 3 0
+REF:  HEUTE-NACHT IX EINS GRAD  MINUS SIEBEN region 
+HYP:  *********** ** **** HEUTE NACHT BIS    region 
+Eval: D           D  D    S     S     S             
+
+id: (signer01-055)
+File: 10march_2011_thursday_heute-51
+Channel: 1
+Scores: (#C #S #D #I) 4 2 8 0
+REF:  SUEDWEST KOMMEN WARM morgen SCHON FRANKREICH REGION FUENFZEHN bis ZWANZIG grad WOCHENENDE KOMMEN warm 
+HYP:  ******** ****** SUED morgen ***** ********** ****** ********* bis ******* grad ********** WEST   warm 
+Eval: D        D      S           D     D          D      D             D            D          S           
+
+id: (signer01-056)
+File: 10march_2011_thursday_tagesschau-5086
+Channel: 1
+Scores: (#C #S #D #I) 4 4 3 0
+REF:  sonntag west NORDWEST WIEDER VIEL WOLKE bisschen REGEN OST  KOMMEN freundlich 
+HYP:  sonntag west ******** ****** NORD SONNE bisschen ***** GRAD REGION freundlich 
+Eval:              D        D      S    S              D     S    S                 
+
+id: (signer01-057)
+File: 11february_2011_friday_tagesschau-7755
+Channel: 1
+Scores: (#C #S #D #I) 1 3 3 0
+REF:  WOCHENENDE IM-VERLAUF MONTAG DIENSTAG NORDOST DANN kalt 
+HYP:  ********** ********** ****** SONNTAG  MORGEN  NORD kalt 
+Eval: D          D          D      S        S       S         
+
+id: (signer01-058)
+File: 11may_2010_tuesday_tagesschau-1960
+Channel: 1
+Scores: (#C #S #D #I) 2 1 3 0
+REF:  morgen WETTER wie-aussehen MITTWOCH ZWOELF MAI 
+HYP:  morgen ABEND  wie-aussehen ******** ****** *** 
+Eval:        S                   D        D      D   
+
+id: (signer01-059)
+File: 11may_2010_tuesday_tagesschau-1964
+Channel: 1
+Scores: (#C #S #D #I) 4 1 4 0
+REF:  TAG DANN nord region regen SUEDOST DOCH BISSCHEN freundlich 
+HYP:  *** **** nord region regen ******* **** SUED     freundlich 
+Eval: D   D                      D       D    S                   
+
+id: (signer01-060)
+File: 11may_2010_tuesday_tagesschau-1971
+Channel: 1
+Scores: (#C #S #D #I) 2 1 5 0
+REF:  SAMSTAG nord SUEDOST regen ABER GLEICH ZEIT WIND     
+HYP:  ******* nord ******* regen **** ****** **** GEWITTER 
+Eval: D            D             D    D      D    S        
+
+id: (signer01-061)
+File: 12july_2009_sunday_tagesschau-2573
+Channel: 1
+Scores: (#C #S #D #I) 6 0 2 0
+REF:  morgen sonne wolke wechselhaft nord REGION sonne OFT 
+HYP:  morgen sonne wolke wechselhaft nord ****** sonne *** 
+Eval:                                     D            D   
+
+id: (signer01-062)
+File: 12july_2009_sunday_tagesschau-2574
+Channel: 1
+Scores: (#C #S #D #I) 2 1 3 0
+REF:  IX SCHAUER SUEDWEST abend gewitter KOENNEN 
+HYP:  ** ******* SUED     abend gewitter ******* 
+Eval: D  D       S                       D       
+
+id: (signer01-063)
+File: 12july_2010_monday_heute-244
+Channel: 1
+Scores: (#C #S #D #I) 0 3 4 0
+REF:  DEUTSCHLAND ZWEI TEIL REGEN SCHWUEL FRISCH KUEHL 
+HYP:  *********** **** **** ***** REGION  STURM  SONNE 
+Eval: D           D    D    D     S       S      S     
+
+id: (signer01-064)
+File: 12july_2011_tuesday_heute-1274
+Channel: 1
+Scores: (#C #S #D #I) 2 3 1 0
+REF:  gewitter ENORM SUEDWEST BIS-MORGEN NACHT kommen 
+HYP:  gewitter ***** WIND     SUED       SONNE kommen 
+Eval:          D     S        S          S            
+
+id: (signer01-065)
+File: 12july_2011_tuesday_heute-1279
+Channel: 1
+Scores: (#C #S #D #I) 3 1 8 0
+REF:  morgen GEWITTER MEISTENS WO SUEDOST REGION BRAND BURG IX   nord TEILWEISE regen 
+HYP:  morgen ******** ******** ** ******* ****** ***** **** SUED nord ********* regen 
+Eval:        D        D        D  D       D      D     D    S         D               
+
+id: (signer01-066)
+File: 12july_2011_tuesday_heute-1280
+Channel: 1
+Scores: (#C #S #D #I) 1 0 2 0
+REF:  west LANGSAM VERSCHWINDEN 
+HYP:  west ******* ************ 
+Eval:      D       D            
+
+id: (signer01-067)
+File: 12july_2011_tuesday_heute-1281
+Channel: 1
+Scores: (#C #S #D #I) 1 1 1 0
+REF:  wind KUESTE AUCH  
+HYP:  wind ****** SONNE 
+Eval:      D      S     
+
+id: (signer01-068)
+File: 12may_2010_wednesday_tagesschau-318
+Channel: 1
+Scores: (#C #S #D #I) 3 1 6 0
+REF:  TAG DANN sued SUEDOST REGEN NACH MITTAG IX auch gewitter 
+HYP:  *** BIS  sued ******* ***** **** ****** ** auch gewitter 
+Eval: D   S         D       D     D    D      D                
+
+id: (signer01-069)
+File: 12september_2010_sunday_tagesschau-3919
+Channel: 1
+Scores: (#C #S #D #I) 1 1 1 0
+REF:  IN-KOMMEND WETTER wechselhaft 
+HYP:  ********** SUED   wechselhaft 
+Eval: D          S                  
+
+id: (signer01-070)
+File: 13july_2010_tuesday_tagesschau-4317
+Channel: 1
+Scores: (#C #S #D #I) 3 2 3 0
+REF:  ost DRUCKFLAECHE STARK BESONDERS IN-KOMMEND KOENNEN gewitter regen 
+HYP:  ost ************ ***** ********* WIND       SUED    gewitter regen 
+Eval:     D            D     D         S          S                      
+
+id: (signer01-071)
+File: 14july_2010_wednesday_tagesschau-1865
+Channel: 1
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  SONNTAG RUHIG VERSCHWINDEN 
+HYP:  ******* ***** HEUTE        
+Eval: D       D     S            
+
+id: (signer01-072)
+File: 14october_2009_wednesday_tagesschau-529
+Channel: 1
+Scores: (#C #S #D #I) 1 0 3 0
+REF:  BESONDERS NORDWEST wind STARK 
+HYP:  ********* ******** wind ***** 
+Eval: D         D             D     
+
+id: (signer01-073)
+File: 15february_2010_monday_tagesschau-1843
+Channel: 1
+Scores: (#C #S #D #I) 1 1 2 0
+REF:  NORDWEST SCHNEE BISSCHEN koennen 
+HYP:  ******** ****** NORD     koennen 
+Eval: D        D      S                
+
+id: (signer01-074)
+File: 16february_2010_tuesday_tagesschau-6098
+Channel: 1
+Scores: (#C #S #D #I) 5 5 3 0
+REF:  WEST    TAG  regen IX       koennen SCHNEE regen KALT FROST   ost WOLKE BEWOELKT freundlich 
+HYP:  SONNTAG TEIL regen GEWITTER koennen ****** regen **** SCHAUER ost ***** REGION   freundlich 
+Eval: S       S          S                D            D    S           D     S                   
+
+id: (signer01-075)
+File: 18april_2011_monday_tagesschau-1316
+Channel: 1
+Scores: (#C #S #D #I) 3 5 2 0
+REF:  HOCH REGION BIS      freitag MEISTENS WETTER freundlich sonne TEMPERATUR STEIGEN 
+HYP:  **** NACHT  GEWITTER freitag SONNE    REGION freundlich sonne ********** GRAD    
+Eval: D    S      S                S        S                       D          S       
+
+id: (signer01-076)
+File: 20december_2010_monday_tagesschau-3199
+Channel: 1
+Scores: (#C #S #D #I) 2 2 1 0
+REF:  nord KALT  kommen ZONE DAZWISCHEN 
+HYP:  nord SONNE kommen **** REGION     
+Eval:      S            D    S          
+
+id: (signer01-077)
+File: 20december_2010_monday_tagesschau-3204
+Channel: 1
+Scores: (#C #S #D #I) 4 0 1 0
+REF:  nord FLUSS sued trocken ix 
+HYP:  nord ***** sued trocken ix 
+Eval:      D                     
+
+id: (signer01-078)
+File: 20december_2010_monday_tagesschau-3205
+Channel: 1
+Scores: (#C #S #D #I) 1 2 5 0
+REF:  ZONE KOENNEN REGEN TEILWEISE SCHNEE regen UMWANDELN GEFRIEREN 
+HYP:  **** ******* ***** ********* ****** regen GEWITTER  KOENNEN   
+Eval: D    D       D     D         D            S         S         
+
+id: (signer01-079)
+File: 20december_2010_monday_tagesschau-3208
+Channel: 1
+Scores: (#C #S #D #I) 0 2 4 0
+REF:  NEUN GRAD REGION MINUS ACHT NORDOST 
+HYP:  **** **** ****** ***** BIS  NORD    
+Eval: D    D    D      D     S    S       
+
+id: (signer01-080)
+File: 20march_2010_saturday_heute-7288
+Channel: 1
+Scores: (#C #S #D #I) 1 1 1 0
+REF:  morgen WEST VERBREITEN 
+HYP:  morgen **** NORD       
+Eval:        D    S          
+
+id: (signer01-081)
+File: 20march_2010_saturday_heute-7296
+Channel: 1
+Scores: (#C #S #D #I) 1 2 3 0
+REF:  IN-KOMMEND MEHR KUEHL WENIGER wind STARK 
+HYP:  ********** **** ***** SUED    wind STURM 
+Eval: D          D    D     S            S     
+
+id: (signer01-082)
+File: 20march_2010_saturday_heute-7297
+Channel: 1
+Scores: (#C #S #D #I) 1 0 2 0
+REF:  BERG REGION regen 
+HYP:  **** ****** regen 
+Eval: D    D            
+
+id: (signer01-083)
+File: 20september_2010_monday_heute-2934
+Channel: 1
+Scores: (#C #S #D #I) 1 2 1 0
+REF:  DABEI nord MEHR   MILD 
+HYP:  ***** nord REGION WIND 
+Eval: D          S      S    
+
+id: (signer01-084)
+File: 20september_2010_monday_heute-2935
+Channel: 1
+Scores: (#C #S #D #I) 0 2 3 0
+REF:  ABER TAGSUEBER IX MEHR KUEHL 
+HYP:  **** ********* ** AUCH SONNE 
+Eval: D    D         D  S    S     
+
+id: (signer01-085)
+File: 20september_2010_monday_tagesschau-7029
+Channel: 1
+Scores: (#C #S #D #I) 0 1 4 0
+REF:  BESONDERS NAH FLUSS NEBEL FELD    
+HYP:  ********* *** ***** ***** SONNTAG 
+Eval: D         D   D     D     S       
+
+id: (signer01-086)
+File: 22november_2010_monday_heute-279
+Channel: 1
+Scores: (#C #S #D #I) 3 1 6 0
+REF:  ix KOENNEN GEFAHR GLATT BESONDERS MITTE region sued DANN KALT  
+HYP:  ix ******* ****** ***** ********* ***** region sued **** STURM 
+Eval:    D       D      D     D         D                 D    S     
+
+id: (signer01-087)
+File: 23september_2009_wednesday_tagesschau-7582
+Channel: 1
+Scores: (#C #S #D #I) 0 2 3 0
+REF:  WOCHE DANN HOCH KOMMEN  WARM 
+HYP:  ***** **** **** SONNTAG BIS  
+Eval: D     D    D    S       S    
+
+id: (signer01-088)
+File: 23september_2009_wednesday_tagesschau-7583
+Channel: 1
+Scores: (#C #S #D #I) 3 1 3 0
+REF:  MITTE nord heute nacht BISSCHEN REGEN IX       
+HYP:  ***** nord heute nacht ******** ***** GEWITTER 
+Eval: D                      D        D     S        
+
+id: (signer01-089)
+File: 23september_2009_wednesday_tagesschau-7593
+Channel: 1
+Scores: (#C #S #D #I) 2 2 2 0
+REF:  sonntag SCHEINEN ALPEN auch SCHAUER MOEGLICH 
+HYP:  sonntag ******** SUED  auch ******* KOENNEN  
+Eval:         D        S          D       S        
+
+id: (signer01-090)
+File: 23september_2010_thursday_heute-6476
+Channel: 1
+Scores: (#C #S #D #I) 1 1 6 0
+REF:  WEST AUS FUENF ZWANZIG VIERZEHN bis ACHTZEHN GRAD 
+HYP:  **** *** ***** ******* REGION   bis ******** **** 
+Eval: D    D   D     D       S            D        D    
+
+id: (signer01-091)
+File: 23september_2010_thursday_tagesschau-3444
+Channel: 1
+Scores: (#C #S #D #I) 0 3 1 0
+REF:  REGION BIS   ABEND TROCKEN 
+HYP:  ****** NACHT SONNE STURM   
+Eval: D      S     S     S       
+
+id: (signer01-092)
+File: 24january_2011_monday_heute-6980
+Channel: 1
+Scores: (#C #S #D #I) 4 1 9 0
+REF:  morgen MEISTENS ZWEI bis SECHS   grad ABER BAYERN REGION BISSCHEN KALT MITTE REGION auch 
+HYP:  morgen ******** **** bis ZWANZIG grad **** ****** ****** ******** **** ***** ****** auch 
+Eval:        D        D        S            D    D      D      D        D    D     D           
+
+id: (signer01-093)
+File: 24january_2011_monday_heute-6983
+Channel: 1
+Scores: (#C #S #D #I) 3 1 4 0
+REF:  regen region UND IX TEILWEISE AUCH sonne DABEI 
+HYP:  regen region *** ** ********* NORD sonne ***** 
+Eval:              D   D  D         S          D     
+
+id: (signer01-094)
+File: 24january_2011_monday_heute-6984
+Channel: 1
+Scores: (#C #S #D #I) 3 0 7 1
+REF:  **** mittwoch sonne NICHT NUR west SCHNEE REGEN MISCHUNG DANN BEISEITE 
+HYP:  WEST mittwoch sonne ***** *** west ****** ***** ******** **** ******** 
+Eval: I                   D     D        D      D     D        D    D        
+
+id: (signer01-095)
+File: 24january_2011_monday_tagesschau-3712
+Channel: 1
+Scores: (#C #S #D #I) 3 0 1 0
+REF:  nord EUROPA tief kommen 
+HYP:  nord ****** tief kommen 
+Eval:      D                  
+
+id: (signer01-096)
+File: 24january_2011_monday_tagesschau-3720
+Channel: 1
+Scores: (#C #S #D #I) 2 2 2 0
+REF:  wind WEHEN FRISCH KOMMEN HOCH sturm 
+HYP:  wind ***** ****** REGION KALT sturm 
+Eval:      D     D      S      S          
+
+id: (signer01-097)
+File: 24october_2009_saturday_tagesschau-4283
+Channel: 1
+Scores: (#C #S #D #I) 1 1 1 0
+REF:  SUEDOST regen VIEL 
+HYP:  SUED    regen **** 
+Eval: S             D    
+
+id: (signer01-098)
+File: 24october_2009_saturday_tagesschau-4284
+Channel: 1
+Scores: (#C #S #D #I) 3 1 1 0
+REF:  ix REGEN koennen BESONDERS nord 
+HYP:  ix WOLKE koennen ********* nord 
+Eval:    S             D              
+
+id: (signer01-099)
+File: 24october_2009_saturday_tagesschau-4285
+Channel: 1
+Scores: (#C #S #D #I) 2 1 3 0
+REF:  TAG DANN WEST     freundlich sonne DABEI 
+HYP:  *** **** GEWITTER freundlich sonne ***** 
+Eval: D   D    S                         D     
+
+id: (signer01-100)
+File: 25april_2010_sunday_tagesschau-4942
+Channel: 1
+Scores: (#C #S #D #I) 2 4 8 0
+REF:  KOENNEN IX MEHR KUEHL      kommen AB DIENSTAG LUFT HOCH HOEHER TEMPERATUR HOEHER MEHR freundlich 
+HYP:  ******* ** WIND FREUNDLICH kommen ** ******** **** **** ****** ********** NUR    GRAD freundlich 
+Eval: D       D  S    S                 D  D        D    D    D      D          S      S               
+
+id: (signer01-101)
+File: 25april_2010_sunday_tagesschau-4951
+Channel: 1
+Scores: (#C #S #D #I) 4 0 3 0
+REF:  DONNERSTAG bis SECHS zwanzig grad VIEL sonne 
+HYP:  ********** bis ***** zwanzig grad **** sonne 
+Eval: D              D                  D          
+
+id: (signer01-102)
+File: 25april_2010_sunday_tagesschau-4952
+Channel: 1
+Scores: (#C #S #D #I) 2 0 2 0
+REF:  west MEHR SCHAUER gewitter 
+HYP:  west **** ******* gewitter 
+Eval:      D    D                
+
+id: (signer01-103)
+File: 25august_2009_tuesday_tagesschau-7090
+Channel: 1
+Scores: (#C #S #D #I) 2 1 0 2
+REF:  ***** ***** HEUTE-NACHT sturm koennen 
+HYP:  HEUTE NACHT WIND        sturm koennen 
+Eval: I     I     S                         
+
+id: (signer01-104)
+File: 25august_2009_tuesday_tagesschau-7091
+Channel: 1
+Scores: (#C #S #D #I) 1 0 4 0
+REF:  morgen SCHWACH MAESSIG ZEIGEN-BILDSCHIRM WIND 
+HYP:  morgen ******* ******* ***************** **** 
+Eval:        D       D       D                 D    
+
+id: (signer01-105)
+File: 25august_2009_tuesday_tagesschau-7093
+Channel: 1
+Scores: (#C #S #D #I) 3 1 3 0
+REF:  morgen EINS ZWANZIG region bis ACHT ZWANZIG 
+HYP:  morgen **** ******* region bis **** SIEBEN  
+Eval:        D    D                  D    S       
+
+id: (signer01-106)
+File: 25august_2009_tuesday_tagesschau-7094
+Channel: 1
+Scores: (#C #S #D #I) 6 1 4 0
+REF:  UNTEN REGION IN-KOMMEND WIE-AUSSEHEN teil wechselhaft sonne wolke UNTERSCHIED gewitter koennen 
+HYP:  ***** ****** ********** NORD         teil wechselhaft sonne wolke *********** gewitter koennen 
+Eval: D     D      D          S                                         D                            
+
+id: (signer01-107)
+File: 25june_2010_friday_tagesschau-3884
+Channel: 1
+Scores: (#C #S #D #I) 2 0 6 0
+REF:  FUENFZEHN GRAD region SAUER LAND NUR SECHS grad 
+HYP:  ********* **** region ***** **** *** ***** grad 
+Eval: D         D           D     D    D   D          
+
+id: (signer01-108)
+File: 25june_2010_friday_tagesschau-3887
+Channel: 1
+Scores: (#C #S #D #I) 1 1 2 0
+REF:  MONTAG sonne WARM WEITER 
+HYP:  MORGEN sonne **** ****** 
+Eval: S            D    D      
+
+id: (signer01-109)
+File: 25october_2010_monday_tagesschau-22
+Channel: 1
+Scores: (#C #S #D #I) 2 2 4 0
+REF:  MITTWOCH REGEN   koennen NORDWEST WAHRSCHEINLICH nord STARK WIND  
+HYP:  ******** FREITAG koennen ******** ************** nord ***** SONNE 
+Eval: D        S               D        D                   D     S     
+
+id: (signer01-110)
+File: 26april_2010_monday_heute-3398
+Channel: 1
+Scores: (#C #S #D #I) 2 1 4 0
+REF:  SUEDWEST KLAR morgen VIER BIS NEUN grad 
+HYP:  ******** SUED morgen **** *** **** grad 
+Eval: D        S           D    D   D         
+
+id: (signer01-111)
+File: 26april_2010_monday_tagesschau-7271
+Channel: 1
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  TEMPERATUR IN-KOMMEND MEHR 
+HYP:  ********** ********** SUED 
+Eval: D          D          S    
+
+id: (signer01-112)
+File: 26april_2010_monday_tagesschau-7273
+Channel: 1
+Scores: (#C #S #D #I) 2 7 4 0
+REF:  TAG BESONDERS NORDOST ALPEN SCHAUER KOENNEN DANN sonne WOLKE WECHSELHAFT SUEDWEST HAUPTSAECHLICH sonne 
+HYP:  *** NORD      OST     NORD  OST     SUED    KALT sonne ***** *********** ******** SUED           sonne 
+Eval: D   S         S       S     S       S       S          D     D           D        S                    
+
+id: (signer01-113)
+File: 26august_2009_wednesday_tagesschau-3225
+Channel: 1
+Scores: (#C #S #D #I) 4 2 3 0
+REF:  freitag SUEDOST sonne FREITAG DANN MEHR WOLKE  regen koennen 
+HYP:  freitag SUED    sonne ******* **** **** KOMMEN regen koennen 
+Eval:         S             D       D    D    S                    
+
+id: (signer01-114)
+File: 26october_2010_tuesday_tagesschau-5789
+Channel: 1
+Scores: (#C #S #D #I) 2 2 4 0
+REF:  morgen nord WEST REGEN REGION NEBEL WOLKE HIMMEL 
+HYP:  morgen nord **** ***** ****** ***** SUED  MEHR   
+Eval:             D    D     D      D     S     S      
+
+id: (signer01-115)
+File: 26october_2010_tuesday_tagesschau-5796
+Channel: 1
+Scores: (#C #S #D #I) 0 2 1 0
+REF:  KUESTE WIND HABEN 
+HYP:  ****** NORD SONNE 
+Eval: D      S    S     
+
+id: (signer01-116)
+File: 27august_2009_thursday_tagesschau-3276
+Channel: 1
+Scores: (#C #S #D #I) 4 1 2 0
+REF:  nord SUEDOST auch KOENNEN regen gewitter DABEI 
+HYP:  nord SUED    auch ******* regen gewitter ***** 
+Eval:      S            D                      D     
+
+id: (signer01-117)
+File: 27august_2009_thursday_tagesschau-3284
+Channel: 1
+Scores: (#C #S #D #I) 1 0 2 0
+REF:  SONNTAG UEBERWIEGEND sonne 
+HYP:  ******* ************ sonne 
+Eval: D       D                  
+
+id: (signer01-118)
+File: 27august_2009_thursday_tagesschau-3285
+Channel: 1
+Scores: (#C #S #D #I) 1 0 1 0
+REF:  nord SCHAUER 
+HYP:  nord ******* 
+Eval:      D       
+
+id: (signer01-119)
+File: 27august_2009_thursday_tagesschau-3286
+Channel: 1
+Scores: (#C #S #D #I) 1 2 4 0
+REF:  MONTAG AEHNLICH WETTER ABER BISSCHEN MEHR     warm 
+HYP:  ****** ******** ****** **** MORGEN   GEWITTER warm 
+Eval: D      D        D      D    S        S             
+
+id: (signer01-120)
+File: 27january_2013_sunday_tagesschau-8836
+Channel: 1
+Scores: (#C #S #D #I) 3 1 9 0
+REF:  heute nacht PLUS DREI region NULL ZWISCHEN LEICHT FROST MINUS EINS MINUS ZWEI 
+HYP:  heute nacht **** **** region **** ******** ****** ***** ***** **** ***** WIND 
+Eval:             D    D           D    D        D      D     D     D    D     S    
+
+id: (signer01-121)
+File: 28february_2011_monday_tagesschau-4984
+Channel: 1
+Scores: (#C #S #D #I) 1 2 4 0
+REF:  WEHEN wind SCHWACH MAESSIG BERG FRISCH WIND  
+HYP:  NORD  wind ******* ******* **** ****** STURM 
+Eval: S          D       D       D    D      S     
+
+id: (signer01-122)
+File: 28july_2011_thursday_tagesschau-8521
+Channel: 1
+Scores: (#C #S #D #I) 3 3 5 0
+REF:  WEST SUEDWEST TIEF KOMMEN schauer gewitter koennen DEUTSCH WETTER DIENST WARNUNG  
+HYP:  **** ******** **** SUED   schauer gewitter koennen ******* ****** IX     GEWITTER 
+Eval: D    D        D    S                               D       D      S      S        
+
+id: (signer01-123)
+File: 29march_2010_monday_tagesschau-8384
+Channel: 1
+Scores: (#C #S #D #I) 3 1 3 0
+REF:  JETZT morgen wetter wie-aussehen DIENSTAG DREISSIG MAERZ   
+HYP:  ***** morgen wetter wie-aussehen ******** ******** ZWANZIG 
+Eval: D                                D        D        S       
+
+id: (signer01-124)
+File: 29march_2011_tuesday_tagesschau-8117
+Channel: 1
+Scores: (#C #S #D #I) 1 3 3 0
+REF:  ROSTOCK ACHT   region LEIPZIG ACHTZEHN GRAD ZONE 
+HYP:  OST     SIEBEN region ******* ******** **** BIS  
+Eval: S       S             D       D        D    S    
+
+id: (signer01-125)
+File: 29may_2011_sunday_tagesschau-764
+Channel: 1
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  WEHEN SCHWACH MAESSIG 
+HYP:  ***** ******* [EMPTY] 
+Eval: D     D       S       
+
+id: (signer01-126)
+File: 30december_2010_thursday_tagesschau-2236
+Channel: 1
+Scores: (#C #S #D #I) 5 0 10 1
+REF:  heute nacht **** ix REGION NULL GRAD WENN STERN KOENNEN SEHEN bis MINUS ZWEI ZWANZIG grad 
+HYP:  heute nacht BERG ix ****** **** **** **** ***** ******* ***** bis ***** **** ******* grad 
+Eval:             I       D      D    D    D    D     D       D         D     D    D            
+
+id: (signer01-127)
+File: 30july_2011_saturday_tagesschau-8591
+Channel: 1
+Scores: (#C #S #D #I) 1 2 7 0
+REF:  REGEN REGION VIEL HIMMEL region SUEDWEST AUCH LOCH NEG-WOLKE NEGALP-KEIN 
+HYP:  ***** ****** **** ****** region ******** **** **** SUED      IX          
+Eval: D     D      D    D             D        D    D    S         S           
+
+id: (signer01-128)
+File: 30march_2010_tuesday_tagesschau-5694
+Channel: 1
+Scores: (#C #S #D #I) 5 1 2 0
+REF:  jetzt wetter wie-aussehen morgen mittwoch EINS DREISSIG MAERZ   
+HYP:  jetzt wetter wie-aussehen morgen mittwoch **** ******** ZWANZIG 
+Eval:                                           D    D        S       
+
+id: (signer01-129)
+File: 30may_2011_monday_heute-3677
+Channel: 1
+Scores: (#C #S #D #I) 5 2 7 0
+REF:  ost warm REGION bis DREISSIG GRAD REGION UEBERSPRINGEN region KUEHL NUR FUENFZEHN SECHSZEHN grad 
+HYP:  ost warm ****** bis ******** **** ****** ************* region ***** *** WIND      BIS       grad 
+Eval:          D          D        D    D      D                    D     D   S         S              
+
+id: (signer01-130)
+File: 30november_2011_wednesday_tagesschau-6289
+Channel: 1
+Scores: (#C #S #D #I) 1 1 7 0
+REF:  TAG FUENF GRAD NEBEL UND FUENFZEHN grad FOEHN REGION 
+HYP:  *** ***** **** ***** *** ZWANZIG   grad ***** ****** 
+Eval: D   D     D    D     D   S              D     D      
+
+id: (signer01-131)
+File: 30november_2011_wednesday_tagesschau-6291
+Channel: 1
+Scores: (#C #S #D #I) 2 1 1 0
+REF:  SUEDOST POSS-SEIN freundlich sonne 
+HYP:  ******* SUED      freundlich sonne 
+Eval: D       S                          
+
+id: (signer01-132)
+File: 30november_2011_wednesday_tagesschau-6292
+Channel: 1
+Scores: (#C #S #D #I) 5 2 3 0
+REF:  samstag sonntag DANN WECHSELHAFT ix regen BESONDERS SONNTAG KOENNEN sturm 
+HYP:  samstag sonntag **** *********** ix regen ********* WOLKE   MEHR    sturm 
+Eval:                 D    D                    D         S       S             
+
+id: (signer01-133)
+File: 31august_2010_tuesday_tagesschau-5174
+Channel: 1
+Scores: (#C #S #D #I) 1 1 2 0
+REF:  wind SCHWACH WEHEN ZEIGEN-BILDSCHIRM 
+HYP:  wind ******* ***** WETTER            
+Eval:      D       D     S                 
+
+id: (signer01-134)
+File: 31january_2013_thursday_tagesschau-2710
+Channel: 1
+Scores: (#C #S #D #I) 2 4 4 0
+REF:  IX DANN     SCHNEE koennen ABEND DANN  nord SCHNEE FLACH SCHNEE 
+HYP:  ** BISSCHEN REGEN  koennen HEUTE NACHT nord ****** ***** ****** 
+Eval: D  S        S              S     S          D      D     D      
+
+id: (signer01-135)
+File: 31may_2011_tuesday_heute-1899
+Channel: 1
+Scores: (#C #S #D #I) 0 2 4 0
+REF:  HOFFEN REGION JETZT NORDOST VERLAUFEN VERSCHWINDEN 
+HYP:  ****** ****** ***** ******* WIND      NORD         
+Eval: D      D      D     D       S         S            
+
+id: (signer01-136)
+File: 31may_2011_tuesday_tagesschau-4294
+Channel: 1
+Scores: (#C #S #D #I) 0 1 3 0
+REF:  DEUTSCH WETTER DIENST WARNUNG  
+HYP:  ******* ****** ****** GEWITTER 
+Eval: D       D      D      S        
+
+id: (signer01-137)
+File: 31may_2011_tuesday_tagesschau-4295
+Channel: 1
+Scores: (#C #S #D #I) 1 3 2 0
+REF:  NORDWEST IX   AUCH       kommen SONNE MEISTENS 
+HYP:  ******** NORD FREUNDLICH kommen ***** STARK    
+Eval: D        S    S                 D     S        
+
+Speaker sentences   5:  signer03   #utts: 48
+id: (signer03-000)
+File: 01october_2009_thursday_tagesschau-417
+Channel: 1
+Scores: (#C #S #D #I) 1 1 6 0
+REF:  morgen ZEHN GRAD IX SIEBZEHN GRAD OBER FLUSS 
+HYP:  morgen **** **** ** ******** **** **** BIS   
+Eval:        D    D    D  D        D    D    S     
+
+id: (signer03-001)
+File: 02october_2009_friday_tagesschau-1354
+Channel: 1
+Scores: (#C #S #D #I) 3 1 4 1
+REF:  DAZU morgen *** NORD   wetter wechselhaft SONNTAG AUCH MITTE 
+HYP:  **** morgen OST REGION wetter wechselhaft ******* **** ***** 
+Eval: D           I   S                         D       D    D     
+
+id: (signer03-002)
+File: 02october_2009_friday_tagesschau-1355
+Channel: 1
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  region SO      
+HYP:  region SCHWACH 
+Eval:        S       
+
+id: (signer03-003)
+File: 02october_2009_friday_tagesschau-1362
+Channel: 1
+Scores: (#C #S #D #I) 5 1 3 0
+REF:  MONTAG nord region regen REGION BESSER IM-VERLAUF region regen 
+HYP:  MORGEN nord region regen ****** ****** ********** region regen 
+Eval: S                        D      D      D                       
+
+id: (signer03-004)
+File: 05april_2010_monday_tagesschau-3546
+Channel: 1
+Scores: (#C #S #D #I) 3 1 2 0
+REF:  jetzt wetter morgen DIENSTAG SECHSTE APRIL 
+HYP:  jetzt wetter morgen ******** ******* NORD  
+Eval:                     D        D       S     
+
+id: (signer03-005)
+File: 06april_2010_tuesday_tagesschau-308
+Channel: 1
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  wind SCHWACH maessig WEHEN  
+HYP:  wind WETTER  maessig REGION 
+Eval:      S               S      
+
+id: (signer03-006)
+File: 08june_2010_tuesday_tagesschau-5527
+Channel: 1
+Scores: (#C #S #D #I) 4 1 4 0
+REF:  heute nacht ELF     grad BERG ALLGAEU bis SIEBZEHN FLUSS 
+HYP:  heute nacht ZWANZIG grad **** ******* bis ******** ***** 
+Eval:             S            D    D           D        D     
+
+id: (signer03-007)
+File: 09february_2010_tuesday_tagesschau-4495
+Channel: 1
+Scores: (#C #S #D #I) 1 0 5 0
+REF:  auch OBER FLUSS HOCH FLUSS FROST 
+HYP:  auch **** ***** **** ***** ***** 
+Eval:      D    D     D    D     D     
+
+id: (signer03-008)
+File: 09february_2010_tuesday_tagesschau-4496
+Channel: 1
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  AUCH SCHNEE KOMMEN  
+HYP:  **** ****** [EMPTY] 
+Eval: D    D      S       
+
+id: (signer03-009)
+File: 09february_2010_tuesday_tagesschau-4497
+Channel: 1
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  BLEIBEN IM-VERLAUF 
+HYP:  ******* BIS        
+Eval: D       S          
+
+id: (signer03-010)
+File: 10february_2010_wednesday_tagesschau-2524
+Channel: 1
+Scores: (#C #S #D #I) 2 2 3 0
+REF:  SONNTAG SCHNEE WENIG    nord REGION MOEGLICH sonne 
+HYP:  ******* WEST   GEWITTER nord ****** ******** sonne 
+Eval: D       S      S             D      D              
+
+id: (signer03-011)
+File: 12january_2010_tuesday_heute-2545
+Channel: 1
+Scores: (#C #S #D #I) 3 1 7 0
+REF:  IM-VERLAUF schnee UMKEHREN regen ABER EIS   regen VORSICHT STRASSE GLATT MOEGLICH 
+HYP:  ********** schnee ******** regen **** ABEND regen ******** ******* ***** ******** 
+Eval: D                 D              D    S           D        D       D     D        
+
+id: (signer03-012)
+File: 12january_2010_tuesday_heute-2546
+Channel: 1
+Scores: (#C #S #D #I) 2 2 5 0
+REF:  MORGEN tag IM-VERLAUF SUEDWEST region BLEIBEN SO MOEGLICH SCHNEE 
+HYP:  ****** tag ********** MORGEN   region ******* ** ******** AUCH   
+Eval: D          D          S               D       D  D        S      
+
+id: (signer03-013)
+File: 13may_2010_thursday_tagesschau-7916
+Channel: 1
+Scores: (#C #S #D #I) 4 0 2 0
+REF:  jetzt wetter morgen freitag VIERZEHN MAI 
+HYP:  jetzt wetter morgen freitag ******** *** 
+Eval:                             D        D   
+
+id: (signer03-014)
+File: 13may_2010_thursday_tagesschau-7926
+Channel: 1
+Scores: (#C #S #D #I) 2 0 1 0
+REF:  region MEHR sonne 
+HYP:  region **** sonne 
+Eval:        D          
+
+id: (signer03-015)
+File: 15october_2009_thursday_tagesschau-7719
+Channel: 1
+Scores: (#C #S #D #I) 5 0 3 0
+REF:  morgen OST region ZWEI grad region DREIZEHN grad 
+HYP:  morgen *** region **** grad region ******** grad 
+Eval:        D          D                D             
+
+id: (signer03-016)
+File: 16april_2010_friday_tagesschau-6577
+Channel: 1
+Scores: (#C #S #D #I) 2 3 5 0
+REF:  HOCH KOMMEN OST  kommen MORGEN DEUTSCH LAND VIEL   sonne TROCKEN 
+HYP:  **** ****** NORD kommen ****** ******* NORD REGION sonne ******* 
+Eval: D    D      S           D      D       S    S            D       
+
+id: (signer03-017)
+File: 17april_2010_saturday_tagesschau-396
+Channel: 1
+Scores: (#C #S #D #I) 0 1 6 0
+REF:  LUFT DRUCK HOCH DESHALB MORGEN SONNE UEBERALL 
+HYP:  **** ***** **** ******* ****** ***** NORD     
+Eval: D    D     D    D       D      D     S        
+
+id: (signer03-018)
+File: 19august_2010_thursday_tagesschau-995
+Channel: 1
+Scores: (#C #S #D #I) 4 0 2 0
+REF:  SAMSTAG HAUPTSAECHLICH sonne nord bisschen regen 
+HYP:  ******* ************** sonne nord bisschen regen 
+Eval: D       D                                        
+
+id: (signer03-019)
+File: 19may_2010_wednesday_heute-1119
+Channel: 1
+Scores: (#C #S #D #I) 1 1 7 0
+REF:  WEST FLUSS WEST REGION NACH MITTAG BESSER sonne MOEGLICH 
+HYP:  **** ***** **** ****** **** ****** NORD   sonne ******** 
+Eval: D    D     D    D      D    D      S            D        
+
+id: (signer03-020)
+File: 20july_2010_tuesday_heute-5251
+Channel: 1
+Scores: (#C #S #D #I) 3 2 5 0
+REF:  jetzt IM-MOMENT NACHT NOCH WARM   IX           morgen FRUEH MEHR kuehl 
+HYP:  jetzt ********* ***** **** WETTER WIE-AUSSEHEN morgen ***** **** kuehl 
+Eval:       D         D     D    S      S                   D     D          
+
+id: (signer03-021)
+File: 20july_2010_tuesday_tagesschau-7877
+Channel: 1
+Scores: (#C #S #D #I) 2 2 4 0
+REF:  HOCH ost kommen MORGEN SOLL EINFLUSS DEUTSCH LAND   
+HYP:  **** ost kommen ****** **** ******** NORD    REGION 
+Eval: D               D      D    D        S       S      
+
+id: (signer03-022)
+File: 20july_2010_tuesday_tagesschau-7883
+Channel: 1
+Scores: (#C #S #D #I) 3 3 4 0
+REF:  HEUTE nacht RUHRGEBIET ZWANZIG grad MITTE BERG MOEGLICH    ELF     grad 
+HYP:  ***** nacht ********** ******* grad ***** AUCH WECHSELHAFT ZWANZIG grad 
+Eval: D           D          D            D     S    S           S            
+
+id: (signer03-023)
+File: 20may_2010_thursday_tagesschau-3151
+Channel: 1
+Scores: (#C #S #D #I) 5 0 2 0
+REF:  jetzt wetter morgen freitag EINS zwanzig MAI 
+HYP:  jetzt wetter morgen freitag **** zwanzig *** 
+Eval:                             D            D   
+
+id: (signer03-024)
+File: 22april_2010_thursday_heute-2120
+Channel: 1
+Scores: (#C #S #D #I) 5 1 3 0
+REF:  MORGEN sonne UEBERALL KUESTE region wolke moeglich regen NEG-VIEL 
+HYP:  ****** sonne ******** NORD   region wolke moeglich regen ******** 
+Eval: D            D        S                                  D        
+
+id: (signer03-025)
+File: 22april_2010_thursday_heute-2124
+Channel: 1
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  TROCKEN ENORM   
+HYP:  ******* [EMPTY] 
+Eval: D       S       
+
+id: (signer03-026)
+File: 22april_2010_thursday_heute-2125
+Channel: 1
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  abend WUENSCHEN   
+HYP:  abend WECHSELHAFT 
+Eval:       S           
+
+id: (signer03-027)
+File: 25august_2010_wednesday_heute-6001
+Channel: 1
+Scores: (#C #S #D #I) 5 3 2 0
+REF:  heute nacht SCHON WEST   regen LANGSAM kommen FLUSS region NOCH 
+HYP:  heute nacht TEIL  REGION regen WOLKE   kommen ***** region **** 
+Eval:             S     S            S              D            D    
+
+id: (signer03-028)
+File: 25august_2010_wednesday_heute-6008
+Channel: 1
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  WIE HERBST   
+HYP:  *** GEWITTER 
+Eval: D   S        
+
+id: (signer03-029)
+File: 25august_2010_wednesday_heute-6009
+Channel: 1
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  SCHOEN ABEND WUENSCHEN 
+HYP:  ****** ***** NORD      
+Eval: D      D     S         
+
+id: (signer03-030)
+File: 25january_2010_monday_heute-1467
+Channel: 1
+Scores: (#C #S #D #I) 4 2 5 0
+REF:  sued region MEHR wolke FLUSS alpen MOEGLICH SCHNEE ABER IM-VERLAUF WENIGER  
+HYP:  sued region **** wolke ***** alpen ******** ****** **** AUCH       GEWITTER 
+Eval:             D          D           D        D      D    S          S        
+
+id: (signer03-031)
+File: 25january_2010_monday_tagesschau-8298
+Channel: 1
+Scores: (#C #S #D #I) 3 2 3 0
+REF:  UND jetzt wetter morgen DIENSTAG SECHS ZWANZIG JANUAR  
+HYP:  *** jetzt wetter morgen ******** ***** SCHWACH MAESSIG 
+Eval: D                       D        D     S       S       
+
+id: (signer03-032)
+File: 25january_2010_monday_tagesschau-8305
+Channel: 1
+Scores: (#C #S #D #I) 3 2 2 1
+REF:  wind ****** nord WEHEN WENIG UNTEN stark WEHEN 
+HYP:  wind WETTER nord ***** WOLKE AUCH  stark ***** 
+Eval:      I           D     S     S           D     
+
+id: (signer03-033)
+File: 26august_2010_thursday_tagesschau-4265
+Channel: 1
+Scores: (#C #S #D #I) 3 0 4 0
+REF:  jetzt wetter morgen FREITAG SIEBEN ZWANZIG AUGUST 
+HYP:  jetzt wetter morgen ******* ****** ******* ****** 
+Eval:                     D       D      D       D      
+
+id: (signer03-034)
+File: 26january_2010_tuesday_heute-107
+Channel: 1
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  SCHOEN ABEND WUENSCHEN 
+HYP:  ****** ***** NORD      
+Eval: D      D     S         
+
+id: (signer03-035)
+File: 26january_2010_tuesday_tagesschau-2787
+Channel: 1
+Scores: (#C #S #D #I) 1 1 4 0
+REF:  UND IM-VERLAUF UEBERALL wechselhaft MOEGLICH SCHNEE 
+HYP:  *** ********** REGION   wechselhaft ******** ****** 
+Eval: D   D          S                    D        D      
+
+id: (signer03-036)
+File: 27june_2010_sunday_tagesschau-7386
+Channel: 1
+Scores: (#C #S #D #I) 4 1 2 0
+REF:  DIENSTAG MITTWOCH tief kommen MOEGLICH regen gewitter 
+HYP:  ******** NORD     tief kommen ******** regen gewitter 
+Eval: D        S                    D                       
+
+id: (signer03-037)
+File: 29april_2010_thursday_heute-8622
+Channel: 1
+Scores: (#C #S #D #I) 2 2 2 0
+REF:  MORGEN NACH MITTAG gewitter regen AUCH 
+HYP:  ****** NORD REGION gewitter regen **** 
+Eval: D      S    S                     D    
+
+id: (signer03-038)
+File: 29april_2010_thursday_heute-8623
+Channel: 1
+Scores: (#C #S #D #I) 2 0 4 0
+REF:  morgen TEMPERATUR ACHT BIS SECHSZEHN grad 
+HYP:  morgen ********** **** *** ********* grad 
+Eval:        D          D    D   D              
+
+id: (signer03-039)
+File: 29april_2010_thursday_heute-8625
+Channel: 1
+Scores: (#C #S #D #I) 3 2 4 0
+REF:  ost region ZUERST WARM VIER AUCH sued BAYERN WARM 
+HYP:  ost region ****** **** GRAD OST  sued ****** **** 
+Eval:            D      D    S    S         D      D    
+
+id: (signer03-040)
+File: 29june_2010_tuesday_tagesschau-7704
+Channel: 1
+Scores: (#C #S #D #I) 2 2 3 0
+REF:  wind NORD SCHWACH maessig WEHEN SCHWACH WEHEN  
+HYP:  wind **** WETTER  maessig ***** ******* KOMMEN 
+Eval:      D    S               D     D       S      
+
+id: (signer03-041)
+File: 29june_2010_tuesday_tagesschau-7705
+Channel: 1
+Scores: (#C #S #D #I) 3 1 3 0
+REF:  HEUTE nacht TEMPERATUR ELF bis ACHTZEHN grad 
+HYP:  ***** nacht ********** *** bis ZWANZIG  grad 
+Eval: D           D          D       S             
+
+id: (signer03-042)
+File: 29november_2009_sunday_tagesschau-7043
+Channel: 1
+Scores: (#C #S #D #I) 3 3 8 0
+REF:  morgen REGEN  kommen SCHWARZ WALD BERG  region SCHNEE SIEBENHUNDERT FUENFHUNDERT METER BERG SCHON SCHNEE  
+HYP:  morgen SCHNEE kommen ******* **** NACHT region ****** ************* ************ ***** **** ***** TROCKEN 
+Eval:        S             D       D    S            D      D             D            D     D    D     S       
+
+id: (signer03-043)
+File: 30november_2009_monday_tagesschau-5749
+Channel: 1
+Scores: (#C #S #D #I) 0 3 5 0
+REF:  SUED VIERHUNDERT SIEBENHUNDERT METER HOEHE MOEGLICH SCHNEE ENORM   
+HYP:  **** *********** ************* ***** ***** OST      AUCH   SCHAUER 
+Eval: D    D           D             D     D     S        S      S       
+
+id: (signer03-044)
+File: 30november_2009_monday_tagesschau-5755
+Channel: 1
+Scores: (#C #S #D #I) 3 2 5 0
+REF:  morgen TEMPERATUR NULL BIS SIEBEN  grad FLUSS MOEGLICH ACHT    grad 
+HYP:  morgen ********** **** *** ZWANZIG grad ***** ******** ZWANZIG grad 
+Eval:        D          D    D   S            D     D        S            
+
+id: (signer03-045)
+File: 30october_2009_friday_tagesschau-2275
+Channel: 1
+Scores: (#C #S #D #I) 1 1 1 0
+REF:  wind MAESSIG WEHEN  
+HYP:  wind ******* REGION 
+Eval:      D       S      
+
+id: (signer03-046)
+File: 30october_2009_friday_tagesschau-2276
+Channel: 1
+Scores: (#C #S #D #I) 3 3 6 0
+REF:  WEST region HEUTE nacht FUENF grad REGION HAUPTSAECHLICH FROST MOEGLICH GLATT VORSICHT    
+HYP:  **** region ***** nacht ***** grad ****** ************** ***** WIND     STURM WECHSELHAFT 
+Eval: D           D           D          D      D              D     S        S     S           
+
+id: (signer03-047)
+File: 31october_2009_saturday_tagesschau-7147
+Channel: 1
+Scores: (#C #S #D #I) 2 3 5 0
+REF:  MOEGLICH heute nacht FROST GLATT VORSICHT FLUSS MOEGLICH PLUS     ACHT   
+HYP:  ******** heute nacht ***** ***** ******** ***** WIND     GEWITTER SIEBEN 
+Eval: D                    D     D     D        D     S        S        S      
+
+Speaker sentences   6:  signer07   #utts: 58
+id: (signer07-000)
+File: 02december_2010_thursday_heute-8444
+Channel: 1
+Scores: (#C #S #D #I) 1 0 3 0
+REF:  GUT abend LIEB ZUSCHAUER 
+HYP:  *** abend **** ********* 
+Eval: D         D    D         
+
+id: (signer07-001)
+File: 02december_2010_thursday_heute-8445
+Channel: 1
+Scores: (#C #S #D #I) 1 3 14 0
+REF:  SO VIEL SCHNEE ANFANG DEZEMBER TJA SELTEN BISHER WENN UEBER SICHT NULL FAST REGION DEUTSCHLAND region SCHNEE HABEN2 
+HYP:  ** **** ****** ****** ******** *** ****** ****** **** ***** ***** **** **** WEST   NUR         region ****** GRAD   
+Eval: D  D    D      D      D        D   D      D      D    D     D     D    D    S      S                  D      S      
+
+id: (signer07-002)
+File: 02december_2010_thursday_tagesschau-3636
+Channel: 1
+Scores: (#C #S #D #I) 2 0 3 0
+REF:  nord nordwest MEHR VIEL WOLKE 
+HYP:  nord nordwest **** **** ***** 
+Eval:               D    D    D     
+
+id: (signer07-003)
+File: 02december_2010_thursday_tagesschau-3637
+Channel: 1
+Scores: (#C #S #D #I) 1 0 3 0
+REF:  SCHNEE mehr KUESTE REGION 
+HYP:  ****** mehr ****** ****** 
+Eval: D           D      D      
+
+id: (signer07-004)
+File: 03november_2010_wednesday_tagesschau-6505
+Channel: 1
+Scores: (#C #S #D #I) 3 1 2 0
+REF:  FLUSS sued MOEGLICH sonne BLEIBEN trocken 
+HYP:  ***** sued KOENNEN  sonne ******* trocken 
+Eval: D          S              D               
+
+id: (signer07-005)
+File: 03november_2010_wednesday_tagesschau-6506
+Channel: 1
+Scores: (#C #S #D #I) 5 9 4 2
+REF:  SUED WEHEN BISSCHEN WEHEN   nord FRISCH NATUR STARK sturm ******* SEE   MEER SCHWER sturm **** berg E+R+Z    BERG  auch ORKAN 
+HYP:  **** ***** FREITAG  KOENNEN nord ****** ***** WIND  sturm KOENNEN SONNE MEHR STARK  sturm WIND berg GEWITTER REGEN auch STURM 
+Eval: D    D     S        S            D      D     S           I       S     S    S            I         S        S          S     
+
+id: (signer07-006)
+File: 03november_2010_wednesday_tagesschau-6507
+Channel: 1
+Scores: (#C #S #D #I) 1 2 5 0
+REF:  KOELN region IX DREIZEHN GRAD ALPEN DREI GRAD    
+HYP:  ***** region ** ******** **** ***** BIS  ZWANZIG 
+Eval: D            D  D        D    D     S    S       
+
+id: (signer07-007)
+File: 04july_2011_monday_heute-6440
+Channel: 1
+Scores: (#C #S #D #I) 0 1 11 0
+REF:  IHR WUENSCHEN WISSEN SOMMER WEITER WIE LAUFEN WIE-AUSSEHEN DAMEN UND HERREN POSS-EUCH 
+HYP:  *** ********* ****** ****** ****** *** ****** ************ ***** *** ****** ZWANZIG   
+Eval: D   D         D      D      D      D   D      D            D     D   D      S         
+
+id: (signer07-008)
+File: 04july_2011_monday_heute-6441
+Channel: 1
+Scores: (#C #S #D #I) 0 1 4 0
+REF:  BLEIBEN HOCH TIEF HOCH TIEF 
+HYP:  ******* **** **** **** NORD 
+Eval: D       D    D    D    S    
+
+id: (signer07-009)
+File: 06december_2011_tuesday_heute-1553
+Channel: 1
+Scores: (#C #S #D #I) 1 1 1 0
+REF:  sturm TAGSUEBER DABEI  
+HYP:  sturm ********* MORGEN 
+Eval:       D         S      
+
+id: (signer07-010)
+File: 06december_2011_tuesday_heute-1554
+Channel: 1
+Scores: (#C #S #D #I) 1 2 2 0
+REF:  IHR WUENSCHEN abend MACHEN GUT   
+HYP:  *** SAMSTAG   abend ****** REGEN 
+Eval: D   S               D      S     
+
+id: (signer07-011)
+File: 06december_2011_tuesday_tagesschau-6842
+Channel: 1
+Scores: (#C #S #D #I) 3 2 9 0
+REF:  BERG MEISTENS SCHNEE regen BERG ABER sued REGION regen UNGEFAEHR TAUSEND ZWEIHUNDERT IX   SCHNEE 
+HYP:  **** ******** ****** regen **** **** sued ****** regen ********* ******* *********** NORD REGEN  
+Eval: D    D        D            D    D         D            D         D       D           S    S      
+
+id: (signer07-012)
+File: 06july_2011_wednesday_tagesschau-6870
+Channel: 1
+Scores: (#C #S #D #I) 1 1 11 0
+REF:  TAG EINS ZWANZIG GRAD SYLT IX UND NEUN     zwanzig GRAD REGION UND REGION 
+HYP:  *** **** ******* **** **** ** *** MITTWOCH zwanzig **** ****** *** ****** 
+Eval: D   D    D       D    D    D  D   S                D    D      D   D      
+
+id: (signer07-013)
+File: 07december_2010_tuesday_heute-5626
+Channel: 1
+Scores: (#C #S #D #I) 1 2 5 0
+REF:  LEIDER DURCHGEHEND DAUER REGEN nacht SUED DEUTSCHLAND REGEN 
+HYP:  ****** *********** ***** MEHR  nacht **** *********** FLUSS 
+Eval: D      D           D     S           D    D           S     
+
+id: (signer07-014)
+File: 07december_2010_tuesday_tagesschau-4152
+Channel: 1
+Scores: (#C #S #D #I) 3 3 2 0
+REF:  tag MINUS DREI NORDOST PLUS VIERZEHN grad sued 
+HYP:  tag ***** **** BIS     NORD BIS      grad sued 
+Eval:     D     D    S       S    S                  
+
+id: (signer07-015)
+File: 07february_2011_monday_tagesschau-1612
+Channel: 1
+Scores: (#C #S #D #I) 2 1 4 0
+REF:  nacht NORD MEHR sturm AUCH KUESTE ORKAN 
+HYP:  nacht **** WIND sturm **** ****** ***** 
+Eval:       D    S          D    D      D     
+
+id: (signer07-016)
+File: 07february_2011_monday_tagesschau-1613
+Channel: 1
+Scores: (#C #S #D #I) 3 3 6 0
+REF:  TAG schwach maessig WEHEN nord NORDOST FRISCH MAESSIG WEHEN OST  STARK WEHEN 
+HYP:  *** schwach maessig ***** nord ******* ****** ******* ***** WARM NORD  WIND  
+Eval: D                   D          D       D      D       D     S    S     S     
+
+id: (signer07-017)
+File: 09february_2011_wednesday_heute-7538
+Channel: 1
+Scores: (#C #S #D #I) 4 3 8 0
+REF:  heute nacht AUFKLAREN MORGEN NACH MITTAG   SCHON      nord SEE SCHON BISSCHEN regen IX MILD LUFT 
+HYP:  heute nacht ********* ****** **** BISSCHEN FREUNDLICH nord *** ***** SONNE    regen ** **** **** 
+Eval:             D         D      D    S        S               D   D     S              D  D    D    
+
+id: (signer07-018)
+File: 11october_2010_monday_tagesschau-4607
+Channel: 1
+Scores: (#C #S #D #I) 0 2 6 0
+REF:  AUCH NAH FLUSS UND ALPEN AUCH MOEGLICH NEBEL  
+HYP:  **** *** ***** *** ***** **** KOENNEN  KOMMEN 
+Eval: D    D   D     D   D     D    S        S      
+
+id: (signer07-019)
+File: 11october_2010_monday_tagesschau-4612
+Channel: 1
+Scores: (#C #S #D #I) 1 2 6 0
+REF:  TAG ZEHN GRAD BISSCHEN BEWOELKT ACHTZEHN grad FLUSS IX     
+HYP:  *** **** **** ******** ******** SIEBEN   grad ***** REGION 
+Eval: D   D    D    D        D        S             D     S      
+
+id: (signer07-020)
+File: 11october_2010_monday_tagesschau-4615
+Channel: 1
+Scores: (#C #S #D #I) 6 0 7 0
+REF:  freitag BISSCHEN VERSCHWINDEN bisschen VERSCHWINDEN nord BISSCHEN regen bisschen STELLENWEISE VIERZEHN grad UNGEFAEHR 
+HYP:  freitag ******** ************ bisschen ************ nord ******** regen bisschen ************ ******** grad ********* 
+Eval:         D        D                     D                 D                       D            D             D         
+
+id: (signer07-021)
+File: 12march_2011_saturday_tagesschau-2455
+Channel: 1
+Scores: (#C #S #D #I) 2 0 5 0
+REF:  TAG TEIL NUR EINS grad nord SEE 
+HYP:  *** **** *** **** grad nord *** 
+Eval: D   D    D   D              D   
+
+id: (signer07-022)
+File: 13april_2011_wednesday_tagesschau-1683
+Channel: 1
+Scores: (#C #S #D #I) 4 0 4 0
+REF:  REST region sonne wolke NUR ORT bisschen REGEN 
+HYP:  **** region sonne wolke *** *** bisschen ***** 
+Eval: D                       D   D            D     
+
+id: (signer07-023)
+File: 14october_2010_thursday_tagesschau-298
+Channel: 1
+Scores: (#C #S #D #I) 2 0 6 0
+REF:  samstag REGEN BERG regen TEILWEISE UMWANDELN SCHNEE SCHNEIEN 
+HYP:  samstag ***** **** regen ********* ********* ****** ******** 
+Eval:         D     D          D         D         D      D        
+
+id: (signer07-024)
+File: 14october_2010_thursday_tagesschau-299
+Channel: 1
+Scores: (#C #S #D #I) 1 2 1 0
+REF:  SCHOEN WO     MEER region 
+HYP:  ****** REGION NORD region 
+Eval: D      S      S           
+
+id: (signer07-025)
+File: 17february_2011_thursday_tagesschau-6307
+Channel: 1
+Scores: (#C #S #D #I) 1 2 6 0
+REF:  wetter SO KNAPP VERAENDERN MEISTENS BLEIBEN WOLKE TROCKEN  WETTER     
+HYP:  wetter ** ***** ********** ******** ******* ***** BISSCHEN FREUNDLICH 
+Eval:        D  D     D          D        D       D     S        S          
+
+id: (signer07-026)
+File: 17january_2011_monday_tagesschau-7001
+Channel: 1
+Scores: (#C #S #D #I) 1 1 5 0
+REF:  sued NOCH BISSCHEN NOCH WETTER GUT WETTER 
+HYP:  sued **** ******** **** ****** *** AUCH   
+Eval:      D    D        D    D      D   S      
+
+id: (signer07-027)
+File: 17january_2011_monday_tagesschau-7003
+Channel: 1
+Scores: (#C #S #D #I) 2 3 5 0
+REF:  REST REGION MEHR  meistens wolke BESONDERS KUESTE IX MEHR REGEN  
+HYP:  **** ****** NACHT meistens wolke ********* ****** ** NORD SCHNEE 
+Eval: D    D      S                    D         D      D  S    S      
+
+id: (signer07-028)
+File: 18september_2010_saturday_tagesschau-4197
+Channel: 1
+Scores: (#C #S #D #I) 3 0 7 0
+REF:  MITTWOCH ALLE GUT sonne SCHOEN SECHSZEHN BIS FUENF zwanzig grad 
+HYP:  ******** **** *** sonne ****** ********* *** ***** zwanzig grad 
+Eval: D        D    D         D      D         D   D                  
+
+id: (signer07-029)
+File: 19january_2011_wednesday_heute-2680
+Channel: 1
+Scores: (#C #S #D #I) 1 3 10 0
+REF:  IN-KOMMEND TAG BLEIBEN KALT MITTE EUROPA UNGEFAEHR NULL ZWISCHEN MITTE MEER    ZEHN bis FUENFZEHN 
+HYP:  ********** *** ******* **** ***** ****** ********* **** ******** ***** SONNTAG WIND bis ZWANZIG   
+Eval: D          D   D       D    D     D      D         D    D        D     S       S        S         
+
+id: (signer07-030)
+File: 19january_2011_wednesday_tagesschau-7068
+Channel: 1
+Scores: (#C #S #D #I) 5 0 3 0
+REF:  jetzt wetter voraus INFORMIEREN morgen DONNERSTAG zwanzig JANUAR 
+HYP:  jetzt wetter voraus *********** morgen ********** zwanzig ****** 
+Eval:                     D                  D                  D      
+
+id: (signer07-031)
+File: 20june_2011_monday_heute-6514
+Channel: 1
+Scores: (#C #S #D #I) 1 0 2 0
+REF:  DANN WETTER wechselhaft 
+HYP:  **** ****** wechselhaft 
+Eval: D    D                  
+
+id: (signer07-032)
+File: 20june_2011_monday_heute-6521
+Channel: 1
+Scores: (#C #S #D #I) 2 2 3 0
+REF:  MITTE ZONE NEG-MOEGEN  STARK wolke ODER regen 
+HYP:  ***** **** WECHSELHAFT MEHR  wolke **** regen 
+Eval: D     D    S           S           D          
+
+id: (signer07-033)
+File: 20june_2011_monday_tagesschau-1253
+Channel: 1
+Scores: (#C #S #D #I) 0 1 5 0
+REF:  TAG IX REGEN AUCH KOMMEN OST     
+HYP:  *** ** ***** **** ****** [EMPTY] 
+Eval: D   D  D     D    D      S       
+
+id: (signer07-034)
+File: 21june_2011_tuesday_tagesschau-1264
+Channel: 1
+Scores: (#C #S #D #I) 1 2 3 0
+REF:  SUEDOST SCHOEN REST NEG-REGION SCHON  regen 
+HYP:  ******* ****** **** WOLKE      REGION regen 
+Eval: D       D      D    S          S            
+
+id: (signer07-035)
+File: 21november_2011_monday_heute-5433
+Channel: 1
+Scores: (#C #S #D #I) 2 0 4 0
+REF:  sued NEBEL region KOENNEN LANG NEBEL 
+HYP:  sued ***** region ******* **** ***** 
+Eval:      D            D       D    D     
+
+id: (signer07-036)
+File: 21november_2011_monday_heute-5434
+Channel: 1
+Scores: (#C #S #D #I) 2 2 7 0
+REF:  WENN SONNE HABEN DANN SCHAFFEN ELF grad NEBEL  nur DREI GRAD 
+HYP:  **** ***** ***** **** ******** BIS grad REGION nur **** **** 
+Eval: D    D     D     D    D        S        S          D    D    
+
+id: (signer07-037)
+File: 22june_2011_wednesday_heute-4381
+Channel: 1
+Scores: (#C #S #D #I) 3 0 13 0
+REF:  SO gewitter VON HOCH IX REGION nord EUROPA REGION WARM LUFT KOMMEN KUEHL LUFT WEST kommen 
+HYP:  ** gewitter *** **** ** ****** nord ****** ****** **** **** ****** ***** **** **** kommen 
+Eval: D           D   D    D  D           D      D      D    D    D      D     D    D           
+
+id: (signer07-038)
+File: 22november_2011_tuesday_tagesschau-3647
+Channel: 1
+Scores: (#C #S #D #I) 1 1 6 0
+REF:  morgen WIEDER WETTER RUHIG FREUNDLICH WETTER HOCH DRUCK 
+HYP:  morgen ****** ****** ***** ********** ****** **** WOLKE 
+Eval:        D      D      D     D          D      D    S     
+
+id: (signer07-039)
+File: 23december_2010_thursday_tagesschau-1430
+Channel: 1
+Scores: (#C #S #D #I) 5 0 3 0
+REF:  jetzt wetter VORAUSSAGE morgen freitag VIER zwanzig DEZEMBER 
+HYP:  jetzt wetter ********** morgen freitag **** zwanzig ******** 
+Eval:              D                         D            D        
+
+id: (signer07-040)
+File: 24december_2010_friday_tagesschau-5128
+Channel: 1
+Scores: (#C #S #D #I) 3 0 4 0
+REF:  mehr SCHNEE SCHNEIEN moeglich SCHNEIEN auch MOEGLICH 
+HYP:  mehr ****** ******** moeglich ******** auch ******** 
+Eval:      D      D                 D             D        
+
+id: (signer07-041)
+File: 24december_2010_friday_tagesschau-5129
+Channel: 1
+Scores: (#C #S #D #I) 0 3 3 0
+REF:  WETTER WARNUNG VON DEUTSCH WETTER      DIENST 
+HYP:  ****** ******* *** WIND    WECHSELHAFT IX     
+Eval: D      D       D   S       S           S      
+
+id: (signer07-042)
+File: 24january_2013_thursday_heute-7254
+Channel: 1
+Scores: (#C #S #D #I) 0 1 4 0
+REF:  ENDLICH SONNE ABER DEUTSCH KAUM 
+HYP:  ******* ***** **** ******* NORD 
+Eval: D       D     D    D       S    
+
+id: (signer07-043)
+File: 24january_2013_thursday_heute-7265
+Channel: 1
+Scores: (#C #S #D #I) 0 3 11 0
+REF:  ABER MILD MEHR MEER IX ODER SUEDWEST MINUS EINS MINUS ZWEI GRAD    UNGEFAEHR MEHR 
+HYP:  **** **** **** **** ** **** ******** ***** **** ***** **** ZWANZIG SCHAUER   BIS  
+Eval: D    D    D    D    D  D    D        D     D    D     D    S       S         S    
+
+id: (signer07-044)
+File: 24january_2013_thursday_tagesschau-6323
+Channel: 1
+Scores: (#C #S #D #I) 2 0 4 0
+REF:  ost SUEDOST UEBERWIEGEND WOLKE bisschen SCHNEE 
+HYP:  ost ******* ************ ***** bisschen ****** 
+Eval:     D       D            D              D      
+
+id: (signer07-045)
+File: 24january_2013_thursday_tagesschau-6327
+Channel: 1
+Scores: (#C #S #D #I) 4 2 7 0
+REF:  heute nacht KLAR HIMMEL KOENNEN MINUS FUENFZEHN grad NORDOST WEHEN MINUS DREI grad 
+HYP:  heute nacht **** ****** ******* ***** SONNE     grad ******* ***** ***** NORD grad 
+Eval:             D    D      D       D     S              D       D     D     S         
+
+id: (signer07-046)
+File: 26november_2011_saturday_tagesschau-5848
+Channel: 1
+Scores: (#C #S #D #I) 1 4 6 0
+REF:  NACHT SEE SCHWER sturm MORGEN ORKAN HABEN DESHALB FRISCH MAESSIG WEHEN  
+HYP:  ***** *** KUEHL  sturm ****** ***** ***** ******* REGION NORD    REGION 
+Eval: D     D   S            D      D     D     D       S      S       S      
+
+id: (signer07-047)
+File: 28november_2011_monday_heute-1587
+Channel: 1
+Scores: (#C #S #D #I) 2 1 8 0
+REF:  AUCH morgen WETTER SUPER NEG-HABEN FUENF grad NORDOST MILD WO SUEDWEST 
+HYP:  **** morgen ****** ***** ********* ***** grad ******* **** ** NORD     
+Eval: D           D      D     D         D          D       D    D  S        
+
+id: (signer07-048)
+File: 28november_2011_monday_tagesschau-165
+Channel: 1
+Scores: (#C #S #D #I) 1 2 3 0
+REF:  TAG sued MITTE WOLKE KRAEFTIG NEBEL    
+HYP:  *** sued ***** ***** REGION   BISSCHEN 
+Eval: D        D     D     S        S        
+
+id: (signer07-049)
+File: 28november_2011_monday_tagesschau-168
+Channel: 1
+Scores: (#C #S #D #I) 1 2 5 0
+REF:  nacht FUENF GRAD SEE MINUS VIER BERG   IX    
+HYP:  nacht ***** **** *** ***** **** REGION ALPEN 
+Eval:       D     D    D   D     D    S      S     
+
+id: (signer07-050)
+File: 28november_2011_monday_tagesschau-172
+Channel: 1
+Scores: (#C #S #D #I) 3 0 5 0
+REF:  ABER regen ERST freitag abend SUED KOMMEN REGEN 
+HYP:  **** regen **** freitag abend **** ****** ***** 
+Eval: D          D                  D    D      D     
+
+id: (signer07-051)
+File: 29june_2011_wednesday_tagesschau-4482
+Channel: 1
+Scores: (#C #S #D #I) 0 1 6 0
+REF:  DARUM WARNUNG DEUTSCH WETTER DIENST WARNUNG INFORMIEREN 
+HYP:  ***** ******* ******* ****** ****** ******* IX          
+Eval: D     D       D       D      D      D       S           
+
+id: (signer07-052)
+File: 29november_2011_tuesday_heute-8095
+Channel: 1
+Scores: (#C #S #D #I) 0 2 1 0
+REF:  SCHOEN ABEND POSS-EUCH 
+HYP:  ****** NORD  REGION    
+Eval: D      S     S         
+
+id: (signer07-053)
+File: 29november_2011_tuesday_tagesschau-5612
+Channel: 1
+Scores: (#C #S #D #I) 4 2 1 1
+REF:  wolke HEUTE nacht NORDWEST WOLKE  bisschen ****** regen 
+HYP:  wolke ***** nacht NORD     REGION bisschen SCHNEE regen 
+Eval:       D           S        S               I            
+
+id: (signer07-054)
+File: 29november_2011_tuesday_tagesschau-5619
+Channel: 1
+Scores: (#C #S #D #I) 1 0 6 0
+REF:  nacht SECHS GRAD SEE MINUS DREI FLUSS 
+HYP:  nacht ***** **** *** ***** **** ***** 
+Eval:       D     D    D   D     D    D     
+
+id: (signer07-055)
+File: 30august_2011_tuesday_heute-783
+Channel: 1
+Scores: (#C #S #D #I) 1 0 3 0
+REF:  LIEB ZUSCHAUER GUT abend 
+HYP:  **** ********* *** abend 
+Eval: D    D         D         
+
+id: (signer07-056)
+File: 30august_2011_tuesday_heute-784
+Channel: 1
+Scores: (#C #S #D #I) 3 4 9 0
+REF:  SOMMER ZWEITAUSEND ELF FAST VORBEI DEUTSCH LAND   bisschen WARM MEHR WENIG sonne ABER ENORM VIEL     regen 
+HYP:  ****** *********** *** **** NORD   BIS     REGION bisschen **** **** ***** sonne **** ***** BISSCHEN regen 
+Eval: D      D           D   D    S      S       S               D    D    D           D    D     S              
+
+id: (signer07-057)
+File: 30january_2011_sunday_tagesschau-6345
+Channel: 1
+Scores: (#C #S #D #I) 3 1 5 0
+REF:  jetzt wetter VORAUS INFORMIEREN morgen MONTAG EINS DREISSIG JANUAR  
+HYP:  jetzt wetter ****** *********** morgen ****** **** ******** ZWANZIG 
+Eval:              D      D                  D      D    D        S       
+
+Speaker sentences   7:  signer02   #utts: 6
+id: (signer02-000)
+File: 08december_2009_tuesday_heute-4211
+Channel: 1
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  ANDERE TEMPERATUR 
+HYP:  ****** WETTER     
+Eval: D      S          
+
+id: (signer02-001)
+File: 08december_2009_tuesday_heute-4212
+Channel: 1
+Scores: (#C #S #D #I) 1 0 3 0
+REF:  GLEICH OST VIER grad 
+HYP:  ****** *** **** grad 
+Eval: D      D   D         
+
+id: (signer02-002)
+File: 08december_2009_tuesday_heute-4213
+Channel: 1
+Scores: (#C #S #D #I) 1 0 4 0
+REF:  MILD ACHT BIS NEUN grad 
+HYP:  **** **** *** **** grad 
+Eval: D    D    D   D         
+
+id: (signer02-003)
+File: 09december_2009_wednesday_tagesschau-2561
+Channel: 1
+Scores: (#C #S #D #I) 2 2 1 0
+REF:  nord region SCHWACH MAESSIG WIND 
+HYP:  nord region ******* MEHR    GRAD 
+Eval:             D       S       S    
+
+id: (signer02-004)
+File: 09december_2009_wednesday_tagesschau-2562
+Channel: 1
+Scores: (#C #S #D #I) 2 2 4 0
+REF:  heute nacht RHEIN ACHT GRAD ALPEN MINUS SECHS  
+HYP:  heute nacht ***** **** **** ***** BIS   SIEBEN 
+Eval:             D     D    D    D     S     S      
+
+id: (signer02-005)
+File: 10december_2009_thursday_tagesschau-7482
+Channel: 1
+Scores: (#C #S #D #I) 2 0 5 0
+REF:  JETZT WIE-AUSSEHEN WETTER morgen freitag ELF DEZEMBER 
+HYP:  ***** ************ ****** morgen freitag *** ******** 
+Eval: D     D            D                     D   D        
+
+Speaker sentences   8:  signer06   #utts: 10
+id: (signer06-000)
+File: 25january_2013_friday_tagesschau-7813
+Channel: 1
+Scores: (#C #S #D #I) 4 1 4 1
+REF:  region LUFT tief kommen DANN SONNTAG SCHNEE regen ******* GEFRIEREN 
+HYP:  region **** tief kommen **** ******* ****** regen SCHAUER WIND      
+Eval:        D                D    D       D            I       S         
+
+id: (signer06-001)
+File: 25january_2013_friday_tagesschau-7815
+Channel: 1
+Scores: (#C #S #D #I) 5 1 5 0
+REF:  morgen TEIL UEBERWIEGEND wolke TEIL sonne ost UEBERWIEGEND MEHR sonne DABEI 
+HYP:  morgen **** WIND         wolke **** sonne ost ************ **** sonne ***** 
+Eval:        D    S                  D              D            D          D     
+
+id: (signer06-002)
+File: 28september_2012_friday_tagesschau-916
+Channel: 1
+Scores: (#C #S #D #I) 1 0 4 0
+REF:  SUEDWEST EUROPA sued BEKOMMEN REGEN 
+HYP:  ******** ****** sued ******** ***** 
+Eval: D        D           D        D     
+
+id: (signer06-003)
+File: 28september_2012_friday_tagesschau-917
+Channel: 1
+Scores: (#C #S #D #I) 1 0 2 0
+REF:  REGION LANG freundlich 
+HYP:  ****** **** freundlich 
+Eval: D      D               
+
+id: (signer06-004)
+File: 28september_2012_friday_tagesschau-922
+Channel: 1
+Scores: (#C #S #D #I) 2 2 8 0
+REF:  SUED WIND schwach nord MAESSIG FRISCH SCHAUER KUESTE BERG TEIL STURM       ORKAN 
+HYP:  **** **** schwach nord ******* ****** ******* ****** **** **** WECHSELHAFT WIND  
+Eval: D    D                 D       D      D       D      D    D    S           S     
+
+id: (signer06-005)
+File: 29september_2012_saturday_tagesschau-2966
+Channel: 1
+Scores: (#C #S #D #I) 1 1 8 0
+REF:  MONTAG VIEL REGION freundlich KUESTE SUEDOST KURZ WOLKE TEIL REGEN 
+HYP:  ****** **** ****** freundlich ****** ******* **** ***** **** SUED  
+Eval: D      D    D                 D      D       D    D     D    S     
+
+id: (signer06-006)
+File: 29september_2012_saturday_tagesschau-2967
+Channel: 1
+Scores: (#C #S #D #I) 1 1 3 0
+REF:  DIENSTAG west MEHR WOLKE SCHAUER 
+HYP:  ******** west **** ***** KOMMEN  
+Eval: D             D    D     S       
+
+id: (signer06-007)
+File: 30september_2012_sunday_tagesschau-4033
+Channel: 1
+Scores: (#C #S #D #I) 2 1 6 0
+REF:  nacht SYLT DREIZEHN grad MITTE BERG TAL NULL GRAD    
+HYP:  nacht **** ******** grad ***** **** *** **** KOENNEN 
+Eval:       D    D             D     D    D   D    S       
+
+id: (signer06-008)
+File: 30september_2012_sunday_tagesschau-4037
+Channel: 1
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  MITTWOCH NAECHSTE DASSELBE 
+HYP:  ******** ******** [EMPTY]  
+Eval: D        D        S        
+
+id: (signer06-009)
+File: 30september_2012_sunday_tagesschau-4038
+Channel: 1
+Scores: (#C #S #D #I) 2 2 5 0
+REF:  DONNERSTAG DEUTSCH LAND     wechselhaft UEBERWIEGEND regen MOEGLICH STARK WIND 
+HYP:  ********** ******* BISSCHEN wechselhaft MEISTENS     regen ******** ***** **** 
+Eval: D          D       S                    S                  D        D     D    
+
+

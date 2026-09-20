@@ -1,0 +1,398 @@
+[ Sun Jul 13 01:45:47 2025 ] Parameters:
+{'work_dir': './work_dir/phoenix2014-T-1/', 'config': './configs/baseline.yaml', 'random_fix': True, 'device': '0', 'phase': 'train', 'save_interval': 5, 'random_seed': 0, 'eval_interval': 1, 'print_log': True, 'log_interval': 10000, 'evaluate_tool': 'sclite', 'feeder': 'dataset.dataloader_video.BaseFeeder', 'dataset': 'phoenix2014-T', 'dataset_info': {'dataset_root': './dataset/phoenix2014-T', 'dict_path': './preprocess/phoenix2014-T/gloss_dict.npy', 'evaluation_dir': './evaluation/slr_eval', 'evaluation_prefix': 'phoenix2014-T-groundtruth'}, 'num_worker': 10, 'feeder_args': {'mode': 'test', 'datatype': 'video', 'num_gloss': -1, 'drop_ratio': 1.0, 'frame_interval': 1, 'image_scale': 1.0, 'input_size': 224, 'prefix': './dataset/phoenix2014-T', 'transform_mode': False}, 'model': 'slr_network.SLRModel', 'model_args': {'num_classes': 1116, 'c2d_type': 'resnet18', 'conv_type': 2, 'use_bn': 1, 'share_classifier': True, 'weight_norm': True}, 'load_weights': None, 'load_checkpoints': None, 'decode_mode': 'beam', 'ignore_weights': [], 'batch_size': 1, 'test_batch_size': 2, 'loss_weights': {'SeqCTC': 1.0, 'ConvCTC': 1.0, 'Dist': 25.0, 'Cu': 0.0005, 'Cp': 0.0005}, 'optimizer_args': {'optimizer': 'Adam', 'base_lr': 0.0001, 'step': [40, 60], 'learning_ratio': 1, 'weight_decay': 0.0001, 'start_epoch': 0, 'nesterov': False}, 'num_epoch': 200}
+
+[ Sun Jul 13 01:46:22 2025 ] 	Epoch: 0, Batch(0/7096) done. Loss: 218.73132324  lr:0.000100
+[ Sun Jul 13 03:38:15 2025 ] 	Mean training loss: 78.8555449883.
+[ Sun Jul 13 03:45:36 2025 ] Dev WER: 70.90%
+[ Sun Jul 13 03:45:36 2025 ] Save best model
+[ Sun Jul 13 03:45:36 2025 ] Best_dev: 70.90, Epoch : 0
+[ Sun Jul 13 03:45:37 2025 ] Epoch 0 costs 119 mins 50 seconds
+[ Sun Jul 13 03:45:38 2025 ] 	Epoch: 1, Batch(0/7096) done. Loss: 42.45135498  lr:0.000100
+[ Sun Jul 13 04:29:58 2025 ] 	Mean training loss: 51.4301275098.
+[ Sun Jul 13 04:31:36 2025 ] Dev WER: 57.10%
+[ Sun Jul 13 04:31:42 2025 ] Save best model
+[ Sun Jul 13 04:31:42 2025 ] Best_dev: 57.10, Epoch : 1
+[ Sun Jul 13 04:31:42 2025 ] Epoch 1 costs 46 mins 5 seconds
+[ Sun Jul 13 04:31:44 2025 ] 	Epoch: 2, Batch(0/7096) done. Loss: 22.09236526  lr:0.000100
+[ Sun Jul 13 05:16:13 2025 ] 	Mean training loss: 39.5755511473.
+[ Sun Jul 13 05:17:50 2025 ] Dev WER: 44.60%
+[ Sun Jul 13 05:17:56 2025 ] Save best model
+[ Sun Jul 13 05:17:56 2025 ] Best_dev: 44.60, Epoch : 2
+[ Sun Jul 13 05:17:56 2025 ] Epoch 2 costs 46 mins 13 seconds
+[ Sun Jul 13 05:17:59 2025 ] 	Epoch: 3, Batch(0/7096) done. Loss: 35.51846313  lr:0.000100
+[ Sun Jul 13 06:02:18 2025 ] 	Mean training loss: 33.2751823050.
+[ Sun Jul 13 06:03:56 2025 ] Dev WER: 39.20%
+[ Sun Jul 13 06:04:02 2025 ] Save best model
+[ Sun Jul 13 06:04:02 2025 ] Best_dev: 39.20, Epoch : 3
+[ Sun Jul 13 06:04:02 2025 ] Epoch 3 costs 46 mins 6 seconds
+[ Sun Jul 13 06:04:04 2025 ] 	Epoch: 4, Batch(0/7096) done. Loss: 18.47761726  lr:0.000100
+[ Sun Jul 13 06:48:34 2025 ] 	Mean training loss: 29.2983245656.
+[ Sun Jul 13 06:50:02 2025 ] Dev WER: 38.60%
+[ Sun Jul 13 06:50:09 2025 ] Save best model
+[ Sun Jul 13 06:50:09 2025 ] Best_dev: 38.60, Epoch : 4
+[ Sun Jul 13 06:50:09 2025 ] Epoch 4 costs 46 mins 6 seconds
+[ Sun Jul 13 06:50:10 2025 ] 	Epoch: 5, Batch(0/7096) done. Loss: 7.42403364  lr:0.000100
+[ Sun Jul 13 07:34:18 2025 ] 	Mean training loss: 26.3298685613.
+[ Sun Jul 13 07:35:56 2025 ] Dev WER: 37.50%
+[ Sun Jul 13 07:36:03 2025 ] Save best model
+[ Sun Jul 13 07:36:03 2025 ] Best_dev: 37.50, Epoch : 5
+[ Sun Jul 13 07:36:03 2025 ] Epoch 5 costs 45 mins 54 seconds
+[ Sun Jul 13 07:36:05 2025 ] 	Epoch: 6, Batch(0/7096) done. Loss: 4.73904705  lr:0.000100
+[ Sun Jul 13 08:20:40 2025 ] 	Mean training loss: 23.9829547705.
+[ Sun Jul 13 08:22:18 2025 ] Dev WER: 35.70%
+[ Sun Jul 13 08:22:25 2025 ] Save best model
+[ Sun Jul 13 08:22:25 2025 ] Best_dev: 35.70, Epoch : 6
+[ Sun Jul 13 08:22:25 2025 ] Epoch 6 costs 46 mins 21 seconds
+[ Sun Jul 13 08:22:26 2025 ] 	Epoch: 7, Batch(0/7096) done. Loss: 17.20632935  lr:0.000100
+[ Sun Jul 13 09:07:19 2025 ] 	Mean training loss: 22.0981211596.
+[ Sun Jul 13 09:08:57 2025 ] Dev WER: 32.30%
+[ Sun Jul 13 09:09:05 2025 ] Save best model
+[ Sun Jul 13 09:09:05 2025 ] Best_dev: 32.30, Epoch : 7
+[ Sun Jul 13 09:09:05 2025 ] Epoch 7 costs 46 mins 40 seconds
+[ Sun Jul 13 09:09:07 2025 ] 	Epoch: 8, Batch(0/7096) done. Loss: 11.41491032  lr:0.000100
+[ Sun Jul 13 09:53:49 2025 ] 	Mean training loss: 20.4209462729.
+[ Sun Jul 13 09:55:27 2025 ] Dev WER: 32.70%
+[ Sun Jul 13 09:55:27 2025 ] Best_dev: 32.30, Epoch : 7
+[ Sun Jul 13 09:55:27 2025 ] Epoch 8 costs 46 mins 22 seconds
+[ Sun Jul 13 09:55:29 2025 ] 	Epoch: 9, Batch(0/7096) done. Loss: 44.23962021  lr:0.000100
+[ Sun Jul 13 10:40:23 2025 ] 	Mean training loss: 19.0735189884.
+[ Sun Jul 13 10:42:02 2025 ] Dev WER: 31.00%
+[ Sun Jul 13 10:42:08 2025 ] Save best model
+[ Sun Jul 13 10:42:08 2025 ] Best_dev: 31.00, Epoch : 9
+[ Sun Jul 13 10:42:08 2025 ] Epoch 9 costs 46 mins 40 seconds
+[ Sun Jul 13 10:42:10 2025 ] 	Epoch: 10, Batch(0/7096) done. Loss: 16.08302689  lr:0.000100
+[ Sun Jul 13 11:26:47 2025 ] 	Mean training loss: 17.6278525212.
+[ Sun Jul 13 11:28:27 2025 ] Dev WER: 31.20%
+[ Sun Jul 13 11:28:27 2025 ] Best_dev: 31.00, Epoch : 9
+[ Sun Jul 13 11:28:27 2025 ] Epoch 10 costs 46 mins 19 seconds
+[ Sun Jul 13 11:28:29 2025 ] 	Epoch: 11, Batch(0/7096) done. Loss: 14.59095192  lr:0.000100
+[ Sun Jul 13 12:37:53 2025 ] 	Mean training loss: 16.6641435557.
+[ Sun Jul 13 12:46:16 2025 ] Dev WER: 31.70%
+[ Sun Jul 13 12:46:16 2025 ] Best_dev: 31.00, Epoch : 9
+[ Sun Jul 13 12:46:17 2025 ] Epoch 11 costs 77 mins 48 seconds
+[ Sun Jul 13 12:46:19 2025 ] 	Epoch: 12, Batch(0/7096) done. Loss: 11.79257011  lr:0.000100
+[ Sun Jul 13 14:23:43 2025 ] 	Mean training loss: 15.5761062351.
+[ Sun Jul 13 14:25:22 2025 ] Dev WER: 32.20%
+[ Sun Jul 13 14:25:22 2025 ] Best_dev: 31.00, Epoch : 9
+[ Sun Jul 13 14:25:22 2025 ] Epoch 12 costs 99 mins 4 seconds
+[ Sun Jul 13 14:25:24 2025 ] 	Epoch: 13, Batch(0/7096) done. Loss: 5.88542843  lr:0.000100
+[ Sun Jul 13 15:09:50 2025 ] 	Mean training loss: 14.8142897605.
+[ Sun Jul 13 15:11:29 2025 ] Dev WER: 32.50%
+[ Sun Jul 13 15:11:29 2025 ] Best_dev: 31.00, Epoch : 9
+[ Sun Jul 13 15:11:29 2025 ] Epoch 13 costs 46 mins 6 seconds
+[ Sun Jul 13 15:11:31 2025 ] 	Epoch: 14, Batch(0/7096) done. Loss: 4.01662350  lr:0.000100
+[ Sun Jul 13 15:56:14 2025 ] 	Mean training loss: 14.0678554122.
+[ Sun Jul 13 15:57:49 2025 ] Dev WER: 33.50%
+[ Sun Jul 13 15:57:49 2025 ] Best_dev: 31.00, Epoch : 9
+[ Sun Jul 13 15:57:49 2025 ] Epoch 14 costs 46 mins 19 seconds
+[ Sun Jul 13 15:57:50 2025 ] 	Epoch: 15, Batch(0/7096) done. Loss: 10.84251308  lr:0.000100
+[ Sun Jul 13 16:42:30 2025 ] 	Mean training loss: 13.2970586972.
+[ Sun Jul 13 16:44:08 2025 ] Dev WER: 34.40%
+[ Sun Jul 13 16:44:08 2025 ] Best_dev: 31.00, Epoch : 9
+[ Sun Jul 13 16:44:08 2025 ] Epoch 15 costs 46 mins 19 seconds
+[ Sun Jul 13 16:44:11 2025 ] 	Epoch: 16, Batch(0/7096) done. Loss: 8.18162823  lr:0.000100
+[ Sun Jul 13 17:28:38 2025 ] 	Mean training loss: 12.7298753633.
+[ Sun Jul 13 17:30:14 2025 ] Dev WER: 31.20%
+[ Sun Jul 13 17:30:14 2025 ] Best_dev: 31.00, Epoch : 9
+[ Sun Jul 13 17:30:14 2025 ] Epoch 16 costs 46 mins 5 seconds
+[ Sun Jul 13 17:30:18 2025 ] 	Epoch: 17, Batch(0/7096) done. Loss: 9.03744221  lr:0.000100
+[ Sun Jul 13 18:14:29 2025 ] 	Mean training loss: 12.0508915951.
+[ Sun Jul 13 18:16:04 2025 ] Dev WER: 32.00%
+[ Sun Jul 13 18:16:04 2025 ] Best_dev: 31.00, Epoch : 9
+[ Sun Jul 13 18:16:04 2025 ] Epoch 17 costs 45 mins 49 seconds
+[ Sun Jul 13 18:16:06 2025 ] 	Epoch: 18, Batch(0/7096) done. Loss: 12.44276619  lr:0.000100
+[ Sun Jul 13 19:00:06 2025 ] 	Mean training loss: 11.6218016528.
+[ Sun Jul 13 19:01:41 2025 ] Dev WER: 31.10%
+[ Sun Jul 13 19:01:41 2025 ] Best_dev: 31.00, Epoch : 9
+[ Sun Jul 13 19:01:41 2025 ] Epoch 18 costs 45 mins 37 seconds
+[ Sun Jul 13 19:01:44 2025 ] 	Epoch: 19, Batch(0/7096) done. Loss: 17.97151947  lr:0.000100
+[ Sun Jul 13 19:46:23 2025 ] 	Mean training loss: 11.1251892175.
+[ Sun Jul 13 19:48:03 2025 ] Dev WER: 30.70%
+[ Sun Jul 13 19:48:10 2025 ] Save best model
+[ Sun Jul 13 19:48:10 2025 ] Best_dev: 30.70, Epoch : 19
+[ Sun Jul 13 19:48:10 2025 ] Epoch 19 costs 46 mins 29 seconds
+[ Sun Jul 13 19:48:12 2025 ] 	Epoch: 20, Batch(0/7096) done. Loss: 5.54267788  lr:0.000100
+[ Sun Jul 13 20:32:48 2025 ] 	Mean training loss: 10.8261508499.
+[ Sun Jul 13 20:34:26 2025 ] Dev WER: 31.30%
+[ Sun Jul 13 20:34:26 2025 ] Best_dev: 30.70, Epoch : 19
+[ Sun Jul 13 20:34:26 2025 ] Epoch 20 costs 46 mins 15 seconds
+[ Sun Jul 13 20:34:28 2025 ] 	Epoch: 21, Batch(0/7096) done. Loss: 11.59016991  lr:0.000100
+[ Sun Jul 13 21:18:59 2025 ] 	Mean training loss: 10.5176322939.
+[ Sun Jul 13 21:20:33 2025 ] Dev WER: 30.60%
+[ Sun Jul 13 21:20:40 2025 ] Save best model
+[ Sun Jul 13 21:20:40 2025 ] Best_dev: 30.60, Epoch : 21
+[ Sun Jul 13 21:20:40 2025 ] Epoch 21 costs 46 mins 13 seconds
+[ Sun Jul 13 21:20:42 2025 ] 	Epoch: 22, Batch(0/7096) done. Loss: 6.28722382  lr:0.000100
+[ Sun Jul 13 22:05:33 2025 ] 	Mean training loss: 10.1945837642.
+[ Sun Jul 13 22:07:13 2025 ] Dev WER: 30.60%
+[ Sun Jul 13 22:07:13 2025 ] Best_dev: 30.60, Epoch : 21
+[ Sun Jul 13 22:07:13 2025 ] Epoch 22 costs 46 mins 32 seconds
+[ Sun Jul 13 22:07:14 2025 ] 	Epoch: 23, Batch(0/7096) done. Loss: 12.28818607  lr:0.000100
+[ Sun Jul 13 22:52:02 2025 ] 	Mean training loss: 9.7994108723.
+[ Sun Jul 13 22:53:40 2025 ] Dev WER: 34.80%
+[ Sun Jul 13 22:53:40 2025 ] Best_dev: 30.60, Epoch : 21
+[ Sun Jul 13 22:53:40 2025 ] Epoch 23 costs 46 mins 27 seconds
+[ Sun Jul 13 22:53:42 2025 ] 	Epoch: 24, Batch(0/7096) done. Loss: 9.61007690  lr:0.000100
+[ Sun Jul 13 23:38:23 2025 ] 	Mean training loss: 9.5322472033.
+[ Sun Jul 13 23:40:02 2025 ] Dev WER: 34.20%
+[ Sun Jul 13 23:40:02 2025 ] Best_dev: 30.60, Epoch : 21
+[ Sun Jul 13 23:40:02 2025 ] Epoch 24 costs 46 mins 21 seconds
+[ Sun Jul 13 23:40:03 2025 ] 	Epoch: 25, Batch(0/7096) done. Loss: 6.60303640  lr:0.000100
+[ Mon Jul 14 00:24:41 2025 ] 	Mean training loss: 9.3833737199.
+[ Mon Jul 14 00:26:20 2025 ] Dev WER: 35.50%
+[ Mon Jul 14 00:26:20 2025 ] Best_dev: 30.60, Epoch : 21
+[ Mon Jul 14 00:26:21 2025 ] Epoch 25 costs 46 mins 18 seconds
+[ Mon Jul 14 00:26:23 2025 ] 	Epoch: 26, Batch(0/7096) done. Loss: 16.61346054  lr:0.000100
+[ Mon Jul 14 01:11:17 2025 ] 	Mean training loss: 9.2089727741.
+[ Mon Jul 14 01:12:57 2025 ] Dev WER: 34.50%
+[ Mon Jul 14 01:12:57 2025 ] Best_dev: 30.60, Epoch : 21
+[ Mon Jul 14 01:12:57 2025 ] Epoch 26 costs 46 mins 35 seconds
+[ Mon Jul 14 01:12:59 2025 ] 	Epoch: 27, Batch(0/7096) done. Loss: 8.29854298  lr:0.000100
+[ Mon Jul 14 01:56:40 2025 ] 	Mean training loss: 9.0147493606.
+[ Mon Jul 14 01:58:18 2025 ] Dev WER: 32.20%
+[ Mon Jul 14 01:58:18 2025 ] Best_dev: 30.60, Epoch : 21
+[ Mon Jul 14 01:58:19 2025 ] Epoch 27 costs 45 mins 21 seconds
+[ Mon Jul 14 01:58:20 2025 ] 	Epoch: 28, Batch(0/7096) done. Loss: 5.27835369  lr:0.000100
+[ Mon Jul 14 02:42:57 2025 ] 	Mean training loss: 8.7489668007.
+[ Mon Jul 14 02:44:37 2025 ] Dev WER: 30.50%
+[ Mon Jul 14 02:44:43 2025 ] Save best model
+[ Mon Jul 14 02:44:43 2025 ] Best_dev: 30.50, Epoch : 28
+[ Mon Jul 14 02:44:44 2025 ] Epoch 28 costs 46 mins 24 seconds
+[ Mon Jul 14 02:44:46 2025 ] 	Epoch: 29, Batch(0/7096) done. Loss: 10.86758041  lr:0.000100
+[ Mon Jul 14 03:29:34 2025 ] 	Mean training loss: 8.7278245732.
+[ Mon Jul 14 03:31:14 2025 ] Dev WER: 33.90%
+[ Mon Jul 14 03:31:14 2025 ] Best_dev: 30.50, Epoch : 28
+[ Mon Jul 14 03:31:14 2025 ] Epoch 29 costs 46 mins 30 seconds
+[ Mon Jul 14 03:31:16 2025 ] 	Epoch: 30, Batch(0/7096) done. Loss: 6.85144329  lr:0.000100
+[ Mon Jul 14 04:16:23 2025 ] 	Mean training loss: 8.3321816924.
+[ Mon Jul 14 04:18:02 2025 ] Dev WER: 32.60%
+[ Mon Jul 14 04:18:02 2025 ] Best_dev: 30.50, Epoch : 28
+[ Mon Jul 14 04:18:03 2025 ] Epoch 30 costs 46 mins 48 seconds
+[ Mon Jul 14 04:18:06 2025 ] 	Epoch: 31, Batch(0/7096) done. Loss: 17.79147148  lr:0.000100
+[ Mon Jul 14 05:01:55 2025 ] 	Mean training loss: 8.3400584960.
+[ Mon Jul 14 05:03:31 2025 ] Dev WER: 32.80%
+[ Mon Jul 14 05:03:31 2025 ] Best_dev: 30.50, Epoch : 28
+[ Mon Jul 14 05:03:31 2025 ] Epoch 31 costs 45 mins 27 seconds
+[ Mon Jul 14 05:03:33 2025 ] 	Epoch: 32, Batch(0/7096) done. Loss: 9.23019314  lr:0.000100
+[ Mon Jul 14 05:47:18 2025 ] 	Mean training loss: 8.1677112617.
+[ Mon Jul 14 05:48:55 2025 ] Dev WER: 34.00%
+[ Mon Jul 14 05:48:55 2025 ] Best_dev: 30.50, Epoch : 28
+[ Mon Jul 14 05:48:55 2025 ] Epoch 32 costs 45 mins 23 seconds
+[ Mon Jul 14 05:48:56 2025 ] 	Epoch: 33, Batch(0/7096) done. Loss: 2.74842834  lr:0.000100
+[ Mon Jul 14 06:32:58 2025 ] 	Mean training loss: 7.9417463137.
+[ Mon Jul 14 06:34:35 2025 ] Dev WER: 35.80%
+[ Mon Jul 14 06:34:35 2025 ] Best_dev: 30.50, Epoch : 28
+[ Mon Jul 14 06:34:35 2025 ] Epoch 33 costs 45 mins 40 seconds
+[ Mon Jul 14 06:34:37 2025 ] 	Epoch: 34, Batch(0/7096) done. Loss: 5.80414963  lr:0.000100
+[ Mon Jul 14 07:18:44 2025 ] 	Mean training loss: 7.9863382272.
+[ Mon Jul 14 07:20:21 2025 ] Dev WER: 33.20%
+[ Mon Jul 14 07:20:21 2025 ] Best_dev: 30.50, Epoch : 28
+[ Mon Jul 14 07:20:21 2025 ] Epoch 34 costs 45 mins 45 seconds
+[ Mon Jul 14 07:20:23 2025 ] 	Epoch: 35, Batch(0/7096) done. Loss: 6.34647036  lr:0.000100
+[ Mon Jul 14 08:04:54 2025 ] 	Mean training loss: 7.8686809836.
+[ Mon Jul 14 08:06:25 2025 ] Dev WER: 34.00%
+[ Mon Jul 14 08:06:25 2025 ] Best_dev: 30.50, Epoch : 28
+[ Mon Jul 14 08:06:26 2025 ] Epoch 35 costs 46 mins 5 seconds
+[ Mon Jul 14 08:06:28 2025 ] 	Epoch: 36, Batch(0/7096) done. Loss: 6.89580154  lr:0.000100
+[ Mon Jul 14 08:50:38 2025 ] 	Mean training loss: 7.7235461256.
+[ Mon Jul 14 08:52:14 2025 ] Dev WER: 34.00%
+[ Mon Jul 14 08:52:14 2025 ] Best_dev: 30.50, Epoch : 28
+[ Mon Jul 14 08:52:14 2025 ] Epoch 36 costs 45 mins 48 seconds
+[ Mon Jul 14 08:52:16 2025 ] 	Epoch: 37, Batch(0/7096) done. Loss: 3.81215930  lr:0.000100
+[ Mon Jul 14 09:36:19 2025 ] 	Mean training loss: 7.6411674309.
+[ Mon Jul 14 09:37:56 2025 ] Dev WER: 32.20%
+[ Mon Jul 14 09:37:56 2025 ] Best_dev: 30.50, Epoch : 28
+[ Mon Jul 14 09:37:56 2025 ] Epoch 37 costs 45 mins 41 seconds
+[ Mon Jul 14 09:37:58 2025 ] 	Epoch: 38, Batch(0/7096) done. Loss: 5.99737692  lr:0.000100
+[ Mon Jul 14 10:22:13 2025 ] 	Mean training loss: 7.5801341165.
+[ Mon Jul 14 10:23:51 2025 ] Dev WER: 33.60%
+[ Mon Jul 14 10:23:51 2025 ] Best_dev: 30.50, Epoch : 28
+[ Mon Jul 14 10:23:51 2025 ] Epoch 38 costs 45 mins 54 seconds
+[ Mon Jul 14 10:23:52 2025 ] 	Epoch: 39, Batch(0/7096) done. Loss: 5.55241585  lr:0.000100
+[ Mon Jul 14 11:08:10 2025 ] 	Mean training loss: 7.4998770174.
+[ Mon Jul 14 11:09:48 2025 ] Dev WER: 34.00%
+[ Mon Jul 14 11:09:48 2025 ] Best_dev: 30.50, Epoch : 28
+[ Mon Jul 14 11:09:48 2025 ] Epoch 39 costs 45 mins 57 seconds
+[ Mon Jul 14 11:09:50 2025 ] 	Epoch: 40, Batch(0/7096) done. Loss: 6.45786858  lr:0.000020
+[ Mon Jul 14 11:54:34 2025 ] 	Mean training loss: 5.8490900941.
+[ Mon Jul 14 11:56:02 2025 ] Dev WER: 30.00%
+[ Mon Jul 14 11:56:08 2025 ] Save best model
+[ Mon Jul 14 11:56:08 2025 ] Best_dev: 30.00, Epoch : 40
+[ Mon Jul 14 11:56:09 2025 ] Epoch 40 costs 46 mins 20 seconds
+[ Mon Jul 14 11:56:11 2025 ] 	Epoch: 41, Batch(0/7096) done. Loss: 3.57957792  lr:0.000020
+[ Mon Jul 14 13:53:30 2025 ] 	Mean training loss: 5.3304479185.
+[ Mon Jul 14 14:01:17 2025 ] Dev WER: 29.20%
+[ Mon Jul 14 14:01:24 2025 ] Save best model
+[ Mon Jul 14 14:01:24 2025 ] Best_dev: 29.20, Epoch : 41
+[ Mon Jul 14 14:01:25 2025 ] Epoch 41 costs 125 mins 15 seconds
+[ Mon Jul 14 14:01:26 2025 ] 	Epoch: 42, Batch(0/7096) done. Loss: 4.75042057  lr:0.000020
+[ Mon Jul 14 14:46:30 2025 ] 	Mean training loss: 5.1402838510.
+[ Mon Jul 14 14:48:07 2025 ] Dev WER: 29.20%
+[ Mon Jul 14 14:48:07 2025 ] Best_dev: 29.20, Epoch : 41
+[ Mon Jul 14 14:48:07 2025 ] Epoch 42 costs 46 mins 42 seconds
+[ Mon Jul 14 14:48:09 2025 ] 	Epoch: 43, Batch(0/7096) done. Loss: 4.02581644  lr:0.000020
+[ Mon Jul 14 15:32:35 2025 ] 	Mean training loss: 4.9576499269.
+[ Mon Jul 14 15:34:14 2025 ] Dev WER: 30.30%
+[ Mon Jul 14 15:34:14 2025 ] Best_dev: 29.20, Epoch : 41
+[ Mon Jul 14 15:34:14 2025 ] Epoch 43 costs 46 mins 6 seconds
+[ Mon Jul 14 15:34:16 2025 ] 	Epoch: 44, Batch(0/7096) done. Loss: 3.26027846  lr:0.000020
+[ Mon Jul 14 16:18:42 2025 ] 	Mean training loss: 4.9078959357.
+[ Mon Jul 14 16:20:21 2025 ] Dev WER: 30.10%
+[ Mon Jul 14 16:20:21 2025 ] Best_dev: 29.20, Epoch : 41
+[ Mon Jul 14 16:20:21 2025 ] Epoch 44 costs 46 mins 6 seconds
+[ Mon Jul 14 16:20:23 2025 ] 	Epoch: 45, Batch(0/7096) done. Loss: 7.60505009  lr:0.000020
+[ Mon Jul 14 17:04:55 2025 ] 	Mean training loss: 4.8195854206.
+[ Mon Jul 14 17:06:28 2025 ] Dev WER: 29.80%
+[ Mon Jul 14 17:06:28 2025 ] Best_dev: 29.20, Epoch : 41
+[ Mon Jul 14 17:06:29 2025 ] Epoch 45 costs 46 mins 8 seconds
+[ Mon Jul 14 17:06:30 2025 ] 	Epoch: 46, Batch(0/7096) done. Loss: 5.16826630  lr:0.000020
+[ Mon Jul 14 17:50:57 2025 ] 	Mean training loss: 4.7458737969.
+[ Mon Jul 14 17:52:35 2025 ] Dev WER: 29.20%
+[ Mon Jul 14 17:52:35 2025 ] Best_dev: 29.20, Epoch : 41
+[ Mon Jul 14 17:52:35 2025 ] Epoch 46 costs 46 mins 6 seconds
+[ Mon Jul 14 17:52:37 2025 ] 	Epoch: 47, Batch(0/7096) done. Loss: 3.19431043  lr:0.000020
+[ Mon Jul 14 18:37:09 2025 ] 	Mean training loss: 4.7234947896.
+[ Mon Jul 14 18:38:48 2025 ] Dev WER: 32.50%
+[ Mon Jul 14 18:38:48 2025 ] Best_dev: 29.20, Epoch : 41
+[ Mon Jul 14 18:38:48 2025 ] Epoch 47 costs 46 mins 12 seconds
+[ Mon Jul 14 18:38:49 2025 ] 	Epoch: 48, Batch(0/7096) done. Loss: 2.96183348  lr:0.000020
+[ Mon Jul 14 19:23:25 2025 ] 	Mean training loss: 4.6723461717.
+[ Mon Jul 14 19:25:05 2025 ] Dev WER: 31.50%
+[ Mon Jul 14 19:25:05 2025 ] Best_dev: 29.20, Epoch : 41
+[ Mon Jul 14 19:25:05 2025 ] Epoch 48 costs 46 mins 16 seconds
+[ Mon Jul 14 19:25:07 2025 ] 	Epoch: 49, Batch(0/7096) done. Loss: 3.40130877  lr:0.000020
+[ Mon Jul 14 20:09:54 2025 ] 	Mean training loss: 4.6045382681.
+[ Mon Jul 14 20:11:33 2025 ] Dev WER: 31.50%
+[ Mon Jul 14 20:11:33 2025 ] Best_dev: 29.20, Epoch : 41
+[ Mon Jul 14 20:11:34 2025 ] Epoch 49 costs 46 mins 28 seconds
+[ Mon Jul 14 20:11:36 2025 ] 	Epoch: 50, Batch(0/7096) done. Loss: 4.11283875  lr:0.000020
+[ Mon Jul 14 20:56:27 2025 ] 	Mean training loss: 4.5154346876.
+[ Mon Jul 14 20:58:00 2025 ] Dev WER: 31.00%
+[ Mon Jul 14 20:58:00 2025 ] Best_dev: 29.20, Epoch : 41
+[ Mon Jul 14 20:58:01 2025 ] Epoch 50 costs 46 mins 27 seconds
+[ Mon Jul 14 20:58:03 2025 ] 	Epoch: 51, Batch(0/7096) done. Loss: 5.06386089  lr:0.000020
+[ Mon Jul 14 21:42:58 2025 ] 	Mean training loss: 4.5510559750.
+[ Mon Jul 14 21:44:37 2025 ] Dev WER: 33.40%
+[ Mon Jul 14 21:44:37 2025 ] Best_dev: 29.20, Epoch : 41
+[ Mon Jul 14 21:44:37 2025 ] Epoch 51 costs 46 mins 35 seconds
+[ Mon Jul 14 21:44:39 2025 ] 	Epoch: 52, Batch(0/7096) done. Loss: 14.27403450  lr:0.000020
+[ Mon Jul 14 22:29:32 2025 ] 	Mean training loss: 4.4676034788.
+[ Mon Jul 14 22:31:06 2025 ] Dev WER: 32.80%
+[ Mon Jul 14 22:31:06 2025 ] Best_dev: 29.20, Epoch : 41
+[ Mon Jul 14 22:31:07 2025 ] Epoch 52 costs 46 mins 29 seconds
+[ Mon Jul 14 22:31:08 2025 ] 	Epoch: 53, Batch(0/7096) done. Loss: 2.69141817  lr:0.000020
+[ Mon Jul 14 23:16:05 2025 ] 	Mean training loss: 4.4812777126.
+[ Mon Jul 14 23:17:45 2025 ] Dev WER: 31.00%
+[ Mon Jul 14 23:17:45 2025 ] Best_dev: 29.20, Epoch : 41
+[ Mon Jul 14 23:17:45 2025 ] Epoch 53 costs 46 mins 38 seconds
+[ Mon Jul 14 23:17:48 2025 ] 	Epoch: 54, Batch(0/7096) done. Loss: 4.22172642  lr:0.000020
+[ Tue Jul 15 00:02:31 2025 ] 	Mean training loss: 4.4804871838.
+[ Tue Jul 15 00:04:11 2025 ] Dev WER: 30.80%
+[ Tue Jul 15 00:04:11 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 00:04:11 2025 ] Epoch 54 costs 46 mins 25 seconds
+[ Tue Jul 15 00:04:13 2025 ] 	Epoch: 55, Batch(0/7096) done. Loss: 5.85179996  lr:0.000020
+[ Tue Jul 15 00:49:02 2025 ] 	Mean training loss: 4.4038267290.
+[ Tue Jul 15 00:50:42 2025 ] Dev WER: 32.00%
+[ Tue Jul 15 00:50:42 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 00:50:43 2025 ] Epoch 55 costs 46 mins 31 seconds
+[ Tue Jul 15 00:50:45 2025 ] 	Epoch: 56, Batch(0/7096) done. Loss: 5.43507195  lr:0.000020
+[ Tue Jul 15 01:35:39 2025 ] 	Mean training loss: 4.3699160236.
+[ Tue Jul 15 01:37:18 2025 ] Dev WER: 32.00%
+[ Tue Jul 15 01:37:18 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 01:37:18 2025 ] Epoch 56 costs 46 mins 35 seconds
+[ Tue Jul 15 01:37:20 2025 ] 	Epoch: 57, Batch(0/7096) done. Loss: 2.06199980  lr:0.000020
+[ Tue Jul 15 02:22:01 2025 ] 	Mean training loss: 4.3678991151.
+[ Tue Jul 15 02:23:40 2025 ] Dev WER: 33.30%
+[ Tue Jul 15 02:23:40 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 02:23:40 2025 ] Epoch 57 costs 46 mins 21 seconds
+[ Tue Jul 15 02:23:41 2025 ] 	Epoch: 58, Batch(0/7096) done. Loss: 3.19993687  lr:0.000020
+[ Tue Jul 15 03:08:31 2025 ] 	Mean training loss: 4.3690511101.
+[ Tue Jul 15 03:10:08 2025 ] Dev WER: 32.00%
+[ Tue Jul 15 03:10:08 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 03:10:09 2025 ] Epoch 58 costs 46 mins 28 seconds
+[ Tue Jul 15 03:10:10 2025 ] 	Epoch: 59, Batch(0/7096) done. Loss: 3.74560356  lr:0.000020
+[ Tue Jul 15 03:55:02 2025 ] 	Mean training loss: 4.2955381052.
+[ Tue Jul 15 03:56:41 2025 ] Dev WER: 31.90%
+[ Tue Jul 15 03:56:41 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 03:56:41 2025 ] Epoch 59 costs 46 mins 32 seconds
+[ Tue Jul 15 03:56:43 2025 ] 	Epoch: 60, Batch(0/7096) done. Loss: 2.96607018  lr:0.000004
+[ Tue Jul 15 04:41:14 2025 ] 	Mean training loss: 4.1198772675.
+[ Tue Jul 15 04:42:53 2025 ] Dev WER: 31.40%
+[ Tue Jul 15 04:42:53 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 04:42:54 2025 ] Epoch 60 costs 46 mins 12 seconds
+[ Tue Jul 15 04:42:56 2025 ] 	Epoch: 61, Batch(0/7096) done. Loss: 3.40580773  lr:0.000004
+[ Tue Jul 15 05:27:46 2025 ] 	Mean training loss: 4.0645726518.
+[ Tue Jul 15 05:29:20 2025 ] Dev WER: 32.90%
+[ Tue Jul 15 05:29:20 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 05:29:20 2025 ] Epoch 61 costs 46 mins 26 seconds
+[ Tue Jul 15 05:29:22 2025 ] 	Epoch: 62, Batch(0/7096) done. Loss: 4.38817024  lr:0.000004
+[ Tue Jul 15 06:14:02 2025 ] 	Mean training loss: 4.0048606051.
+[ Tue Jul 15 06:15:41 2025 ] Dev WER: 31.50%
+[ Tue Jul 15 06:15:41 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 06:15:41 2025 ] Epoch 62 costs 46 mins 21 seconds
+[ Tue Jul 15 06:15:43 2025 ] 	Epoch: 63, Batch(0/7096) done. Loss: 3.45908618  lr:0.000004
+[ Tue Jul 15 07:00:20 2025 ] 	Mean training loss: 3.9716534369.
+[ Tue Jul 15 07:02:00 2025 ] Dev WER: 32.30%
+[ Tue Jul 15 07:02:00 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 07:02:00 2025 ] Epoch 63 costs 46 mins 18 seconds
+[ Tue Jul 15 07:02:02 2025 ] 	Epoch: 64, Batch(0/7096) done. Loss: 3.11165929  lr:0.000004
+[ Tue Jul 15 07:46:33 2025 ] 	Mean training loss: 3.9549588131.
+[ Tue Jul 15 07:48:11 2025 ] Dev WER: 31.00%
+[ Tue Jul 15 07:48:11 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 07:48:11 2025 ] Epoch 64 costs 46 mins 11 seconds
+[ Tue Jul 15 07:48:13 2025 ] 	Epoch: 65, Batch(0/7096) done. Loss: 4.53806686  lr:0.000004
+[ Tue Jul 15 08:32:34 2025 ] 	Mean training loss: 3.9269233966.
+[ Tue Jul 15 08:34:13 2025 ] Dev WER: 32.20%
+[ Tue Jul 15 08:34:13 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 08:34:14 2025 ] Epoch 65 costs 46 mins 2 seconds
+[ Tue Jul 15 08:34:15 2025 ] 	Epoch: 66, Batch(0/7096) done. Loss: 3.14019966  lr:0.000004
+[ Tue Jul 15 09:18:44 2025 ] 	Mean training loss: 3.9143158141.
+[ Tue Jul 15 09:20:23 2025 ] Dev WER: 32.50%
+[ Tue Jul 15 09:20:23 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 09:20:24 2025 ] Epoch 66 costs 46 mins 9 seconds
+[ Tue Jul 15 09:20:26 2025 ] 	Epoch: 67, Batch(0/7096) done. Loss: 4.89085960  lr:0.000004
+[ Tue Jul 15 10:04:54 2025 ] 	Mean training loss: 3.9099599519.
+[ Tue Jul 15 10:06:32 2025 ] Dev WER: 33.50%
+[ Tue Jul 15 10:06:32 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 10:06:32 2025 ] Epoch 67 costs 46 mins 8 seconds
+[ Tue Jul 15 10:06:34 2025 ] 	Epoch: 68, Batch(0/7096) done. Loss: 9.44828224  lr:0.000004
+[ Tue Jul 15 10:50:44 2025 ] 	Mean training loss: 3.9054251452.
+[ Tue Jul 15 10:52:22 2025 ] Dev WER: 32.70%
+[ Tue Jul 15 10:52:22 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 10:52:22 2025 ] Epoch 68 costs 45 mins 49 seconds
+[ Tue Jul 15 10:52:24 2025 ] 	Epoch: 69, Batch(0/7096) done. Loss: 3.26433229  lr:0.000004
+[ Tue Jul 15 11:36:49 2025 ] 	Mean training loss: 3.8865703387.
+[ Tue Jul 15 11:38:22 2025 ] Dev WER: 31.60%
+[ Tue Jul 15 11:38:22 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 11:38:22 2025 ] Epoch 69 costs 46 mins 0 seconds
+[ Tue Jul 15 11:38:24 2025 ] 	Epoch: 70, Batch(0/7096) done. Loss: 2.58130074  lr:0.000004
+[ Tue Jul 15 13:04:34 2025 ] 	Mean training loss: 3.8423977910.
+[ Tue Jul 15 13:12:30 2025 ] Dev WER: 32.80%
+[ Tue Jul 15 13:12:30 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 13:12:30 2025 ] Epoch 70 costs 94 mins 8 seconds
+[ Tue Jul 15 13:12:40 2025 ] 	Epoch: 71, Batch(0/7096) done. Loss: 2.74086118  lr:0.000004
+[ Tue Jul 15 14:25:42 2025 ] 	Mean training loss: 3.8849998908.
+[ Tue Jul 15 14:27:11 2025 ] Dev WER: 32.20%
+[ Tue Jul 15 14:27:11 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 14:27:11 2025 ] Epoch 71 costs 74 mins 40 seconds
+[ Tue Jul 15 14:27:13 2025 ] 	Epoch: 72, Batch(0/7096) done. Loss: 3.79457998  lr:0.000004
+[ Tue Jul 15 15:11:29 2025 ] 	Mean training loss: 3.8840367701.
+[ Tue Jul 15 15:13:07 2025 ] Dev WER: 32.00%
+[ Tue Jul 15 15:13:07 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 15:13:07 2025 ] Epoch 72 costs 45 mins 56 seconds
+[ Tue Jul 15 15:13:09 2025 ] 	Epoch: 73, Batch(0/7096) done. Loss: 2.82058668  lr:0.000004
+[ Tue Jul 15 15:57:14 2025 ] 	Mean training loss: 3.8447627306.
+[ Tue Jul 15 15:58:53 2025 ] Dev WER: 33.60%
+[ Tue Jul 15 15:58:53 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 15:58:53 2025 ] Epoch 73 costs 45 mins 45 seconds
+[ Tue Jul 15 15:58:55 2025 ] 	Epoch: 74, Batch(0/7096) done. Loss: 3.35561752  lr:0.000004
+[ Tue Jul 15 16:43:10 2025 ] 	Mean training loss: 3.8553714314.
+[ Tue Jul 15 16:44:48 2025 ] Dev WER: 34.30%
+[ Tue Jul 15 16:44:48 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 16:44:48 2025 ] Epoch 74 costs 45 mins 54 seconds
+[ Tue Jul 15 16:44:51 2025 ] 	Epoch: 75, Batch(0/7096) done. Loss: 3.77113581  lr:0.000004
+[ Tue Jul 15 17:29:14 2025 ] 	Mean training loss: 3.8569812404.
+[ Tue Jul 15 17:30:46 2025 ] Dev WER: 31.60%
+[ Tue Jul 15 17:30:46 2025 ] Best_dev: 29.20, Epoch : 41
+[ Tue Jul 15 17:30:47 2025 ] Epoch 75 costs 45 mins 58 seconds
+[ Tue Jul 15 17:30:50 2025 ] 	Epoch: 76, Batch(0/7096) done. Loss: 4.20635319  lr:0.000004

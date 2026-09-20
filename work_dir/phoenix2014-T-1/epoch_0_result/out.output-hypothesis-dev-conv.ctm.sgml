@@ -1,0 +1,1577 @@
+<SYSTEM title="./work_dir/phoenix2014-T-1/out.output-hypothesis-dev-conv.ctm" ref_fname="./work_dir/phoenix2014-T-1/tmp.stm" hyp_fname="./work_dir/phoenix2014-T-1/out.output-hypothesis-dev-conv.ctm" creation_date="Sun Jul 13 03:45:34 2025" format="2.4" frag_corr="FALSE" opt_del="FALSE" weight_ali="FALSE" weight_filename="">
+<SPEAKER id="signer04">
+<PATH id="(signer04-000)" word_cnt="4" file="01april_2010_thursday_heute-6697" channel="1" sequence="0" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"ich",,:D,"ostern",,:S,"wetter","heute",0.000+0.010:S,"zufrieden","schnee",0.010+0.030
+</PATH>
+<PATH id="(signer04-001)" word_cnt="6" file="01april_2010_thursday_heute-6698" channel="1" sequence="1" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"mittag","berg",0.000+0.010:C,"temperatur","temperatur",0.010+0.030:D,"sued",,:D,"warm",,:S,"poss-mein","wechselhaft",0.020+0.050:S,"nicht","sonntag",0.030+0.070
+</PATH>
+<PATH id="(signer04-002)" word_cnt="11" file="01july_2011_friday_tagesschau-2763" channel="1" sequence="9" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"nord","region",0.000+0.010:C,"sonne","sonne",0.010+0.030:C,"wolke","wolke",0.020+0.050:C,"wechselhaft","wechselhaft",0.030+0.070:C,"bisschen","bisschen",0.040+0.090:C,"schauer","schauer",0.050+0.110:I,,"ost",0.060+0.130:S,"suedwest","west",0.070+0.150:S,"besonders","sued",0.080+0.170:S,"sonne","koennen",0.090+0.190:C,"moeglich","moeglich",0.100+0.210
+</PATH>
+<PATH id="(signer04-003)" word_cnt="6" file="01july_2011_friday_tagesschau-2765" channel="1" sequence="10" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:D,"dreizehn",,:C,"nord","nord",0.020+0.050:D,"vier",,:S,"berg","alpen",0.030+0.070
+</PATH>
+<PATH id="(signer04-004)" word_cnt="6" file="01july_2011_friday_tagesschau-2766" channel="1" sequence="11" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"am-tag",,:D,"dreizehn",,:D,"ost",,:D,"eins",,:S,"zwanzig","tag",0.000+0.010:S,"fluss","auch",0.010+0.030
+</PATH>
+<PATH id="(signer04-005)" word_cnt="7" file="01october_2010_friday_tagesschau-2691" channel="1" sequence="19" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"jetzt",,:S,"wetter","nord",0.000+0.010:C,"wie-aussehen","wie-aussehen",0.010+0.030:C,"morgen","morgen",0.020+0.050:D,"samstag",,:D,"zweite",,:S,"oktober","west",0.030+0.070
+</PATH>
+<PATH id="(signer04-006)" word_cnt="7" file="02december_2011_friday_tagesschau-8009" channel="1" sequence="24" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"region",0.000+0.010:C,"nacht","nacht",0.010+0.030:D,"ix",,:D,"bisschen",,:C,"regen","regen",0.020+0.050:S,"hoch","ost",0.030+0.070:C,"schnee","schnee",0.040+0.090
+</PATH>
+<PATH id="(signer04-007)" word_cnt="6" file="02december_2011_friday_tagesschau-8010" channel="1" sequence="25" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"region",,:C,"teil","teil",0.000+0.010:C,"klar","klar",0.010+0.030:C,"nord","nord",0.020+0.050:D,"geben",,:C,"schauer","schauer",0.030+0.070
+</PATH>
+<PATH id="(signer04-008)" word_cnt="5" file="03july_2009_friday_tagesschau-2003" channel="1" sequence="41" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"gerade","region",0.000+0.010:S,"rhein-pfalz","gewitter",0.010+0.030:S,"saarland","region",0.020+0.050:S,"nordrhein-westfalen","wechselhaft",0.030+0.070:C,"gewitter","gewitter",0.040+0.090
+</PATH>
+<PATH id="(signer04-009)" word_cnt="11" file="03july_2009_friday_tagesschau-2008" channel="1" sequence="42" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"jetzt",0.000+0.010:S,"im-moment","ix",0.010+0.030:S,"doch","heute",0.020+0.050:C,"gewitter","gewitter",0.030+0.070:D,"deutsch",,:S,"wetter","auch",0.040+0.090:S,"dienst","ost",0.050+0.110:S,"warnung","auch",0.060+0.130:S,"schon","teil",0.070+0.150:S,"fertig","region",0.080+0.170:S,"bekanntgeben","wind",0.090+0.190
+</PATH>
+<PATH id="(signer04-010)" word_cnt="5" file="03july_2011_sunday_tagesschau-1673" channel="1" sequence="43" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"mittwoch","mittwoch",0.000+0.010:I,,"warm",0.010+0.030:I,,"bis",0.020+0.050:C,"wechselhaft","wechselhaft",0.030+0.070:I,,"auch",0.040+0.090
+</PATH>
+<PATH id="(signer04-011)" word_cnt="4" file="03july_2011_sunday_tagesschau-1674" channel="1" sequence="44" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"auch",,:D,"donnerstag",,:D,"weiter",,:S,"wechselhaft","[empty]",0.000+0.030
+</PATH>
+<PATH id="(signer04-012)" word_cnt="10" file="04july_2009_saturday_tagesschau-3345" channel="1" sequence="64" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"montag","montag",0.000+0.010:I,,"auch",0.010+0.030:S,"ueberwiegend","meistens",0.020+0.050:C,"schauer","schauer",0.030+0.070:C,"ost","ost",0.040+0.090:C,"gewitter","gewitter",0.050+0.110:D,"sued",,:D,"west",,:S,"lang","alpen",0.060+0.130:S,"freundlich","warm",0.070+0.150
+</PATH>
+<PATH id="(signer04-013)" word_cnt="7" file="04july_2010_sunday_tagesschau-7198" channel="1" sequence="65" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"jetzt",,:C,"wetter","wetter",0.000+0.010:C,"wie-aussehen","wie-aussehen",0.010+0.030:C,"morgen","morgen",0.020+0.050:C,"montag","montag",0.030+0.070:D,"fuenfte",,:D,"juli",,
+</PATH>
+<PATH id="(signer04-014)" word_cnt="9" file="04july_2010_sunday_tagesschau-7199" channel="1" sequence="66" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"tief","tief",0.000+0.010:C,"nord","nord",0.010+0.030:D,"europa",,:D,"diese",,:C,"nordwest","nordwest",0.020+0.050:C,"morgen","morgen",0.030+0.070:D,"schauer",,:S,"suedost","berg",0.040+0.090:C,"gewitter","gewitter",0.050+0.110
+</PATH>
+<PATH id="(signer04-015)" word_cnt="9" file="04may_2010_tuesday_heute-453" channel="1" sequence="69" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"heute",0.000+0.010:S,"hoch","ost",0.010+0.030:C,"nord","nord",0.020+0.050:C,"sonne","sonne",0.030+0.070:I,,"teil",0.040+0.090:S,"deshalb","wetter",0.050+0.110:S,"grenze","wechselhaft",0.060+0.130:S,"hoch","wetter",0.070+0.150:S,"tief","heute",0.080+0.170
+</PATH>
+<PATH id="(signer04-016)" word_cnt="7" file="05february_2011_saturday_tagesschau-7855" channel="1" sequence="78" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:C,"nord","nord",0.020+0.050:C,"teil","teil",0.030+0.070:C,"sturm","sturm",0.040+0.090:C,"berg","berg",0.050+0.110:S,"orkan","luft",0.060+0.130
+</PATH>
+<PATH id="(signer04-017)" word_cnt="6" file="05september_2009_saturday_tagesschau-4078" channel="1" sequence="83" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"wetter","jetzt",0.000+0.010:S,"wie-aussehen","nordost",0.010+0.030:C,"morgen","morgen",0.020+0.050:C,"sonntag","sonntag",0.030+0.070:D,"sechs",,:S,"september","zwanzig",0.040+0.090
+</PATH>
+<PATH id="(signer04-018)" word_cnt="7" file="05september_2010_sunday_tagesschau-3132" channel="1" sequence="84" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"auch","auch",0.000+0.010:D,"ober",,:D,"fluss",,:C,"bis","bis",0.010+0.030:C,"abend","abend",0.020+0.050:S,"mehr","ost",0.030+0.070:C,"wolke","wolke",0.040+0.090
+</PATH>
+<PATH id="(signer04-019)" word_cnt="7" file="06august_2010_friday_tagesschau-2172" channel="1" sequence="86" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"jetzt",,:S,"wetter","wind",0.000+0.010:C,"wie-aussehen","wie-aussehen",0.010+0.030:C,"morgen","morgen",0.020+0.050:C,"samstag","samstag",0.030+0.070:D,"siebte",,:S,"august","region",0.040+0.090
+</PATH>
+<PATH id="(signer04-020)" word_cnt="9" file="06february_2011_sunday_tagesschau-6914" channel="1" sequence="90" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:S,"ab","fluss",0.020+0.050:C,"morgen","morgen",0.030+0.070:S,"nachmittag","nordost",0.040+0.090:C,"nord","nord",0.050+0.110:D,"harz",,:S,"region","alpen",0.060+0.130:C,"sturm","sturm",0.070+0.150
+</PATH>
+<PATH id="(signer04-021)" word_cnt="7" file="06february_2011_sunday_tagesschau-6917" channel="1" sequence="91" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nord","nord",0.000+0.010:C,"morgen","morgen",0.010+0.030:C,"sieben","sieben",0.020+0.050:D,"region",,:S,"fluss","im-verlauf",0.030+0.070:C,"bis","bis",0.040+0.090:S,"fuenfzehn","nebel",0.050+0.110
+</PATH>
+<PATH id="(signer04-022)" word_cnt="4" file="06may_2010_thursday_heute-1054" channel="1" sequence="100" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"nachmittag",,:S,"koennen","moeglich",0.000+0.010:C,"sonne","sonne",0.010+0.030:D,"koennen",,
+</PATH>
+<PATH id="(signer04-023)" word_cnt="8" file="07june_2010_monday_heute-2322" channel="1" sequence="119" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"dazu","bis",0.000+0.010:C,"warm","warm",0.010+0.030:D,"luft",,:D,"tatsaechlich",,:S,"warm","kuehl",0.020+0.050:S,"heiss","fuenf",0.030+0.070:S,"naechste-woche","sonne",0.040+0.090:S,"kuehl","kalt",0.050+0.110
+</PATH>
+<PATH id="(signer04-024)" word_cnt="12" file="07june_2010_monday_heute-2327" channel="1" sequence="120" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"ost","ost",0.000+0.010:D,"sued",,:D,"berlin",,:C,"sued","sued",0.010+0.030:S,"deutschland","land",0.020+0.050:S,"vier","fuenf",0.030+0.070:C,"zwanzig","zwanzig",0.040+0.090:D,"grad",,:C,"bis","bis",0.050+0.110:D,"acht",,:D,"zwanzig",,:C,"grad","grad",0.060+0.130
+</PATH>
+<PATH id="(signer04-025)" word_cnt="7" file="08february_2010_monday_tagesschau-2796" channel="1" sequence="127" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"jetzt",,:C,"wetter","wetter",0.000+0.010:C,"wie-aussehen","wie-aussehen",0.010+0.030:C,"morgen","morgen",0.020+0.050:C,"dienstag","dienstag",0.030+0.070:D,"neunte",,:S,"februar","tag",0.040+0.090
+</PATH>
+<PATH id="(signer04-026)" word_cnt="6" file="10november_2009_tuesday_tagesschau-7250" channel="1" sequence="177" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"donnerstag",,:D,"nebel",,:D,"aufloesen",,:D,"wolke",,:S,"bewoelkt","region",0.000+0.010:S,"haben2","ost",0.010+0.030
+</PATH>
+<PATH id="(signer04-027)" word_cnt="3" file="11december_2009_friday_tagesschau-3509" channel="1" sequence="182" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"alpen",,:D,"lang",,:S,"schnee","sonntag",0.000+0.010
+</PATH>
+<PATH id="(signer04-028)" word_cnt="5" file="12september_2009_saturday_tagesschau-6589" channel="1" sequence="215" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"bleiben",0.000+0.010:S,"deshalb","bis",0.010+0.030:S,"naechste","wechselhaft",0.020+0.050:S,"woche","mehr",0.030+0.070:S,"kommen","warm",0.040+0.090
+</PATH>
+<PATH id="(signer04-029)" word_cnt="6" file="12september_2009_saturday_tagesschau-6590" channel="1" sequence="216" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"im-verlauf","im-verlauf",0.000+0.010:C,"nacht","nacht",0.010+0.030:C,"nord","nord",0.020+0.050:D,"wolke",,:S,"bisschen","ost",0.030+0.070:S,"regen","schnee",0.040+0.090
+</PATH>
+<PATH id="(signer04-030)" word_cnt="8" file="12september_2009_saturday_tagesschau-6591" channel="1" sequence="217" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"tag","morgen",0.000+0.010:C,"sued","sued",0.010+0.030:S,"freundlich","trocken",0.020+0.050:S,"unten","jetzt",0.030+0.070:C,"kommen","kommen",0.040+0.090:C,"mehr","mehr",0.050+0.110:C,"regen","regen",0.060+0.130:D,"tropfen",,
+</PATH>
+<PATH id="(signer04-031)" word_cnt="10" file="13december_2009_sunday_tagesschau-6822" channel="1" sequence="223" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"suedost","suedost",0.000+0.010:D,"schnee",,:D,"region",,:C,"trocken","trocken",0.010+0.030:S,"minus","bis",0.020+0.050:S,"acht","sieben",0.030+0.070:C,"bis","bis",0.040+0.090:S,"plus","wechselhaft",0.050+0.110:S,"eins","bis",0.060+0.130:S,"zwischen","nordwest",0.070+0.150
+</PATH>
+<PATH id="(signer04-032)" word_cnt="10" file="17october_2009_saturday_tagesschau-2127" channel="1" sequence="267" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"freitag",0.000+0.010:C,"tief","tief",0.010+0.030:S,"region","berg",0.020+0.050:C,"schwach","schwach",0.030+0.070:C,"morgen","morgen",0.040+0.090:S,"soll","auch",0.050+0.110:S,"einfluss","region",0.060+0.130:C,"ost","ost",0.070+0.150:D,"region",,:C,"sued","sued",0.080+0.170
+</PATH>
+<PATH id="(signer04-033)" word_cnt="5" file="17october_2009_saturday_tagesschau-2133" channel="1" sequence="268" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"wind","wind",0.000+0.010:I,,"sturm",0.010+0.030:C,"schwach","schwach",0.020+0.050:I,,"heute",0.030+0.070:S,"wehen","sued",0.040+0.090
+</PATH>
+<PATH id="(signer04-034)" word_cnt="6" file="17october_2009_saturday_tagesschau-2138" channel="1" sequence="269" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"mittwoch","mittwoch",0.000+0.010:C,"west","west",0.010+0.030:D,"wolke",,:D,"acht",,:D,"bis",,:S,"sechszehn","koennen",0.020+0.050
+</PATH>
+<PATH id="(signer04-035)" word_cnt="2" file="17october_2009_saturday_tagesschau-2139" channel="1" sequence="270" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"nebel","schnee",0.000+0.010:S,"kuehl","kalt",0.010+0.030
+</PATH>
+<PATH id="(signer04-036)" word_cnt="7" file="18november_2011_friday_tagesschau-2143" channel="1" sequence="277" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"heute",0.000+0.010:C,"wolke","wolke",0.010+0.030:C,"region","region",0.020+0.050:D,"schaffen",,:D,"nur",,:S,"nordwest","ost",0.030+0.070:S,"kommen","region",0.040+0.090
+</PATH>
+<PATH id="(signer04-037)" word_cnt="5" file="18october_2010_monday_heute-629" channel="1" sequence="278" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"nur","auch",0.000+0.010:C,"sued","sued",0.010+0.030:I,,"sonntag",0.020+0.050:C,"mehr","mehr",0.030+0.070:C,"freundlich","freundlich",0.040+0.090
+</PATH>
+<PATH id="(signer04-038)" word_cnt="4" file="18october_2010_monday_heute-630" channel="1" sequence="279" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"jetzt",,:D,"wuenschen",,:S,"schoen","nord",0.000+0.010:S,"abend","nacht",0.010+0.030
+</PATH>
+<PATH id="(signer04-039)" word_cnt="10" file="19march_2011_saturday_tagesschau-4690" channel="1" sequence="287" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"frueh",,:D,"verschwinden",,:D,"langsam",,:D,"schnell",,:D,"nordost",,:D,"bisschen",,:D,"wolke",,:S,"bleiben","gewitter",0.010+0.030:S,"trocken","mild",0.020+0.050
+</PATH>
+<PATH id="(signer04-040)" word_cnt="6" file="19march_2011_saturday_tagesschau-4697" channel="1" sequence="288" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"kueste",,:C,"bisschen","bisschen",0.000+0.010:D,"wolke",,:D,"aber",,:S,"neg-regen","schauer",0.010+0.030:S,"neg-haben","wind",0.020+0.050
+</PATH>
+<PATH id="(signer04-041)" word_cnt="7" file="20february_2011_sunday_tagesschau-3164" channel="1" sequence="296" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"wetter","wind",0.000+0.010:C,"wie-aussehen","wie-aussehen",0.010+0.030:C,"morgen","morgen",0.020+0.050:C,"montag","montag",0.030+0.070:C,"eins","eins",0.040+0.090:D,"zwanzig",,:S,"februar","tag",0.050+0.110
+</PATH>
+<PATH id="(signer04-042)" word_cnt="5" file="20february_2011_sunday_tagesschau-3166" channel="1" sequence="297" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"am-tag",,:D,"region",,:S,"schnee","nordwest",0.000+0.010:S,"fluss","sued",0.010+0.030:C,"regen","regen",0.020+0.050
+</PATH>
+<PATH id="(signer04-043)" word_cnt="6" file="20november_2010_saturday_tagesschau-1823" channel="1" sequence="308" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"ab","ost",0.000+0.010:C,"montag","montag",0.010+0.030:D,"das-ist-es",,:D,"deutsch",,:S,"einfluss","auch",0.020+0.050:C,"regen","regen",0.030+0.070
+</PATH>
+<PATH id="(signer04-044)" word_cnt="7" file="20november_2010_saturday_tagesschau-1824" channel="1" sequence="309" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"auch",0.000+0.010:S,"ix","schauer",0.010+0.030:C,"wind","wind",0.020+0.050:D,"und",,:D,"schnee",,:D,"stufenweise",,:D,"grenze",,
+</PATH>
+<PATH id="(signer04-045)" word_cnt="7" file="20november_2011_sunday_tagesschau-536" channel="1" sequence="310" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"region",0.000+0.010:S,"mischung","ost",0.010+0.030:C,"nebel","nebel",0.020+0.050:S,"hoch","ost",0.030+0.070:S,"nebel","region",0.040+0.090:C,"sonne","sonne",0.050+0.110:D,"bleiben",,
+</PATH>
+<PATH id="(signer04-046)" word_cnt="7" file="21january_2011_friday_tagesschau-4890" channel="1" sequence="324" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"nordwest",,:S,"regen","nordost",0.000+0.010:S,"oder","nord",0.010+0.030:C,"schnee","schnee",0.020+0.050:D,"vorsicht",,:S,"glatt","nordost",0.030+0.070:S,"koennen","region",0.040+0.090
+</PATH>
+<PATH id="(signer04-047)" word_cnt="6" file="21july_2009_tuesday_tagesschau-8061" channel="1" sequence="325" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"diese",,:D,"warnung",,:D,"unwetter",,:S,"deutsch","koennen",0.000+0.010:S,"wetter","nur",0.010+0.030:S,"dienst","nord",0.020+0.050
+</PATH>
+<PATH id="(signer04-048)" word_cnt="5" file="21july_2009_tuesday_tagesschau-8062" channel="1" sequence="326" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"hauptsaechlich","tief",0.000+0.010:C,"nord","nord",0.010+0.030:D,"mitte",,:C,"regen","regen",0.020+0.050:C,"gewitter","gewitter",0.030+0.070
+</PATH>
+<PATH id="(signer04-049)" word_cnt="5" file="21november_2009_saturday_tagesschau-4905" channel="1" sequence="328" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"kommen",,:D,"loch",,:D,"aber",,:D,"trotzdem",,:S,"schauer","auch",0.000+0.010
+</PATH>
+<PATH id="(signer04-050)" word_cnt="4" file="21november_2009_saturday_tagesschau-4906" channel="1" sequence="329" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"suedost","alpen",0.000+0.010:C,"schwach","schwach",0.010+0.030:S,"wehen","verschwinden",0.020+0.050:S,"maessig","sturm",0.030+0.070
+</PATH>
+<PATH id="(signer04-051)" word_cnt="6" file="21november_2009_saturday_tagesschau-4911" channel="1" sequence="330" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"naechste","im-verlauf",0.000+0.010:S,"woche","bis",0.010+0.030:C,"wechselhaft","wechselhaft",0.020+0.050:S,"wolke","ost",0.030+0.070:C,"teil","teil",0.040+0.090:S,"regen","schnee",0.050+0.110
+</PATH>
+<PATH id="(signer04-052)" word_cnt="9" file="21october_2009_wednesday_tagesschau-735" channel="1" sequence="333" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"frankreich","wolke",0.000+0.010:S,"kommen","region",0.010+0.030:S,"wolke","sonne",0.020+0.050:S,"ost","sonntag",0.030+0.070:S,"niedersachsen","nord",0.040+0.090:S,"bayern","west",0.050+0.110:S,"suedwest","sued",0.060+0.130:C,"regen","regen",0.070+0.150:I,,"schauer",0.080+0.170
+</PATH>
+<PATH id="(signer04-053)" word_cnt="9" file="22january_2010_friday_tagesschau-907" channel="1" sequence="338" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"tag","heute",0.000+0.010:S,"viel","nord",0.010+0.030:C,"wolke","wolke",0.020+0.050:S,"nebel","region",0.030+0.070:C,"bleiben","bleiben",0.040+0.090:C,"trocken","trocken",0.050+0.110:S,"ix","deutsch",0.060+0.130:C,"sonne","sonne",0.070+0.150:C,"moeglich","moeglich",0.080+0.170
+</PATH>
+<PATH id="(signer04-054)" word_cnt="4" file="22january_2011_saturday_tagesschau-2080" channel="1" sequence="339" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"wind","wind",0.000+0.010:C,"schwach","schwach",0.010+0.030:I,,"schnee",0.020+0.050:S,"wehen","wind",0.030+0.070
+</PATH>
+<PATH id="(signer04-055)" word_cnt="8" file="22january_2011_saturday_tagesschau-2082" channel="1" sequence="340" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"region","region",0.000+0.010:C,"morgen","morgen",0.010+0.030:D,"sechs",,:D,"berg",,:S,"allgaeu","alpen",0.020+0.050:C,"kalt","kalt",0.030+0.070:D,"minus",,:S,"vier","eins",0.040+0.090
+</PATH>
+<PATH id="(signer04-056)" word_cnt="6" file="22november_2009_sunday_tagesschau-5490" channel="1" sequence="345" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:D,"temperatur",,:D,"vier",,:D,"bis",,:S,"neun","acht",0.020+0.050
+</PATH>
+<PATH id="(signer04-057)" word_cnt="11" file="23april_2010_friday_tagesschau-3667" channel="1" sequence="348" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:S,"minus","bis",0.020+0.050:S,"drei","wechselhaft",0.030+0.070:C,"bis","bis",0.040+0.090:D,"plus",,:S,"vier","eins",0.050+0.110:C,"nord","nord",0.060+0.130:S,"plus","bis",0.070+0.150:C,"fuenf","fuenf",0.080+0.170:D,"ix",,
+</PATH>
+<PATH id="(signer04-058)" word_cnt="9" file="23april_2010_friday_tagesschau-3668" channel="1" sequence="349" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"zehn",,:D,"bis",,:S,"fuenfzehn","sieben",0.010+0.030:C,"region","region",0.020+0.050:D,"sechszehn",,:C,"bis","bis",0.030+0.070:D,"drei",,:S,"zwanzig","gewitter",0.040+0.090
+</PATH>
+<PATH id="(signer04-059)" word_cnt="7" file="23january_2011_sunday_tagesschau-7834" channel="1" sequence="358" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"auch","auch",0.000+0.010:C,"dienstag","dienstag",0.010+0.030:S,"wolke","schauer",0.020+0.050:C,"mehr","mehr",0.030+0.070:C,"regen","regen",0.040+0.090:D,"oder",,:S,"schnee","schauer",0.050+0.110
+</PATH>
+<PATH id="(signer04-060)" word_cnt="4" file="23july_2011_saturday_tagesschau-5498" channel="1" sequence="359" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"spaeter",,:D,"regen",,:D,"ueberall",,:C,"region","region",0.000+0.010
+</PATH>
+<PATH id="(signer04-061)" word_cnt="6" file="24april_2010_saturday_tagesschau-3963" channel="1" sequence="373" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"auch",,:D,"hoch",,:S,"luft","ost",0.010+0.030:C,"viel","viel",0.020+0.050:C,"sonne","sonne",0.030+0.070
+</PATH>
+<PATH id="(signer04-062)" word_cnt="7" file="24january_2010_sunday_tagesschau-8710" channel="1" sequence="376" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sued","sued",0.000+0.010:C,"schwach","schwach",0.010+0.030:I,,"alpen",0.020+0.050:S,"wehen","hoch",0.030+0.070:S,"ix","deutsch",0.040+0.090:C,"maessig","maessig",0.050+0.110:C,"wehen","wehen",0.060+0.130
+</PATH>
+<PATH id="(signer04-063)" word_cnt="5" file="24july_2011_sunday_tagesschau-6621" channel="1" sequence="386" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"darunter",,:S,"tag","ix",0.000+0.010:C,"im-verlauf","im-verlauf",0.010+0.030:D,"mehr",,:S,"warm","teil",0.020+0.050
+</PATH>
+<PATH id="(signer04-064)" word_cnt="5" file="24july_2011_sunday_tagesschau-6622" channel="1" sequence="387" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"trotzdem","schnee",0.000+0.010:S,"bleiben","regen",0.010+0.030:C,"schauer","schauer",0.020+0.050:C,"gewitter","gewitter",0.030+0.070:S,"noch","ruhig",0.040+0.090
+</PATH>
+<PATH id="(signer04-065)" word_cnt="8" file="25september_2010_saturday_tagesschau-3480" channel="1" sequence="420" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"jetzt",,:C,"wetter","wetter",0.000+0.010:C,"wie-aussehen","wie-aussehen",0.010+0.030:C,"morgen","morgen",0.020+0.050:S,"sonntag","alpen",0.030+0.070:S,"sechs","jetzt",0.040+0.090:C,"zwanzig","zwanzig",0.050+0.110:S,"september","dabei",0.060+0.130
+</PATH>
+<PATH id="(signer04-066)" word_cnt="8" file="26july_2010_monday_tagesschau-6256" channel="1" sequence="428" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:C,"wetter","wetter",0.010+0.030:C,"wie-aussehen","wie-aussehen",0.020+0.050:C,"morgen","morgen",0.030+0.070:D,"dienstag",,:D,"sieben",,:D,"zwanzig",,:S,"juli","nur",0.040+0.090
+</PATH>
+<PATH id="(signer04-067)" word_cnt="10" file="27september_2009_sunday_tagesschau-2169" channel="1" sequence="449" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sued","sued",0.000+0.010:C,"schwach","schwach",0.010+0.030:C,"wehen","wehen",0.020+0.050:I,,"klar",0.030+0.070:S,"ix","wechselhaft",0.040+0.090:S,"maessig","nord",0.050+0.110:S,"kueste","wind",0.060+0.130:S,"frisch","kuehl",0.070+0.150:S,"ost","nord",0.080+0.170:S,"sturm","kalt",0.090+0.190
+</PATH>
+<PATH id="(signer04-068)" word_cnt="4" file="27september_2009_sunday_tagesschau-2170" channel="1" sequence="450" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nacht","nacht",0.000+0.010:C,"teil","teil",0.010+0.030:D,"boden",,:S,"frost","region",0.020+0.050
+</PATH>
+<PATH id="(signer04-069)" word_cnt="8" file="28december_2011_wednesday_tagesschau-1911" channel="1" sequence="451" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"berg","alpen",0.000+0.010:C,"morgen","morgen",0.010+0.030:D,"noch",,:D,"regen",,:D,"ix",,:S,"schauer","schnee",0.020+0.050:C,"nord","nord",0.030+0.070:C,"gewitter","gewitter",0.040+0.090
+</PATH>
+<PATH id="(signer04-070)" word_cnt="6" file="28september_2009_monday_tagesschau-4679" channel="1" sequence="460" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:S,"vierzehn","region",0.020+0.050:C,"nord","nord",0.030+0.070:D,"sechs",,:S,"allgaeu","samstag",0.040+0.090
+</PATH>
+<PATH id="(signer04-071)" word_cnt="7" file="28september_2009_monday_tagesschau-4680" channel="1" sequence="461" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"tag","heute",0.000+0.010:S,"vierzehn","klar",0.010+0.030:C,"nord","nord",0.020+0.050:C,"regen","regen",0.030+0.070:D,"eins",,:D,"zwanzig",,:C,"fluss","fluss",0.040+0.090
+</PATH>
+<PATH id="(signer04-072)" word_cnt="7" file="29september_2009_tuesday_tagesschau-8538" channel="1" sequence="482" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sued","sued",0.000+0.010:D,"schwach",,:C,"nord","nord",0.010+0.030:S,"maessig","wechselhaft",0.020+0.050:S,"kueste","nord",0.030+0.070:S,"stark","sonne",0.040+0.090:C,"sturm","sturm",0.050+0.110
+</PATH>
+<PATH id="(signer04-073)" word_cnt="7" file="30july_2010_friday_tagesschau-1520" channel="1" sequence="492" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"kuehl",,:C,"sieben","sieben",0.000+0.010:D,"grad",,:D,"allgaeu",,:S,"ix","alpen",0.010+0.030:S,"sechszehn","jetzt",0.020+0.050:C,"nord","nord",0.030+0.070
+</PATH>
+</SPEAKER>
+<SPEAKER id="signer05">
+<PATH id="(signer05-000)" word_cnt="8" file="01december_2011_thursday_heute-3058" channel="1" sequence="2" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"stunde",,:C,"auch","auch",0.000+0.010:C,"meistens","meistens",0.010+0.030:C,"regen","regen",0.020+0.050:D,"erst",,:S,"west","region",0.030+0.070:S,"dann","freitag",0.040+0.090:S,"region","deutsch",0.050+0.110
+</PATH>
+<PATH id="(signer05-001)" word_cnt="14" file="01december_2011_thursday_heute-3060" channel="1" sequence="3" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"und","aber",0.000+0.010:C,"tag","tag",0.010+0.030:D,"bleiben",,:D,"kuehl",,:D,"sechs",,:D,"grad",,:D,"bayern",,:C,"ix","ix",0.020+0.050:I,,"ost",0.030+0.070:C,"region","region",0.040+0.090:D,"auch",,:D,"s+h",,:S,"ix","freitag",0.050+0.110:S,"auch","nur",0.060+0.130
+</PATH>
+<PATH id="(signer05-002)" word_cnt="9" file="01december_2011_thursday_heute-3061" channel="1" sequence="4" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"aber",,:D,"dazwischen",,:C,"region","region",0.000+0.010:S,"mild","wind",0.010+0.030:C,"neun","neun",0.020+0.050:C,"bis","bis",0.030+0.070:I,,"gewitter",0.040+0.090:S,"vierzehn","regen",0.050+0.110:C,"grad","grad",0.060+0.130
+</PATH>
+<PATH id="(signer05-003)" word_cnt="9" file="01may_2010_saturday_tagesschau-7197" channel="1" sequence="16" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"mittwoch","mittwoch",0.000+0.010:I,,"freitag",0.010+0.030:C,"sued","sued",0.020+0.050:C,"nord","nord",0.030+0.070:D,"bisschen",,:S,"regen","sonne",0.040+0.090:S,"sonst","nord",0.050+0.110:C,"region","region",0.060+0.130:C,"freundlich","freundlich",0.070+0.150
+</PATH>
+<PATH id="(signer05-004)" word_cnt="5" file="01november_2010_monday_tagesschau-140" channel="1" sequence="17" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"nordwest",,:D,"auch",,:D,"teil",,:S,"ix","nord",0.000+0.010:C,"regen","regen",0.010+0.030
+</PATH>
+<PATH id="(signer05-005)" word_cnt="6" file="02november_2010_tuesday_heute-2742" channel="1" sequence="28" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"gut",,:D,"abend",,:S,"lieb","heute",0.000+0.010:S,"du","nacht",0.010+0.030:S,"zuschauer","west",0.020+0.050:S,"poss-euch","wie-aussehen",0.030+0.070
+</PATH>
+<PATH id="(signer05-006)" word_cnt="13" file="02november_2010_tuesday_heute-2754" channel="1" sequence="29" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"mild","mild",0.000+0.010:C,"nord","nord",0.010+0.030:C,"auch","auch",0.020+0.050:D,"zwoelf",,:S,"zwischen","gewitter",0.030+0.070:S,"vierzehn","berg",0.040+0.090:C,"sued","sued",0.050+0.110:I,,"im-verlauf",0.060+0.130:S,"ungefaehr","berg",0.070+0.150:S,"vierzehn","bis",0.080+0.170:S,"maximal","berg",0.090+0.190:C,"sechszehn","sechszehn",0.100+0.210:D,"grad",,
+</PATH>
+<PATH id="(signer05-007)" word_cnt="9" file="02november_2010_tuesday_tagesschau-2031" channel="1" sequence="30" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sued","sued",0.000+0.010:D,"wahrscheinlich",,:C,"hoch","hoch",0.010+0.030:I,,"im-verlauf",0.020+0.050:I,,"bis",0.030+0.070:S,"druck","heute",0.040+0.090:S,"ruhig","nacht",0.050+0.110:C,"freundlich","freundlich",0.060+0.130:S,"herbst","wind",0.070+0.150
+</PATH>
+<PATH id="(signer05-008)" word_cnt="8" file="02november_2010_tuesday_tagesschau-2039" channel="1" sequence="31" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"auch","auch",0.000+0.010:C,"samstag","samstag",0.010+0.030:D,"naechste",,:D,"gleich",,:D,"ix",,:D,"kommen",,:S,"mehr","nord",0.020+0.050:C,"kuehl","kuehl",0.030+0.070
+</PATH>
+<PATH id="(signer05-009)" word_cnt="10" file="02october_2012_tuesday_heute-3494" channel="1" sequence="35" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:S,"neg-kaum","auch",0.020+0.050:C,"nur","nur",0.030+0.070:D,"nordwest",,:S,"bisschen","nord",0.040+0.090:C,"regen","regen",0.050+0.110:D,"sonst",,:C,"region","region",0.060+0.130:D,"ruhig",,
+</PATH>
+<PATH id="(signer05-010)" word_cnt="17" file="02september_2010_thursday_heute-3456" channel="1" sequence="36" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nord","nord",0.000+0.010:D,"deutschland",,:D,"ix",,:C,"klar","klar",0.010+0.030:D,"luft",,:D,"ix",,:D,"nebel",,:S,"und","region",0.020+0.050:S,"teilweise","wolke",0.030+0.070:S,"bisschen","gewitter",0.040+0.090:S,"dazwischen","teil",0.050+0.110:C,"regen","regen",0.060+0.130:S,"herz","im-verlauf",0.070+0.150:C,"berg","berg",0.080+0.170:I,,"im-verlauf",0.090+0.190:S,"bayern","ost",0.100+0.210:C,"region","region",0.110+0.230
+</PATH>
+<PATH id="(signer05-011)" word_cnt="3" file="02september_2010_thursday_heute-3457" channel="1" sequence="37" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"nord","nord",0.010+0.030:C,"freundlich","freundlich",0.020+0.050
+</PATH>
+<PATH id="(signer05-012)" word_cnt="8" file="03march_2011_thursday_tagesschau-7064" channel="1" sequence="45" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:I,,"verschwinden",0.010+0.030:C,"ix","ix",0.020+0.050:S,"mild","nord",0.030+0.070:S,"zwoelf","bis",0.040+0.090:S,"nord","fuenf",0.050+0.110:S,"zwei","zwanzig",0.060+0.130:C,"grad","grad",0.070+0.150
+</PATH>
+<PATH id="(signer05-013)" word_cnt="7" file="03october_2012_wednesday_tagesschau-7651" channel="1" sequence="49" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:D,"wetter",,:C,"wie-aussehen","wie-aussehen",0.010+0.030:C,"morgen","morgen",0.020+0.050:D,"donnerstag",,:S,"vierte","nacht",0.030+0.070:S,"oktober","grad",0.040+0.090
+</PATH>
+<PATH id="(signer05-014)" word_cnt="3" file="03october_2012_wednesday_tagesschau-7655" channel="1" sequence="50" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"suedost","sued",0.000+0.010:S,"meistens","wind",0.010+0.030:C,"trocken","trocken",0.020+0.050
+</PATH>
+<PATH id="(signer05-015)" word_cnt="5" file="03october_2012_wednesday_tagesschau-7656" channel="1" sequence="51" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:S,"hauptsaechlich","meistens",0.010+0.030:C,"wolke","wolke",0.020+0.050:D,"verschwinden",,:D,"ix",,
+</PATH>
+<PATH id="(signer05-016)" word_cnt="4" file="03october_2012_wednesday_tagesschau-7657" channel="1" sequence="52" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"sonst",,:C,"region","region",0.000+0.010:S,"hauptsaechlich","meistens",0.010+0.030:C,"regen","regen",0.020+0.050
+</PATH>
+<PATH id="(signer05-017)" word_cnt="2" file="03september_2010_friday_tagesschau-8423" channel="1" sequence="53" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"kuehl","kuehl",0.000+0.010:D,"kommen",,
+</PATH>
+<PATH id="(signer05-018)" word_cnt="5" file="03september_2010_friday_tagesschau-8424" channel="1" sequence="54" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"temperatur","temperatur",0.000+0.010:C,"samstag","samstag",0.010+0.030:D,"sonntag",,:S,"ix","wind",0.020+0.050:S,"gleich","bis",0.030+0.070
+</PATH>
+<PATH id="(signer05-019)" word_cnt="9" file="03september_2010_friday_tagesschau-8432" channel="1" sequence="55" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"tag","tag",0.000+0.010:I,,"nord",0.010+0.030:S,"nordost","ost",0.020+0.050:S,"sechszehn","wind",0.030+0.070:S,"region","ost",0.040+0.090:S,"ix","fluss",0.050+0.110:S,"drei","fuenf",0.060+0.130:C,"zwanzig","zwanzig",0.070+0.150:S,"grad","nord",0.080+0.170
+</PATH>
+<PATH id="(signer05-020)" word_cnt="6" file="04august_2011_thursday_tagesschau-718" channel="1" sequence="58" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"montag","montag",0.000+0.010:C,"auch","auch",0.010+0.030:C,"wechselhaft","wechselhaft",0.020+0.050:S,"und","bis",0.030+0.070:C,"mehr","mehr",0.040+0.090:C,"kuehl","kuehl",0.050+0.110
+</PATH>
+<PATH id="(signer05-021)" word_cnt="9" file="04december_2009_friday_tagesschau-841" channel="1" sequence="59" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"manchmal","berg",0.000+0.010:C,"schwach","schwach",0.010+0.030:D,"maessig",,:S,"ix","wechselhaft",0.020+0.050:S,"wind","jetzt",0.030+0.070:S,"ix","bis",0.040+0.090:S,"west","nordwest",0.050+0.110:S,"stark","meistens",0.060+0.130:C,"wind","wind",0.070+0.150
+</PATH>
+<PATH id="(signer05-022)" word_cnt="8" file="06july_2010_tuesday_tagesschau-2653" channel="1" sequence="97" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"nord",0.000+0.010:S,"nordost","region",0.010+0.030:C,"bisschen","bisschen",0.020+0.050:I,,"regen",0.030+0.070:C,"schauer","schauer",0.040+0.090:I,,"heute",0.050+0.110:S,"abend","nacht",0.060+0.130:S,"aufloesen","nord",0.070+0.150
+</PATH>
+<PATH id="(signer05-023)" word_cnt="5" file="06july_2010_tuesday_tagesschau-2654" channel="1" sequence="98" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"ein-paar","verschwinden",0.000+0.010:S,"harmlos","morgen",0.010+0.030:C,"nebel","nebel",0.020+0.050:S,"dann","auch",0.030+0.070:C,"klar","klar",0.040+0.090
+</PATH>
+<PATH id="(signer05-024)" word_cnt="7" file="07april_2010_wednesday_heute-1631" channel="1" sequence="108" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"heute",0.000+0.010:C,"freundlich","freundlich",0.010+0.030:S,"bleiben","ost",0.020+0.050:C,"region","region",0.030+0.070:C,"sued","sued",0.040+0.090:C,"bisschen","bisschen",0.050+0.110:C,"schauer","schauer",0.060+0.130
+</PATH>
+<PATH id="(signer05-025)" word_cnt="3" file="07april_2010_wednesday_heute-1632" channel="1" sequence="109" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"schoen","heute",0.000+0.010:S,"abend","nacht",0.010+0.030:S,"ausrichten","region",0.020+0.050
+</PATH>
+<PATH id="(signer05-026)" word_cnt="12" file="07april_2010_wednesday_tagesschau-6029" channel="1" sequence="110" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"ost",0.000+0.010:C,"region","region",0.010+0.030:S,"suedost","sued",0.020+0.050:C,"sonne","sonne",0.030+0.070:D,"nordwest",,:S,"ueberwiegend","nord",0.040+0.090:S,"wolke","meistens",0.050+0.110:S,"ix","nacht",0.060+0.130:C,"regen","regen",0.070+0.150:S,"suedost","sued",0.080+0.170:S,"auch","heute",0.090+0.190:C,"schauer","schauer",0.100+0.210
+</PATH>
+<PATH id="(signer05-027)" word_cnt="4" file="08april_2010_thursday_heute-4004" channel="1" sequence="122" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"regen","regen",0.000+0.010:D,"negalp-auch",,:S,"aber","auch",0.010+0.030:C,"kuehl","kuehl",0.020+0.050
+</PATH>
+<PATH id="(signer05-028)" word_cnt="9" file="08april_2010_thursday_tagesschau-3949" channel="1" sequence="123" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"heute",0.000+0.010:C,"luft","luft",0.010+0.030:D,"kuehl",,:C,"region","region",0.020+0.050:D,"tief",,:S,"hoch","ost",0.030+0.070:C,"region","region",0.040+0.090:S,"kommen","ost",0.050+0.110:C,"kuehl","kuehl",0.060+0.130
+</PATH>
+<PATH id="(signer05-029)" word_cnt="6" file="09august_2010_monday_heute-5905" channel="1" sequence="140" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"auch","auch",0.000+0.010:S,"bis","im-verlauf",0.010+0.030:C,"freitag","freitag",0.020+0.050:D,"wieder",,:D,"sinken",,:C,"kuehl","kuehl",0.030+0.070
+</PATH>
+<PATH id="(signer05-030)" word_cnt="4" file="09august_2010_monday_heute-5906" channel="1" sequence="141" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"schoen","schoen",0.000+0.010:D,"abend",,:S,"machen","nacht",0.010+0.030:S,"gut","maessig",0.020+0.050
+</PATH>
+<PATH id="(signer05-031)" word_cnt="8" file="09august_2010_monday_tagesschau-3000" channel="1" sequence="142" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"nordwest",,:D,"spaeter",,:S,"auch","nord",0.000+0.010:S,"wolke","heute",0.010+0.030:S,"dann","nacht",0.020+0.050:S,"dabei","schnee",0.030+0.070:C,"gewitter","gewitter",0.040+0.090:S,"schauer","regen",0.050+0.110
+</PATH>
+<PATH id="(signer05-032)" word_cnt="11" file="09august_2010_monday_tagesschau-3004" channel="1" sequence="143" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"mittwoch","mittwoch",0.000+0.010:S,"sinken","freundlich",0.010+0.030:S,"kuehler","kuehl",0.020+0.050:C,"wechselhaft","wechselhaft",0.030+0.070:C,"sonne","sonne",0.040+0.090:S,"wolke","nacht",0.050+0.110:C,"schauer","schauer",0.060+0.130:C,"gewitter","gewitter",0.070+0.150:I,,"nordwest",0.080+0.170:I,,"region",0.090+0.190:S,"west","nord",0.100+0.210
+</PATH>
+<PATH id="(signer05-033)" word_cnt="13" file="10august_2010_tuesday_heute-1455" channel="1" sequence="161" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"ost","ost",0.000+0.010:C,"region","region",0.010+0.030:C,"sonne","sonne",0.020+0.050:D,"mehr",,:D,"warm",,:S,"maximal","bis",0.030+0.070:S,"sechs","sieben",0.040+0.090:C,"zwanzig","zwanzig",0.050+0.110:C,"sued","sued",0.060+0.130:S,"maximal","bis",0.070+0.150:C,"sieben","sieben",0.080+0.170:C,"zwanzig","zwanzig",0.090+0.190:C,"grad","grad",0.100+0.210
+</PATH>
+<PATH id="(signer05-034)" word_cnt="11" file="10august_2010_tuesday_tagesschau-3865" channel="1" sequence="162" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"ost",,:C,"sued","sued",0.000+0.010:C,"heute","heute",0.010+0.030:C,"nacht","nacht",0.020+0.050:C,"trocken","trocken",0.030+0.070:C,"auch","auch",0.040+0.090:D,"klar",,:S,"dann","nacht",0.050+0.110:S,"teil","gewitter",0.060+0.130:C,"region","region",0.070+0.150:C,"schauer","schauer",0.080+0.170
+</PATH>
+<PATH id="(signer05-035)" word_cnt="4" file="10august_2011_wednesday_tagesschau-6303" channel="1" sequence="163" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"im-verlauf",,:C,"im-verlauf","im-verlauf",0.000+0.010:S,"temperatur","berg",0.010+0.030:S,"region","alpen",0.020+0.050
+</PATH>
+<PATH id="(signer05-036)" word_cnt="12" file="10august_2011_wednesday_tagesschau-6304" channel="1" sequence="164" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"region",0.000+0.010:C,"sued","sued",0.010+0.030:S,"mehr","im-verlauf",0.020+0.050:C,"freundlich","freundlich",0.030+0.070:D,"ix",,:C,"nord","nord",0.040+0.090:D,"nicht",,:S,"ort","region",0.050+0.110:C,"auch","auch",0.060+0.130:C,"schauer","schauer",0.070+0.150:C,"gewitter","gewitter",0.080+0.170:D,"kurz",,
+</PATH>
+<PATH id="(signer05-037)" word_cnt="7" file="10august_2011_wednesday_tagesschau-6305" channel="1" sequence="165" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sonntag","sonntag",0.000+0.010:C,"bis","bis",0.010+0.030:S,"dreissig","fuenf",0.020+0.050:S,"grad","berg",0.030+0.070:C,"moeglich","moeglich",0.040+0.090:S,"wieder","gewitter",0.050+0.110:S,"unwetter","sturm",0.060+0.130
+</PATH>
+<PATH id="(signer05-038)" word_cnt="8" file="11january_2011_tuesday_heute-8176" channel="1" sequence="186" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"ab","hoch",0.000+0.010:C,"mittag","mittag",0.010+0.030:S,"zwischen","region",0.020+0.050:C,"kommen","kommen",0.030+0.070:C,"wolke","wolke",0.040+0.090:I,,"wind",0.050+0.110:C,"meistens","meistens",0.060+0.130:C,"regen","regen",0.070+0.150
+</PATH>
+<PATH id="(signer05-039)" word_cnt="9" file="12december_2010_sunday_tagesschau-5597" channel="1" sequence="193" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"ix","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:S,"wahrscheinlich","ost",0.020+0.050:S,"locker","wind",0.030+0.070:S,"ort","schwach",0.040+0.090:S,"nebel","land",0.050+0.110:S,"haben","region",0.060+0.130:S,"lang","bis",0.070+0.150:S,"bleiben","koennen",0.080+0.170
+</PATH>
+<PATH id="(signer05-040)" word_cnt="9" file="12december_2010_sunday_tagesschau-5605" channel="1" sequence="194" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"tag","tag",0.000+0.010:S,"vogel","deutsch",0.010+0.030:S,"land","region",0.020+0.050:S,"minus","bis",0.030+0.070:S,"acht","sieben",0.040+0.090:C,"nord","nord",0.050+0.110:D,"minus",,:D,"drei",,:D,"grad",,
+</PATH>
+<PATH id="(signer05-041)" word_cnt="11" file="12january_2011_wednesday_tagesschau-1732" channel="1" sequence="202" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:I,,"wechselhaft",0.020+0.050:I,,"bis",0.030+0.070:C,"sieben","sieben",0.040+0.090:D,"sonst",,:C,"region","region",0.050+0.110:S,"sechs","sieben",0.060+0.130:S,"zwischen","samstag",0.070+0.150:C,"eins","eins",0.080+0.170:I,,"im-verlauf",0.090+0.190
+</PATH>
+<PATH id="(signer05-042)" word_cnt="5" file="12november_2009_thursday_tagesschau-6770" channel="1" sequence="212" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nord","nord",0.000+0.010:C,"morgen","morgen",0.010+0.030:D,"bewoelkt",,:C,"region","region",0.020+0.050:C,"regen","regen",0.030+0.070
+</PATH>
+<PATH id="(signer05-043)" word_cnt="9" file="12november_2009_thursday_tagesschau-6771" channel="1" sequence="213" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sued","sued",0.000+0.010:D,"meistens",,:C,"trocken","trocken",0.010+0.030:I,,"bisschen",0.020+0.050:S,"einige","schoen",0.030+0.070:C,"wolke","wolke",0.040+0.090:D,"nebel",,:S,"mal","region",0.050+0.110:C,"sonne","sonne",0.060+0.130
+</PATH>
+<PATH id="(signer05-044)" word_cnt="5" file="12november_2009_thursday_tagesschau-6772" channel="1" sequence="214" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"im-verlauf","im-verlauf",0.000+0.010:S,"mitte","morgen",0.010+0.030:S,"auch","heute",0.020+0.050:C,"wolke","wolke",0.030+0.070:S,"aufloesen","wind",0.040+0.090
+</PATH>
+<PATH id="(signer05-045)" word_cnt="5" file="13august_2009_thursday_tagesschau-8487" channel="1" sequence="220" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"wind","wind",0.000+0.010:C,"schwach","schwach",0.010+0.030:C,"maessig","maessig",0.020+0.050:S,"ix","wechselhaft",0.030+0.070:C,"wehen","wehen",0.040+0.090
+</PATH>
+<PATH id="(signer05-046)" word_cnt="11" file="13july_2009_monday_tagesschau-7513" channel="1" sequence="226" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"region","region",0.000+0.010:C,"sonne","sonne",0.010+0.030:C,"schauer","schauer",0.020+0.050:C,"gewitter","gewitter",0.030+0.070:C,"sued","sued",0.040+0.090:S,"ix","sturm",0.050+0.110:S,"enorm","tief",0.060+0.130:S,"hagel","sonne",0.070+0.150:C,"stark","stark",0.080+0.170:C,"regen","regen",0.090+0.190:C,"sturm","sturm",0.100+0.210
+</PATH>
+<PATH id="(signer05-047)" word_cnt="4" file="14april_2010_wednesday_heute-1879" channel="1" sequence="231" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"gut","heute",0.000+0.010:S,"abend","nacht",0.010+0.030:S,"lieb","morgen",0.020+0.050:S,"zuschauer","freitag",0.030+0.070
+</PATH>
+<PATH id="(signer05-048)" word_cnt="5" file="14april_2010_wednesday_heute-1880" channel="1" sequence="232" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"in-kommend",,:D,"fruehling",,:S,"wetter","montag",0.000+0.010:C,"morgen","morgen",0.010+0.030:S,"warm","auch",0.020+0.050
+</PATH>
+<PATH id="(signer05-049)" word_cnt="3" file="14april_2010_wednesday_heute-1881" channel="1" sequence="233" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"bis",0.000+0.010:S,"woher","morgen",0.010+0.030:S,"warm","heute",0.020+0.050
+</PATH>
+<PATH id="(signer05-050)" word_cnt="6" file="14april_2010_wednesday_heute-1892" channel="1" sequence="234" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"schoen","schoen",0.000+0.010:D,"abend",,:D,"wuenschen",,:S,"machen","nacht",0.010+0.030:S,"gut","wechselhaft",0.020+0.050:S,"wuenschen","tag",0.030+0.070
+</PATH>
+<PATH id="(signer05-051)" word_cnt="8" file="14august_2009_friday_tagesschau-72" channel="1" sequence="235" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:I,,"sonntag",0.010+0.030:S,"daenemark","freitag",0.020+0.050:S,"ix","berg",0.030+0.070:C,"zwanzig","zwanzig",0.040+0.090:D,"maximal",,:D,"dreissig",,:C,"grad","grad",0.050+0.110
+</PATH>
+<PATH id="(signer05-052)" word_cnt="5" file="15december_2010_wednesday_tagesschau-40" channel="1" sequence="240" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"dann","dann",0.000+0.010:D,"stark",,:S,"schnee","meistens",0.010+0.030:S,"schneien","viel",0.020+0.050:S,"kommen","regen",0.030+0.070
+</PATH>
+<PATH id="(signer05-053)" word_cnt="3" file="15september_2010_wednesday_heute-2476" channel="1" sequence="245" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"im-verlauf","im-verlauf",0.000+0.010:D,"frueh",,:D,"herbst",,
+</PATH>
+<PATH id="(signer05-054)" word_cnt="8" file="15september_2010_wednesday_tagesschau-5209" channel="1" sequence="246" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"samstag","samstag",0.000+0.010:C,"nord","nord",0.010+0.030:C,"schauer","schauer",0.020+0.050:C,"region","region",0.030+0.070:C,"freundlich","freundlich",0.040+0.090:C,"sued","sued",0.050+0.110:C,"im-verlauf","im-verlauf",0.060+0.130:C,"regen","regen",0.070+0.150
+</PATH>
+<PATH id="(signer05-055)" word_cnt="12" file="15september_2010_wednesday_tagesschau-5210" channel="1" sequence="247" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sonntag","sonntag",0.000+0.010:C,"alpen","alpen",0.010+0.030:D,"ix",,:C,"auch","auch",0.020+0.050:C,"regen","regen",0.030+0.070:C,"nord","nord",0.040+0.090:C,"schauer","schauer",0.050+0.110:S,"mitte","tag",0.060+0.130:C,"mehr","mehr",0.070+0.150:I,,"nacht",0.080+0.170:C,"freundlich","freundlich",0.090+0.190:C,"sonne","sonne",0.100+0.210
+</PATH>
+<PATH id="(signer05-056)" word_cnt="8" file="16december_2009_wednesday_tagesschau-5918" channel="1" sequence="249" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"freitag","freitag",0.000+0.010:C,"mehr","mehr",0.010+0.030:I,,"heute",0.020+0.050:S,"wolke","nacht",0.030+0.070:S,"neg-sonne","sonne",0.040+0.090:S,"nordost","nord",0.050+0.110:S,"schnee","region",0.060+0.130:S,"schneien","regen",0.070+0.150
+</PATH>
+<PATH id="(signer05-057)" word_cnt="15" file="16january_2010_saturday_tagesschau-8073" channel="1" sequence="253" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"west",,:D,"teil",,:D,"schnee",,:S,"schneien","region",0.000+0.010:S,"teil","nord",0.010+0.030:C,"regen","regen",0.020+0.050:C,"heute","heute",0.030+0.070:C,"nacht","nacht",0.040+0.090:C,"moeglich","moeglich",0.050+0.110:I,,"heute",0.060+0.130:C,"regen","regen",0.070+0.150:D,"mit",,:D,"eis",,:S,"glatt","nacht",0.080+0.170:S,"gefahr","alpen",0.090+0.190
+</PATH>
+<PATH id="(signer05-058)" word_cnt="12" file="16july_2011_saturday_tagesschau-7524" channel="1" sequence="254" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nacht","nacht",0.000+0.010:I,,"region",0.010+0.030:C,"kommen","kommen",0.020+0.050:C,"regen","regen",0.030+0.070:I,,"ueberwiegend",0.040+0.090:S,"stark","meistens",0.050+0.110:C,"ost","ost",0.060+0.130:D,"suedost",,:S,"klar","sued",0.070+0.150:S,"sehen","sonne",0.080+0.170:S,"stern","gewitter",0.090+0.190:C,"koennen","koennen",0.100+0.210
+</PATH>
+<PATH id="(signer05-059)" word_cnt="5" file="16september_2010_thursday_tagesschau-6271" channel="1" sequence="256" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"ungemuetlich","wechselhaft",0.000+0.010:C,"sued","sued",0.010+0.030:D,"besser",,:S,"als","region",0.020+0.050:C,"nord","nord",0.030+0.070
+</PATH>
+<PATH id="(signer05-060)" word_cnt="8" file="16september_2010_thursday_tagesschau-6272" channel="1" sequence="257" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:C,"nord","nord",0.020+0.050:I,,"regen",0.030+0.070:I,,"schauer",0.040+0.090:I,,"berg",0.050+0.110:I,,"alpen",0.060+0.130:S,"mitte","regen",0.070+0.150
+</PATH>
+<PATH id="(signer05-061)" word_cnt="12" file="16september_2010_thursday_tagesschau-6276" channel="1" sequence="258" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:D,"zwischen",,:D,"fuenf",,:S,"zwischen","sonne",0.020+0.050:C,"tag","tag",0.030+0.070:D,"mitte",,:C,"berg","berg",0.040+0.090:D,"dreizehn",,:S,"ix","montag",0.050+0.110:S,"neunzehn","berg",0.060+0.130:S,"grad","region",0.070+0.150
+</PATH>
+<PATH id="(signer05-062)" word_cnt="9" file="17january_2010_sunday_tagesschau-5554" channel="1" sequence="261" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"tag","tag",0.000+0.010:D,"hauptsaechlich",,:D,"wolke",,:D,"nebel",,:S,"dann","meistens",0.010+0.030:S,"teil","nacht",0.020+0.050:S,"schnee","region",0.030+0.070:S,"schneien","bleiben",0.040+0.090:C,"regen","regen",0.050+0.110
+</PATH>
+<PATH id="(signer05-063)" word_cnt="3" file="17january_2010_sunday_tagesschau-5555" channel="1" sequence="262" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"suedwest","sued",0.000+0.010:C,"bisschen","bisschen",0.010+0.030:C,"sonne","sonne",0.020+0.050
+</PATH>
+<PATH id="(signer05-064)" word_cnt="6" file="18november_2009_wednesday_tagesschau-5583" channel="1" sequence="272" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"region",0.000+0.010:S,"wenn","sonne",0.010+0.030:S,"klar","nacht",0.020+0.050:C,"moeglich","moeglich",0.030+0.070:S,"nebel","nacht",0.040+0.090:C,"nord","nord",0.050+0.110
+</PATH>
+<PATH id="(signer05-065)" word_cnt="4" file="18november_2009_wednesday_tagesschau-5584" channel="1" sequence="273" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:S,"ueberwiegend","meistens",0.010+0.030:S,"wolke","nacht",0.020+0.050:S,"tropfen","sonne",0.030+0.070
+</PATH>
+<PATH id="(signer05-066)" word_cnt="2" file="18november_2009_wednesday_tagesschau-5585" channel="1" sequence="274" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"spaeter","region",0.000+0.010:S,"verschwinden","himmel",0.010+0.030
+</PATH>
+<PATH id="(signer05-067)" word_cnt="4" file="18november_2009_wednesday_tagesschau-5586" channel="1" sequence="275" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"wenn","sonne",0.000+0.010:S,"nebel","nacht",0.010+0.030:S,"neg-haben","region",0.020+0.050:C,"freundlich","freundlich",0.030+0.070
+</PATH>
+<PATH id="(signer05-068)" word_cnt="6" file="18november_2009_wednesday_tagesschau-5587" channel="1" sequence="276" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"nordost",0.000+0.010:S,"ost","region",0.010+0.030:C,"nacht","nacht",0.020+0.050:I,,"west",0.030+0.070:S,"gefahr","region",0.040+0.090:S,"wind","sturm",0.050+0.110
+</PATH>
+<PATH id="(signer05-069)" word_cnt="11" file="20april_2011_wednesday_tagesschau-3084" channel="1" sequence="291" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"suedwest","sued",0.000+0.010:C,"deutsch","deutsch",0.010+0.030:S,"land","region",0.020+0.050:C,"bisschen","bisschen",0.030+0.070:D,"feucht",,:S,"kommen","schauer",0.040+0.090:S,"ix","koennen",0.050+0.110:C,"moeglich","moeglich",0.060+0.130:C,"schauer","schauer",0.070+0.150:C,"gewitter","gewitter",0.080+0.170:D,"wahrscheinlich",,
+</PATH>
+<PATH id="(signer05-070)" word_cnt="3" file="20october_2010_wednesday_heute-8493" channel="1" sequence="314" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"hallo","region",0.000+0.010:S,"gut","heute",0.010+0.030:S,"abend","nacht",0.020+0.050
+</PATH>
+<PATH id="(signer05-071)" word_cnt="8" file="20october_2010_wednesday_heute-8494" channel="1" sequence="315" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"winter","wind",0.000+0.010:S,"schon","teil",0.010+0.030:S,"haben","freundlich",0.020+0.050:C,"mitte","mitte",0.030+0.070:C,"berg","berg",0.040+0.090:D,"schon",,:S,"weiss","sonst",0.050+0.110:S,"boden","samstag",0.060+0.130
+</PATH>
+<PATH id="(signer05-072)" word_cnt="9" file="20october_2010_wednesday_heute-8501" channel="1" sequence="316" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"ix",,:D,"sued",,:S,"dann","sonne",0.000+0.010:S,"ruhig","gewitter",0.010+0.030:C,"mehr","mehr",0.020+0.050:C,"trocken","trocken",0.030+0.070:C,"auch","auch",0.040+0.090:S,"bisschen","nur",0.050+0.110:C,"sonne","sonne",0.060+0.130
+</PATH>
+<PATH id="(signer05-073)" word_cnt="13" file="22august_2010_sunday_tagesschau-1345" channel="1" sequence="337" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"jetzt",0.000+0.010:S,"wind","wetter",0.010+0.030:C,"maessig","maessig",0.020+0.050:D,"frisch",,:D,"kueste",,:D,"ix",,:S,"stark","wind",0.030+0.070:S,"wenn","region",0.040+0.090:S,"gewitter","kuehl",0.050+0.110:S,"ix","kueste",0.060+0.130:S,"dann","auch",0.070+0.150:C,"sturm","sturm",0.080+0.170:C,"moeglich","moeglich",0.090+0.190
+</PATH>
+<PATH id="(signer05-074)" word_cnt="7" file="22july_2010_thursday_tagesschau-8194" channel="1" sequence="341" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:C,"wetter","wetter",0.010+0.030:C,"morgen","morgen",0.020+0.050:C,"freitag","freitag",0.030+0.070:D,"drei",,:S,"zwanzig","fuenf",0.040+0.090:S,"juli","morgen",0.050+0.110
+</PATH>
+<PATH id="(signer05-075)" word_cnt="8" file="22july_2010_thursday_tagesschau-8195" channel="1" sequence="342" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"skandinavien","region",0.000+0.010:C,"nord","nord",0.010+0.030:D,"wolke",,:D,"tief",,:S,"auch","region",0.020+0.050:S,"deutschland","ix",0.030+0.070:C,"region","region",0.040+0.090:D,"kommen",,
+</PATH>
+<PATH id="(signer05-076)" word_cnt="5" file="23february_2011_wednesday_heute-3780" channel="1" sequence="357" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"schoen",,:D,"abend",,:S,"machen","heute",0.000+0.010:S,"poss-euch","nacht",0.010+0.030:S,"gut","maessig",0.020+0.050
+</PATH>
+<PATH id="(signer05-077)" word_cnt="8" file="23march_2011_wednesday_tagesschau-8751" channel="1" sequence="360" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"nordost","nord",0.000+0.010:S,"wieder","ix",0.010+0.030:C,"wolke","wolke",0.020+0.050:D,"aber",,:D,"sonst",,:C,"nur","nur",0.030+0.070:C,"bisschen","bisschen",0.040+0.090:C,"wolke","wolke",0.050+0.110
+</PATH>
+<PATH id="(signer05-078)" word_cnt="8" file="23november_2011_wednesday_tagesschau-973" channel="1" sequence="365" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:C,"wie-aussehen","wie-aussehen",0.010+0.030:D,"wetter",,:C,"morgen","morgen",0.020+0.050:D,"donnerstag",,:D,"vier",,:S,"zwanzig","heute",0.030+0.070:S,"november","nacht",0.040+0.090
+</PATH>
+<PATH id="(signer05-079)" word_cnt="9" file="23november_2011_wednesday_tagesschau-980" channel="1" sequence="366" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"nordwest","nord",0.000+0.010:C,"wolke","wolke",0.010+0.030:D,"manchmal",,:C,"sonne","sonne",0.020+0.050:D,"bisschen",,:C,"ix","ix",0.030+0.070:S,"s+h","region",0.040+0.090:S,"ix","sonne",0.050+0.110:C,"regen","regen",0.060+0.130
+</PATH>
+<PATH id="(signer05-080)" word_cnt="13" file="23november_2011_wednesday_tagesschau-984" channel="1" sequence="367" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"donnerstag",,:D,"dann",,:S,"wieder","nacht",0.000+0.010:C,"mehr","mehr",0.010+0.030:C,"wind","wind",0.020+0.050:S,"ix","nord",0.030+0.070:C,"wind","wind",0.040+0.090:D,"kommen",,:D,"anfang",,:D,"ix",,:C,"regen","regen",0.050+0.110:D,"kommen",,:S,"gleich","wechselhaft",0.060+0.130
+</PATH>
+<PATH id="(signer05-081)" word_cnt="10" file="24june_2011_friday_tagesschau-4071" channel="1" sequence="388" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"ix","auch",0.000+0.010:C,"morgen","morgen",0.010+0.030:D,"im-verlauf",,:D,"ix",,:S,"anfang","region",0.020+0.050:C,"freundlich","freundlich",0.030+0.070:D,"aber",,:S,"wolke","auch",0.040+0.090:S,"kommen","nacht",0.050+0.110:C,"ost","ost",0.060+0.130
+</PATH>
+<PATH id="(signer05-082)" word_cnt="8" file="24june_2011_friday_tagesschau-4073" channel="1" sequence="389" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:I,,"montag",0.010+0.030:C,"ix","ix",0.020+0.050:C,"wehen","wehen",0.030+0.070:D,"ix",,:C,"nord","nord",0.040+0.090:D,"frisch",,:C,"wind","wind",0.050+0.110
+</PATH>
+<PATH id="(signer05-083)" word_cnt="9" file="24may_2010_monday_tagesschau-3142" channel="1" sequence="390" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:I,,"nord",0.020+0.050:S,"teil","nacht",0.030+0.070:S,"wolke","sonne",0.040+0.090:S,"teil","nacht",0.050+0.110:S,"klar","regen",0.060+0.130:C,"schauer","schauer",0.070+0.150:C,"gewitter","gewitter",0.080+0.170
+</PATH>
+<PATH id="(signer05-084)" word_cnt="5" file="24november_2011_thursday_heute-222" channel="1" sequence="391" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nord","nord",0.000+0.010:D,"nur",,:S,"wolke","region",0.010+0.030:C,"frost","frost",0.020+0.050:C,"sued","sued",0.030+0.070
+</PATH>
+<PATH id="(signer05-085)" word_cnt="11" file="24november_2011_thursday_heute-223" channel="1" sequence="392" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"dresden",,:D,"ix",,:S,"region","alpen",0.000+0.010:C,"berg","berg",0.010+0.030:D,"null",,:D,"minus",,:D,"sechs",,:C,"nord","nord",0.020+0.050:S,"neg-frost","frost",0.030+0.070:S,"neg-haben","ost",0.040+0.090:C,"mild","mild",0.050+0.110
+</PATH>
+<PATH id="(signer05-086)" word_cnt="9" file="24september_2009_thursday_heute-6077" channel="1" sequence="396" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"zwei","fuenf",0.000+0.010:C,"tief","tief",0.010+0.030:I,,"sued",0.020+0.050:I,,"heute",0.030+0.070:I,,"nacht",0.040+0.090:I,,"nord",0.050+0.110:I,,"sonne",0.060+0.130:I,,"ix",0.070+0.150:I,,"wechselhaft",0.080+0.170
+</PATH>
+<PATH id="(signer05-087)" word_cnt="8" file="25may_2010_tuesday_tagesschau-1294" channel="1" sequence="415" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:D,"fluss",,:S,"vierzehn","ost",0.020+0.050:C,"grad","grad",0.030+0.070:C,"nord","nord",0.040+0.090:D,"maximal",,:S,"null","morgen",0.050+0.110
+</PATH>
+<PATH id="(signer05-088)" word_cnt="8" file="25november_2010_thursday_tagesschau-2529" channel="1" sequence="416" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"tag","tag",0.000+0.010:D,"suedost",,:S,"schnee","sued",0.010+0.030:S,"schneien","regen",0.020+0.050:S,"flach","freundlich",0.030+0.070:C,"auch","auch",0.040+0.090:D,"schnee",,:S,"schneien","regen",0.050+0.110
+</PATH>
+<PATH id="(signer05-089)" word_cnt="6" file="25november_2010_thursday_tagesschau-2530" channel="1" sequence="417" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"nordwest","nord",0.000+0.010:S,"schnee","nacht",0.010+0.030:C,"schauer","schauer",0.020+0.050:I,,"heute",0.030+0.070:I,,"nacht",0.040+0.090:S,"verschwinden","wind",0.050+0.110
+</PATH>
+<PATH id="(signer05-090)" word_cnt="13" file="25november_2010_thursday_tagesschau-2536" channel="1" sequence="418" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sonntag","sonntag",0.000+0.010:S,"ix","auch",0.010+0.030:S,"wolke","nacht",0.020+0.050:C,"teil","teil",0.030+0.070:C,"freundlich","freundlich",0.040+0.090:C,"trocken","trocken",0.050+0.110:S,"minus","bis",0.060+0.130:C,"fuenf","fuenf",0.070+0.150:I,,"samstag",0.080+0.170:S,"zwischen","berg",0.090+0.190:S,"maximal","mittwoch",0.100+0.210:S,"zwei","fuenf",0.110+0.230:C,"grad","grad",0.120+0.250
+</PATH>
+<PATH id="(signer05-091)" word_cnt="8" file="26may_2010_wednesday_heute-7867" channel="1" sequence="431" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:I,,"heute",0.010+0.030:C,"regen","regen",0.020+0.050:D,"nordost",,:S,"schnell","nord",0.030+0.070:S,"verschwinden","ost",0.040+0.090:S,"schon","sonne",0.050+0.110:C,"schauer","schauer",0.060+0.130
+</PATH>
+<PATH id="(signer05-092)" word_cnt="8" file="26september_2009_saturday_tagesschau-2333" channel="1" sequence="435" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:C,"wetter","wetter",0.010+0.030:C,"wie-aussehen","wie-aussehen",0.020+0.050:C,"morgen","morgen",0.030+0.070:C,"sonntag","sonntag",0.040+0.090:C,"sieben","sieben",0.050+0.110:D,"zwanzig",,:S,"september","schwach",0.060+0.130
+</PATH>
+<PATH id="(signer05-093)" word_cnt="4" file="26september_2009_saturday_tagesschau-2335" channel="1" sequence="436" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nur","nur",0.000+0.010:C,"nord","nord",0.010+0.030:D,"bisschen",,:S,"wolke","region",0.020+0.050
+</PATH>
+<PATH id="(signer05-094)" word_cnt="9" file="26september_2009_saturday_tagesschau-2342" channel="1" sequence="437" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:C,"nord","nord",0.020+0.050:I,,"ix",0.030+0.070:S,"zwoelf","samstag",0.040+0.090:S,"land","berg",0.050+0.110:S,"ix","bis",0.060+0.130:S,"vier","fuenf",0.070+0.150:S,"grad","nord",0.080+0.170
+</PATH>
+<PATH id="(signer05-095)" word_cnt="7" file="26september_2009_saturday_tagesschau-2343" channel="1" sequence="438" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"tag","tag",0.010+0.030:S,"achtzehn","schauer",0.020+0.050:C,"maximal","maximal",0.030+0.070:S,"drei","fuenf",0.040+0.090:C,"zwanzig","zwanzig",0.050+0.110:C,"grad","grad",0.060+0.130
+</PATH>
+<PATH id="(signer05-096)" word_cnt="7" file="27october_2009_tuesday_tagesschau-6148" channel="1" sequence="448" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"nord",0.000+0.010:I,,"ost",0.010+0.030:S,"nordost","region",0.020+0.050:C,"tief","tief",0.030+0.070:C,"kommen","kommen",0.040+0.090:C,"wolke","wolke",0.050+0.110:C,"regen","regen",0.060+0.130
+</PATH>
+<PATH id="(signer05-097)" word_cnt="9" file="28january_2010_thursday_tagesschau-2817" channel="1" sequence="453" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"wie-aussehen","nacht",0.000+0.010:S,"in-kommend","sued",0.010+0.030:C,"samstag","samstag",0.020+0.050:D,"schnee",,:D,"schneien",,:S,"besonders","regen",0.030+0.070:C,"nord","nord",0.040+0.090:D,"wahrscheinlich",,:C,"sonne","sonne",0.050+0.110
+</PATH>
+<PATH id="(signer05-098)" word_cnt="8" file="29january_2010_friday_tagesschau-6489" channel="1" sequence="468" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"wechselhaft","wechselhaft",0.010+0.030:D,"aber",,:S,"ix","nord",0.020+0.050:C,"morgen","morgen",0.030+0.070:S,"bisschen","west",0.040+0.090:S,"besser","ost",0.050+0.110:S,"ruhig","region",0.060+0.130
+</PATH>
+<PATH id="(signer05-099)" word_cnt="13" file="29january_2010_friday_tagesschau-6490" channel="1" sequence="469" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nacht","nacht",0.000+0.010:D,"schnee",,:D,"mehr",,:C,"region","region",0.010+0.030:D,"kommen",,:C,"dann","dann",0.020+0.050:C,"morgen","morgen",0.030+0.070:S,"schnee","regen",0.040+0.090:S,"schneien","schauer",0.050+0.110:S,"nordost","region",0.060+0.130:S,"lang","nord",0.070+0.150:S,"schnee","region",0.080+0.170:S,"schneien","nacht",0.090+0.190
+</PATH>
+<PATH id="(signer05-100)" word_cnt="11" file="29july_2010_thursday_tagesschau-7411" channel="1" sequence="470" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"heute",0.000+0.010:S,"a","region",0.010+0.030:C,"hoch","hoch",0.020+0.050:I,,"region",0.030+0.070:C,"kommen","kommen",0.040+0.090:D,"samstag",,:D,"sonntag",,:S,"mehr","berg",0.050+0.110:C,"sonne","sonne",0.060+0.130:D,"temperatur",,:D,"steigen",,
+</PATH>
+<PATH id="(signer05-101)" word_cnt="6" file="29october_2009_thursday_tagesschau-1011" channel="1" sequence="481" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:C,"wetter","wetter",0.010+0.030:C,"wie-aussehen","wie-aussehen",0.020+0.050:C,"morgen","morgen",0.030+0.070:D,"dreissig",,:S,"oktober","nord",0.040+0.090
+</PATH>
+<PATH id="(signer05-102)" word_cnt="6" file="29september_2011_thursday_heute-4235" channel="1" sequence="483" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"schoen",,:D,"abend",,:D,"poss-euch",,:D,"machen",,:S,"gut","nacht",0.000+0.010:S,"poss-euch","wechselhaft",0.010+0.030
+</PATH>
+<PATH id="(signer05-103)" word_cnt="7" file="30january_2013_wednesday_tagesschau-475" channel="1" sequence="490" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"freitag","freitag",0.000+0.010:S,"dann","gewitter",0.010+0.030:C,"kommen","kommen",0.020+0.050:C,"regen","regen",0.030+0.070:D,"ix",,:S,"ueberwiegend","meistens",0.040+0.090:C,"wind","wind",0.050+0.110
+</PATH>
+<PATH id="(signer05-104)" word_cnt="8" file="30january_2013_wednesday_tagesschau-477" channel="1" sequence="491" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"sonntag","sued",0.000+0.010:S,"wahrscheinlich","region",0.010+0.030:C,"freundlich","freundlich",0.020+0.050:D,"im-verlauf",,:C,"west","west",0.030+0.070:D,"schnee",,:S,"schneien","nacht",0.040+0.090:C,"regen","regen",0.050+0.110
+</PATH>
+<PATH id="(signer05-105)" word_cnt="13" file="30march_2011_wednesday_tagesschau-7127" channel="1" sequence="495" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"samstag","samstag",0.000+0.010:C,"sonntag","sonntag",0.010+0.030:C,"hoch","hoch",0.020+0.050:S,"spanien","moeglich",0.030+0.070:S,"ix","bis",0.040+0.090:S,"verbreiten","berg",0.050+0.110:C,"sonne","sonne",0.060+0.130:C,"auch","auch",0.070+0.150:D,"teil",,:D,"tatsaechlich",,:S,"schon","freitag",0.080+0.170:S,"sommer","sonne",0.090+0.190:S,"temperatur","grad",0.100+0.210
+</PATH>
+<PATH id="(signer05-106)" word_cnt="10" file="30march_2011_wednesday_tagesschau-7130" channel="1" sequence="496" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"ost","ost",0.000+0.010:C,"region","region",0.010+0.030:D,"ix",,:C,"sonne","sonne",0.020+0.050:D,"wahrscheinlich",,:S,"dann","region",0.030+0.070:S,"abend","gewitter",0.040+0.090:S,"ix","nacht",0.050+0.110:C,"regen","regen",0.060+0.130:D,"ix",,
+</PATH>
+<PATH id="(signer05-107)" word_cnt="10" file="31january_2010_sunday_tagesschau-1333" channel="1" sequence="513" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"nordwest",,:D,"zwei",,:D,"sonst",,:C,"region","region",0.010+0.030:D,"minus",,:D,"fuenf",,:D,"zwischen",,:S,"eins","bis",0.020+0.050:S,"zwischen","sued",0.030+0.070
+</PATH>
+</SPEAKER>
+<SPEAKER id="signer08">
+<PATH id="(signer08-000)" word_cnt="8" file="01february_2011_tuesday_heute-4637" channel="1" sequence="5" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sued","sued",0.000+0.010:D,"veraendern",,:S,"kaum","wind",0.010+0.030:S,"wie","bis",0.020+0.050:S,"heute","schwach",0.030+0.070:C,"sonne","sonne",0.040+0.090:S,"oder","heute",0.050+0.110:S,"nebel","nacht",0.060+0.130
+</PATH>
+<PATH id="(signer08-001)" word_cnt="2" file="01february_2011_tuesday_tagesschau-4975" channel="1" sequence="6" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"in-kommend","sued",0.000+0.010:S,"schnee","regen",0.010+0.030
+</PATH>
+<PATH id="(signer08-002)" word_cnt="8" file="01february_2011_tuesday_tagesschau-4976" channel="1" sequence="7" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"freitag","freitag",0.000+0.010:C,"samstag","samstag",0.010+0.030:C,"nord","nord",0.020+0.050:C,"wind","wind",0.030+0.070:S,"regen","schauer",0.040+0.090:C,"sued","sued",0.050+0.110:C,"freundlich","freundlich",0.060+0.130:D,"trocken",,
+</PATH>
+<PATH id="(signer08-003)" word_cnt="9" file="03february_2011_thursday_tagesschau-938" channel="1" sequence="39" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"bayern",,:D,"wald",,:S,"heute","mehr",0.000+0.010:S,"abend","nacht",0.010+0.030:S,"minus","bis",0.020+0.050:C,"fuenf","fuenf",0.030+0.070:S,"fluss","koennen",0.040+0.090:S,"drei","zwanzig",0.050+0.110:C,"grad","grad",0.060+0.130
+</PATH>
+<PATH id="(signer08-004)" word_cnt="7" file="03february_2011_thursday_tagesschau-939" channel="1" sequence="40" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"zwei",,:D,"grad",,:S,"region","eins",0.010+0.030:S,"fluss","zwanzig",0.020+0.050:S,"neun","acht",0.030+0.070:C,"grad","grad",0.040+0.090
+</PATH>
+<PATH id="(signer08-005)" word_cnt="8" file="05may_2011_thursday_tagesschau-25" channel="1" sequence="81" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:C,"wetter","wetter",0.010+0.030:C,"wie-aussehen","wie-aussehen",0.020+0.050:C,"morgen","morgen",0.030+0.070:C,"freitag","freitag",0.040+0.090:D,"sechste",,:D,"mai",,:S,"zeigen-bildschirm","koennen",0.050+0.110
+</PATH>
+<PATH id="(signer08-006)" word_cnt="7" file="06october_2012_saturday_tagesschau-8729" channel="1" sequence="105" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:S,"wetter","regen",0.010+0.030:C,"wie-aussehen","wie-aussehen",0.020+0.050:D,"morgen",,:D,"sonntag",,:D,"siebte",,:S,"oktober","gewitter",0.030+0.070
+</PATH>
+<PATH id="(signer08-007)" word_cnt="8" file="06october_2012_saturday_tagesschau-8730" channel="1" sequence="106" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"deutsch",,:D,"land",,:S,"ix","sued",0.010+0.030:C,"tief","tief",0.020+0.050:D,"kommen",,:D,"kuehl",,:D,"kommen",,
+</PATH>
+<PATH id="(signer08-008)" word_cnt="7" file="06october_2012_saturday_tagesschau-8744" channel="1" sequence="107" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"mittwoch",,:S,"teil","morgen",0.000+0.010:C,"sonne","sonne",0.010+0.030:D,"teil",,:C,"wolke","wolke",0.020+0.050:C,"bleiben","bleiben",0.030+0.070:C,"trocken","trocken",0.040+0.090
+</PATH>
+<PATH id="(signer08-009)" word_cnt="6" file="07december_2011_wednesday_tagesschau-5399" channel="1" sequence="114" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"nach",,:D,"mittag",,:S,"nordwest","west",0.000+0.010:S,"wolke","kommen",0.010+0.030:C,"koennen","koennen",0.020+0.050:D,"regen",,
+</PATH>
+<PATH id="(signer08-010)" word_cnt="6" file="07october_2012_sunday_tagesschau-3026" channel="1" sequence="121" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"tag",,:D,"klar",,:D,"stern",,:D,"sehen",,:D,"koennen",,:S,"frost","sturm",0.000+0.010
+</PATH>
+<PATH id="(signer08-011)" word_cnt="8" file="09april_2010_friday_tagesschau-7623" channel="1" sequence="134" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:D,"wetter",,:C,"morgen","morgen",0.010+0.030:D,"samstag",,:D,"zehnte",,:D,"april",,:C,"wie-aussehen","wie-aussehen",0.020+0.050:D,"zeigen-bildschirm",,
+</PATH>
+<PATH id="(signer08-012)" word_cnt="8" file="09april_2010_friday_tagesschau-7632" channel="1" sequence="135" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nacht","nacht",0.000+0.010:D,"null",,:D,"bis",,:D,"zehn",,:S,"fluss","fuenf",0.010+0.030:C,"bis","bis",0.020+0.050:C,"sieben","sieben",0.030+0.070:C,"grad","grad",0.040+0.090
+</PATH>
+<PATH id="(signer08-013)" word_cnt="10" file="09june_2010_wednesday_heute-8266" channel="1" sequence="153" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"freitag","freitag",0.000+0.010:D,"bleiben",,:C,"warm","warm",0.010+0.030:D,"nass",,:C,"samstag","samstag",0.020+0.050:D,"dann",,:S,"suedwest","mittwoch",0.030+0.070:C,"regen","regen",0.040+0.090:S,"und","bis",0.050+0.110:C,"kuehl","kuehl",0.060+0.130
+</PATH>
+<PATH id="(signer08-014)" word_cnt="12" file="10april_2010_saturday_tagesschau-4140" channel="1" sequence="158" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"morgen",,:S,"vier","zwanzig",0.000+0.010:C,"grad","grad",0.010+0.030:D,"region",,:D,"sechs",,:C,"bis","bis",0.020+0.050:S,"elf","zwanzig",0.030+0.070:S,"grad","bis",0.040+0.090:S,"fluss","alpen",0.050+0.110:C,"bis","bis",0.060+0.130:D,"zwoelf",,:C,"grad","grad",0.070+0.150
+</PATH>
+<PATH id="(signer08-015)" word_cnt="10" file="11april_2010_sunday_tagesschau-8639" channel="1" sequence="178" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"bis",0.000+0.010:S,"dann","wind",0.010+0.030:C,"sturm","sturm",0.020+0.050:S,"wehen","wind",0.030+0.070:S,"ost","region",0.040+0.090:S,"frisch","nord",0.050+0.110:C,"wind","wind",0.060+0.130:C,"berg","berg",0.070+0.150:D,"koennen",,:C,"sturm","sturm",0.080+0.170
+</PATH>
+<PATH id="(signer08-016)" word_cnt="3" file="11august_2010_wednesday_tagesschau-2" channel="1" sequence="179" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"druck",,:S,"tief","sued",0.000+0.010:C,"kommen","kommen",0.010+0.030
+</PATH>
+<PATH id="(signer08-017)" word_cnt="8" file="11august_2010_wednesday_tagesschau-3" channel="1" sequence="180" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"es-bedeutet",,:S,"viel","ix",0.000+0.010:C,"wolke","wolke",0.010+0.030:S,"und","auch",0.020+0.050:C,"koennen","koennen",0.030+0.070:C,"regen","regen",0.040+0.090:C,"gewitter","gewitter",0.050+0.110:D,"koennen",,
+</PATH>
+<PATH id="(signer08-018)" word_cnt="10" file="11august_2010_wednesday_tagesschau-8" channel="1" sequence="181" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"wind","wetter",0.000+0.010:S,"maessig","wechselhaft",0.010+0.030:C,"schwach","schwach",0.020+0.050:I,,"sued",0.030+0.070:C,"region","region",0.040+0.090:D,"wenn",,:D,"gewitter",,:C,"wind","wind",0.050+0.110:I,,"sturm",0.060+0.130:C,"koennen","koennen",0.070+0.150
+</PATH>
+<PATH id="(signer08-019)" word_cnt="8" file="11december_2010_saturday_tagesschau-8657" channel="1" sequence="183" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:D,"wetter",,:D,"morgen",,:C,"sonntag","sonntag",0.010+0.030:D,"zwoelf",,:S,"dezember","gewitter",0.020+0.050:C,"wie-aussehen","wie-aussehen",0.030+0.070:D,"zeigen-bildschirm",,
+</PATH>
+<PATH id="(signer08-020)" word_cnt="4" file="11december_2010_saturday_tagesschau-8659" channel="1" sequence="184" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"sonne","sonne",0.010+0.030:D,"ix",,:C,"kommen","kommen",0.020+0.050
+</PATH>
+<PATH id="(signer08-021)" word_cnt="6" file="12december_2011_monday_heute-5806" channel="1" sequence="195" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"und",,:S,"dazu","wind",0.000+0.010:C,"sturm","sturm",0.010+0.030:C,"nord","nord",0.020+0.050:D,"kueste",,:C,"sturm","sturm",0.030+0.070
+</PATH>
+<PATH id="(signer08-022)" word_cnt="9" file="12december_2011_monday_tagesschau-8281" channel="1" sequence="196" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"drei",,:D,"grad",,:S,"region","fuenf",0.010+0.030:S,"bayern","zwanzig",0.020+0.050:S,"wald","berg",0.030+0.070:C,"ix","ix",0.040+0.090:D,"zwoelf",,:D,"koeln",,
+</PATH>
+<PATH id="(signer08-023)" word_cnt="5" file="12december_2011_monday_tagesschau-8282" channel="1" sequence="197" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"mittwoch","mittwoch",0.000+0.010:C,"wind","wind",0.010+0.030:C,"koennen","koennen",0.020+0.050:C,"sturm","sturm",0.030+0.070:C,"regen","regen",0.040+0.090
+</PATH>
+<PATH id="(signer08-024)" word_cnt="9" file="13august_2011_saturday_tagesschau-1409" channel="1" sequence="221" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"speziell",,:S,"suedost","sued",0.000+0.010:C,"koennen","koennen",0.010+0.030:S,"ort","schauer",0.020+0.050:S,"unwetter","sturm",0.030+0.070:C,"regen","regen",0.040+0.090:D,"hagel",,:C,"sturm","sturm",0.050+0.110:D,"koennen",,
+</PATH>
+<PATH id="(signer08-025)" word_cnt="6" file="13august_2011_saturday_tagesschau-1410" channel="1" sequence="222" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"normal",,:D,"wind",,:S,"leicht","wechselhaft",0.000+0.010:C,"maessig","maessig",0.010+0.030:S,"kommen","wolke",0.020+0.050:S,"wehen","region",0.030+0.070
+</PATH>
+<PATH id="(signer08-026)" word_cnt="8" file="15february_2011_tuesday_tagesschau-7468" channel="1" sequence="242" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:C,"wetter","wetter",0.010+0.030:C,"wie-aussehen","wie-aussehen",0.020+0.050:C,"morgen","morgen",0.030+0.070:C,"mittwoch","mittwoch",0.040+0.090:D,"sechszehn",,:D,"februar",,:S,"zeigen-bildschirm","tag",0.050+0.110
+</PATH>
+<PATH id="(signer08-027)" word_cnt="8" file="15july_2011_friday_tagesschau-8726" channel="1" sequence="243" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"ix","ix",0.000+0.010:C,"morgen","morgen",0.010+0.030:D,"neunzehn",,:D,"grad",,:D,"region",,:C,"sieben","sieben",0.020+0.050:C,"zwanzig","zwanzig",0.030+0.070:C,"grad","grad",0.040+0.090
+</PATH>
+<PATH id="(signer08-028)" word_cnt="8" file="16december_2011_friday_tagesschau-6529" channel="1" sequence="250" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"kommen",,:D,"ix",,:D,"kalt",,:C,"kommen","kommen",0.000+0.010:D,"ix",,:D,"schnee",,:S,"glatt","regen",0.010+0.030:C,"koennen","koennen",0.020+0.050
+</PATH>
+<PATH id="(signer08-029)" word_cnt="11" file="16december_2011_friday_tagesschau-6532" channel="1" sequence="251" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"nordost",,:S,"noch","nord",0.010+0.030:C,"regen","regen",0.020+0.050:S,"schnee","alpen",0.030+0.070:C,"regen","regen",0.040+0.090:D,"berg",,:D,"ix",,:D,"noch",,:D,"schnee",,:D,"durchgehend",,
+</PATH>
+<PATH id="(signer08-030)" word_cnt="14" file="16may_2010_sunday_tagesschau-5227" channel="1" sequence="255" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nord","nord",0.000+0.010:C,"heute","heute",0.010+0.030:C,"nacht","nacht",0.020+0.050:I,,"kuehl",0.030+0.070:C,"klar","klar",0.040+0.090:C,"himmel","himmel",0.050+0.110:D,"stern",,:S,"koennen","ix",0.060+0.130:S,"sehen","wie-aussehen",0.070+0.150:S,"suedwest","sued",0.080+0.170:C,"regen","regen",0.090+0.190:D,"koennen",,:D,"nebel",,:S,"bereich","region",0.100+0.210
+</PATH>
+<PATH id="(signer08-031)" word_cnt="7" file="17may_2010_monday_tagesschau-8473" channel="1" sequence="265" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"nord",,:C,"auch","auch",0.000+0.010:C,"regen","regen",0.010+0.030:D,"dabei",,:D,"suedwest",,:S,"bleiben","sued",0.020+0.050:C,"trocken","trocken",0.030+0.070
+</PATH>
+<PATH id="(signer08-032)" word_cnt="12" file="17may_2010_monday_tagesschau-8477" channel="1" sequence="266" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"wie-aussehen","wie-aussehen",0.000+0.010:I,,"im-verlauf",0.010+0.030:S,"in-kommend","bis",0.020+0.050:C,"mittwoch","mittwoch",0.030+0.070:S,"bleiben","eins",0.040+0.090:C,"wolke","wolke",0.050+0.110:C,"ix","ix",0.060+0.130:S,"koennen","auch",0.070+0.150:C,"regen","regen",0.080+0.170:D,"west",,:S,"koennen","berg",0.090+0.190:C,"sonne","sonne",0.100+0.210
+</PATH>
+<PATH id="(signer08-033)" word_cnt="6" file="19april_2010_monday_heute-781" channel="1" sequence="281" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sued","sued",0.000+0.010:D,"mehr",,:S,"ruhig","auch",0.010+0.030:C,"freundlich","freundlich",0.020+0.050:D,"bisschen",,:S,"mild","ix",0.030+0.070
+</PATH>
+<PATH id="(signer08-034)" word_cnt="7" file="21april_2010_wednesday_heute-3122" channel="1" sequence="320" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"woche","fluss",0.000+0.010:S,"warm","trocken",0.010+0.030:C,"auch","auch",0.020+0.050:C,"sonne","sonne",0.030+0.070:D,"jeden-tag",,:D,"grad",,:S,"steigen","gewitter",0.040+0.090
+</PATH>
+<PATH id="(signer08-035)" word_cnt="3" file="21april_2010_wednesday_heute-3124" channel="1" sequence="321" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"schoen","warm",0.000+0.010:C,"abend","abend",0.010+0.030:S,"wuenschen","wehen",0.020+0.050
+</PATH>
+<PATH id="(signer08-036)" word_cnt="5" file="21august_2011_sunday_tagesschau-264" channel="1" sequence="322" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"suedwest",,:D,"sowieso",,:S,"stern","sued",0.000+0.010:S,"koennen","wechselhaft",0.010+0.030:S,"sehen","gewitter",0.020+0.050
+</PATH>
+<PATH id="(signer08-037)" word_cnt="8" file="21august_2011_sunday_tagesschau-265" channel="1" sequence="323" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"mitte",,:D,"region",,:C,"wolke","wolke",0.000+0.010:I,,"sonne",0.010+0.030:C,"morgen","morgen",0.020+0.050:D,"koennen",,:C,"regen","regen",0.030+0.070:C,"gewitter","gewitter",0.040+0.090
+</PATH>
+<PATH id="(signer08-038)" word_cnt="9" file="22march_2011_tuesday_tagesschau-4956" channel="1" sequence="344" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:C,"wolke","wolke",0.020+0.050:D,"kommen",,:S,"bleiben","bisschen",0.030+0.070:C,"klar","klar",0.040+0.090:D,"himmel",,:D,"stern",,:S,"sehen","ix",0.050+0.110
+</PATH>
+<PATH id="(signer08-039)" word_cnt="5" file="23august_2010_monday_heute-5319" channel="1" sequence="350" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"frisch",,:C,"morgen","morgen",0.000+0.010:D,"angenehm",,:D,"deutsch",,:S,"land","grad",0.010+0.030
+</PATH>
+<PATH id="(signer08-040)" word_cnt="9" file="23august_2010_monday_heute-5320" channel="1" sequence="351" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"aber",,:D,"im-moment",,:D,"dann",,:S,"viel","auch",0.000+0.010:C,"regen","regen",0.010+0.030:I,,"kommen",0.020+0.050:C,"region","region",0.030+0.070:C,"ost","ost",0.040+0.090:D,"region",,
+</PATH>
+<PATH id="(signer08-041)" word_cnt="7" file="23august_2010_monday_heute-5321" channel="1" sequence="352" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"ost",,:D,"langsam",,:S,"aber","auch",0.000+0.010:S,"sued","montag",0.010+0.030:S,"weiter","berg",0.020+0.050:C,"regen","regen",0.030+0.070:C,"gewitter","gewitter",0.040+0.090
+</PATH>
+<PATH id="(signer08-042)" word_cnt="9" file="23august_2010_monday_tagesschau-4429" channel="1" sequence="353" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"wolke",,:D,"dabei",,:C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:D,"koennen",,:C,"regen","regen",0.020+0.050:C,"kommen","kommen",0.030+0.070:D,"suedost",,:S,"regen","sued",0.040+0.090
+</PATH>
+<PATH id="(signer08-043)" word_cnt="3" file="23august_2010_monday_tagesschau-4430" channel="1" sequence="354" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"dazu",,:D,"koennen",,:C,"gewitter","gewitter",0.000+0.010
+</PATH>
+<PATH id="(signer08-044)" word_cnt="4" file="23august_2010_monday_tagesschau-4438" channel="1" sequence="355" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sued","sued",0.000+0.010:D,"mehr",,:C,"freundlich","freundlich",0.010+0.030:I,,"himmel",0.020+0.050
+</PATH>
+<PATH id="(signer08-045)" word_cnt="7" file="23may_2011_monday_heute-6459" channel="1" sequence="361" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"dann","im-verlauf",0.000+0.010:C,"regen","regen",0.010+0.030:C,"verschwinden","verschwinden",0.020+0.050:C,"wind","wind",0.030+0.070:C,"sturm","sturm",0.040+0.090:S,"west","sonne",0.050+0.110:C,"kommen","kommen",0.060+0.130
+</PATH>
+<PATH id="(signer08-046)" word_cnt="8" file="23may_2011_monday_heute-6461" channel="1" sequence="362" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"dann","heute",0.000+0.010:S,"abend","nacht",0.010+0.030:C,"koennen","koennen",0.020+0.050:S,"bisschen","auch",0.030+0.070:C,"regen","regen",0.040+0.090:C,"gewitter","gewitter",0.050+0.110:D,"berg",,:C,"ix","ix",0.060+0.130
+</PATH>
+<PATH id="(signer08-047)" word_cnt="3" file="23may_2011_monday_heute-6466" channel="1" sequence="363" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"viel",,:C,"regen","regen",0.000+0.010:S,"neg-haben","warm",0.010+0.030
+</PATH>
+<PATH id="(signer08-048)" word_cnt="6" file="23may_2011_monday_tagesschau-1097" channel="1" sequence="364" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"ix",,:C,"nord","nord",0.000+0.010:S,"tief","ix",0.010+0.030:C,"kommen","kommen",0.020+0.050:C,"wolke","wolke",0.030+0.070:C,"kommen","kommen",0.040+0.090
+</PATH>
+<PATH id="(signer08-049)" word_cnt="4" file="25february_2011_friday_tagesschau-575" channel="1" sequence="407" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"dienstag",,:D,"ruhig",,:S,"trocken","auch",0.000+0.010:S,"wetter","wind",0.010+0.030
+</PATH>
+<PATH id="(signer08-050)" word_cnt="4" file="26march_2011_saturday_tagesschau-5730" channel="1" sequence="429" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"berg",,:D,"ix",,:S,"durchgehend","alpen",0.000+0.010:C,"regen","regen",0.010+0.030
+</PATH>
+<PATH id="(signer08-051)" word_cnt="7" file="26march_2011_saturday_tagesschau-5731" channel="1" sequence="430" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"dienstag",,:S,"ueberall","region",0.000+0.010:C,"viel","viel",0.010+0.030:C,"sonne","sonne",0.020+0.050:C,"wolke","wolke",0.030+0.070:D,"locker",,:C,"trocken","trocken",0.040+0.090
+</PATH>
+<PATH id="(signer08-052)" word_cnt="4" file="27july_2010_tuesday_heute-5261" channel="1" sequence="444" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"lieb",,:D,"zuschauer",,:S,"gut","sonne",0.000+0.010:S,"abend","nacht",0.010+0.030
+</PATH>
+<PATH id="(signer08-053)" word_cnt="6" file="27may_2011_friday_tagesschau-8122" channel="1" sequence="446" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"a",,:D,"hoch",,:C,"kommen","kommen",0.010+0.030:D,"region",,:S,"freundlich","wolke",0.020+0.050
+</PATH>
+<PATH id="(signer08-054)" word_cnt="12" file="27may_2011_friday_tagesschau-8133" channel="1" sequence="447" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"dienstag","dienstag",0.000+0.010:C,"kommen","kommen",0.010+0.030:C,"regen","regen",0.020+0.050:S,"koennen","ix",0.030+0.070:C,"gewitter","gewitter",0.040+0.090:I,,"wind",0.050+0.110:S,"unwetter","sturm",0.060+0.130:C,"regen","regen",0.070+0.150:D,"hagel",,:S,"kraeftig","alpen",0.080+0.170:C,"wind","wind",0.090+0.190:C,"koennen","koennen",0.100+0.210
+</PATH>
+<PATH id="(signer08-055)" word_cnt="8" file="28may_2010_friday_tagesschau-7496" channel="1" sequence="455" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"hoch",,:D,"kommen",,:D,"ost",,:D,"kommen",,:S,"es-bedeutet","region",0.000+0.010:C,"morgen","morgen",0.010+0.030:D,"freundlich",,:D,"wetter",,
+</PATH>
+<PATH id="(signer08-056)" word_cnt="5" file="30november_2010_tuesday_tagesschau-4617" channel="1" sequence="500" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"skandinavien",,:C,"hoch","hoch",0.000+0.010:C,"kommen","kommen",0.010+0.030:S,"kalt","kuehl",0.020+0.050:C,"kommen","kommen",0.030+0.070
+</PATH>
+<PATH id="(signer08-057)" word_cnt="9" file="30november_2010_tuesday_tagesschau-4618" channel="1" sequence="501" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"frankreich",,:D,"kommen",,:D,"tief",,:C,"kommen","kommen",0.000+0.010:S,"wolke","nacht",0.010+0.030:C,"kommen","kommen",0.020+0.050:D,"koennen",,:C,"schnee","schnee",0.030+0.070:D,"regen",,
+</PATH>
+<PATH id="(signer08-058)" word_cnt="8" file="30november_2010_tuesday_tagesschau-4620" channel="1" sequence="502" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"kueste",,:C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:S,"schnee","regen",0.020+0.050:C,"region","region",0.030+0.070:S,"wolke","heute",0.040+0.090:S,"bisschen","auch",0.050+0.110:S,"trocken","koennen",0.060+0.130
+</PATH>
+<PATH id="(signer08-059)" word_cnt="4" file="30november_2010_tuesday_tagesschau-4621" channel="1" sequence="503" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"nord","wie-aussehen",0.000+0.010:C,"morgen","morgen",0.010+0.030:D,"koennen",,:C,"sonne","sonne",0.020+0.050
+</PATH>
+</SPEAKER>
+<SPEAKER id="signer09">
+<PATH id="(signer09-000)" word_cnt="6" file="01july_2009_wednesday_tagesschau-4555" channel="1" sequence="8" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"nord","nord",0.010+0.030:S,"kaum","auch",0.020+0.050:S,"gewitter","wechselhaft",0.030+0.070:C,"region","region",0.040+0.090:C,"sonne","sonne",0.050+0.110
+</PATH>
+<PATH id="(signer09-001)" word_cnt="8" file="06july_2009_monday_tagesschau-2109" channel="1" sequence="96" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:S,"wert","teil",0.010+0.030:S,"eifel","alpen",0.020+0.050:S,"achtzehn","regen",0.030+0.070:C,"bis","bis",0.040+0.090:D,"sechs",,:S,"zwanzig","sieben",0.050+0.110:S,"land","region",0.060+0.130
+</PATH>
+<PATH id="(signer09-002)" word_cnt="10" file="07january_2010_thursday_tagesschau-2301" channel="1" sequence="117" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:D,"temperatur",,:S,"minus","grad",0.020+0.050:S,"drei","bis",0.030+0.070:S,"minus","fuenf",0.040+0.090:S,"siebzehn","berg",0.050+0.110:S,"wenn","ost",0.060+0.130:S,"klar","nord",0.070+0.150:S,"tief","kueste",0.080+0.170
+</PATH>
+<PATH id="(signer09-003)" word_cnt="6" file="07january_2010_thursday_tagesschau-2302" channel="1" sequence="118" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"tag","tag",0.000+0.010:S,"minus","mehr",0.010+0.030:C,"sieben","sieben",0.020+0.050:I,,"heute",0.030+0.070:C,"nord","nord",0.040+0.090:D,"null",,
+</PATH>
+<PATH id="(signer09-004)" word_cnt="10" file="08january_2010_friday_tagesschau-3984" channel="1" sequence="128" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"wie-aussehen","wie-aussehen",0.000+0.010:S,"in-kommend","fuenf",0.010+0.030:C,"sonntag","sonntag",0.020+0.050:I,,"nordwest",0.030+0.070:S,"ost","west",0.040+0.090:S,"speziell","region",0.050+0.110:C,"schnee","schnee",0.060+0.130:C,"nord","nord",0.070+0.150:D,"bleiben",,:C,"wind","wind",0.080+0.170
+</PATH>
+<PATH id="(signer09-005)" word_cnt="7" file="09january_2010_saturday_tagesschau-1919" channel="1" sequence="150" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"jetzt",,:C,"wetter","wetter",0.000+0.010:C,"wie-aussehen","wie-aussehen",0.010+0.030:C,"morgen","morgen",0.020+0.050:C,"sonntag","sonntag",0.030+0.070:D,"zehnte",,:S,"januar","region",0.040+0.090
+</PATH>
+<PATH id="(signer09-006)" word_cnt="5" file="12february_2010_friday_tagesschau-125" channel="1" sequence="198" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:S,"mal","heute",0.010+0.030:C,"sonne","sonne",0.020+0.050:S,"speziell","nordwest",0.030+0.070:C,"alpen","alpen",0.040+0.090
+</PATH>
+<PATH id="(signer09-007)" word_cnt="8" file="12february_2010_friday_tagesschau-126" channel="1" sequence="199" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"mal","morgen",0.000+0.010:S,"bisschen","auch",0.010+0.030:C,"schnee","schnee",0.020+0.050:I,,"nordost",0.030+0.070:C,"nord","nord",0.040+0.090:C,"mehr","mehr",0.050+0.110:S,"stark","tag",0.060+0.130:C,"schnee","schnee",0.070+0.150
+</PATH>
+<PATH id="(signer09-008)" word_cnt="6" file="13february_2010_saturday_tagesschau-6036" channel="1" sequence="224" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"wetter","wind",0.000+0.010:C,"wie-aussehen","wie-aussehen",0.010+0.030:C,"morgen","morgen",0.020+0.050:D,"sonntag",,:S,"vierzehn","region",0.030+0.070:S,"februar","west",0.040+0.090
+</PATH>
+<PATH id="(signer09-009)" word_cnt="10" file="13february_2010_saturday_tagesschau-6044" channel="1" sequence="225" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"wie-aussehen","wie-aussehen",0.000+0.010:D,"in-kommend",,:C,"montag","montag",0.010+0.030:S,"mal","morgen",0.020+0.050:C,"sonne","sonne",0.030+0.070:D,"mal",,:C,"wolke","wolke",0.040+0.090:D,"west",,:S,"bisschen","nord",0.050+0.110:S,"schnee","region",0.060+0.130
+</PATH>
+<PATH id="(signer09-010)" word_cnt="11" file="13november_2009_friday_tagesschau-8610" channel="1" sequence="230" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:D,"dreizehn",,:C,"bis","bis",0.020+0.050:I,,"eins",0.030+0.070:S,"drei","zwanzig",0.040+0.090:S,"grad","nord",0.050+0.110:C,"alpen","alpen",0.060+0.130:D,"wahrscheinlich",,:D,"zwischen",,:S,"null","morgen",0.070+0.150
+</PATH>
+<PATH id="(signer09-011)" word_cnt="5" file="19february_2010_friday_tagesschau-4101" channel="1" sequence="283" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"naechste",,:D,"woche",,:D,"mild",,:S,"aber","verschwinden",0.000+0.010:C,"wechselhaft","wechselhaft",0.010+0.030
+</PATH>
+<PATH id="(signer09-012)" word_cnt="9" file="19july_2009_sunday_tagesschau-1568" channel="1" sequence="286" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"montag","montag",0.000+0.010:D,"meistens",,:D,"tief",,:S,"druck","bis",0.010+0.030:S,"region","sonne",0.020+0.050:S,"luft","bis",0.030+0.070:S,"meer","berg",0.040+0.090:S,"luft","wind",0.050+0.110:S,"kommen","ost",0.060+0.130
+</PATH>
+<PATH id="(signer09-013)" word_cnt="4" file="19october_2009_monday_tagesschau-229" channel="1" sequence="290" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:D,"wetter",,:C,"wie-aussehen","wie-aussehen",0.010+0.030:C,"morgen","morgen",0.020+0.050
+</PATH>
+<PATH id="(signer09-014)" word_cnt="8" file="20october_2009_tuesday_tagesschau-3586" channel="1" sequence="311" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"jetzt",,:C,"wie-aussehen","wie-aussehen",0.000+0.010:S,"wetter","wind",0.010+0.030:C,"morgen","morgen",0.020+0.050:C,"mittwoch","mittwoch",0.030+0.070:S,"eins","warm",0.040+0.090:C,"zwanzig","zwanzig",0.050+0.110:D,"oktober",,
+</PATH>
+<PATH id="(signer09-015)" word_cnt="6" file="20october_2009_tuesday_tagesschau-3594" channel="1" sequence="312" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"abend","heute",0.000+0.010:S,"fluss","nacht",0.010+0.030:C,"west","west",0.020+0.050:C,"region","region",0.030+0.070:C,"moeglich","moeglich",0.040+0.090:C,"regen","regen",0.050+0.110
+</PATH>
+<PATH id="(signer09-016)" word_cnt="4" file="20october_2009_tuesday_tagesschau-3595" channel="1" sequence="313" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"wind","wind",0.000+0.010:S,"wehen","west",0.010+0.030:S,"maessig","wechselhaft",0.020+0.050:S,"wehen","west",0.030+0.070
+</PATH>
+</SPEAKER>
+<SPEAKER id="signer01">
+<PATH id="(signer01-000)" word_cnt="6" file="01june_2010_tuesday_tagesschau-5002" channel="1" sequence="12" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"wetter","wetter",0.010+0.030:C,"wie-aussehen","wie-aussehen",0.020+0.050:C,"mittwoch","mittwoch",0.030+0.070:D,"zweite",,:S,"juni","wie-aussehen",0.040+0.090
+</PATH>
+<PATH id="(signer01-001)" word_cnt="3" file="01march_2011_tuesday_tagesschau-2209" channel="1" sequence="13" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"meistens","meistens",0.010+0.030:C,"sonne","sonne",0.020+0.050
+</PATH>
+<PATH id="(signer01-002)" word_cnt="3" file="01march_2011_tuesday_tagesschau-2210" channel="1" sequence="14" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nord","nord",0.000+0.010:C,"koennen","koennen",0.010+0.030:S,"bewoelkt","schnee",0.020+0.050
+</PATH>
+<PATH id="(signer01-003)" word_cnt="13" file="01march_2011_tuesday_tagesschau-2211" channel="1" sequence="15" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"region",,:D,"wehen",,:D,"sued",,:D,"viel",,:S,"frisch","zwanzig",0.000+0.010:C,"wind","wind",0.010+0.030:C,"bisschen","bisschen",0.020+0.050:C,"sturm","sturm",0.030+0.070:I,,"sonne",0.040+0.090:C,"berg","berg",0.050+0.110:D,"sturm",,:D,"orkan",,:S,"koennen","wind",0.060+0.130
+</PATH>
+<PATH id="(signer01-004)" word_cnt="8" file="02june_2010_wednesday_heute-6796" channel="1" sequence="26" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"samstag","samstag",0.000+0.010:D,"auch",,:S,"dann","gewitter",0.010+0.030:C,"sonntag","sonntag",0.020+0.050:C,"west","west",0.030+0.070:D,"bisschen",,:D,"schauer",,:C,"gewitter","gewitter",0.040+0.090
+</PATH>
+<PATH id="(signer01-005)" word_cnt="17" file="02june_2010_wednesday_tagesschau-7160" channel="1" sequence="27" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:D,"sechs",,:C,"bis","bis",0.020+0.050:D,"dreizehn",,:C,"grad","grad",0.030+0.070:D,"tag",,:D,"temperatur",,:S,"steigen","berg",0.040+0.090:S,"zehn","wind",0.050+0.110:S,"grad","sieben",0.060+0.130:S,"alpen","berg",0.070+0.150:C,"bis","bis",0.080+0.170:D,"fuenf",,:C,"zwanzig","zwanzig",0.090+0.190:D,"grad",,:C,"west","west",0.100+0.210
+</PATH>
+<PATH id="(signer01-006)" word_cnt="6" file="03august_2010_tuesday_tagesschau-2776" channel="1" sequence="38" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"dann",,:C,"kommen","kommen",0.000+0.010:D,"schauer",,:S,"stark","kuehl",0.010+0.030:S,"mit","wechselhaft",0.020+0.050:C,"gewitter","gewitter",0.030+0.070
+</PATH>
+<PATH id="(signer01-007)" word_cnt="6" file="04april_2011_monday_heute-965" channel="1" sequence="56" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"mehr",,:C,"warm","warm",0.010+0.030:D,"ix",,:D,"als",,:D,"heute",,
+</PATH>
+<PATH id="(signer01-008)" word_cnt="5" file="04april_2011_monday_heute-966" channel="1" sequence="57" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"vierzehn",,:C,"bis","bis",0.000+0.010:D,"neunzehn",,:C,"grad","grad",0.010+0.030:C,"koennen","koennen",0.020+0.050
+</PATH>
+<PATH id="(signer01-009)" word_cnt="17" file="04february_2010_thursday_heute-7966" channel="1" sequence="60" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"schnee",,:D,"warum",,:C,"heute","heute",0.000+0.010:D,"nacht",,:C,"kalt","kalt",0.010+0.030:D,"zeigen-bildschirm",,:D,"leicht",,:D,"frost",,:D,"minus",,:D,"eins",,:C,"bis","bis",0.020+0.050:D,"minus",,:S,"vier","wind",0.030+0.070:S,"nur","bis",0.040+0.090:C,"west","west",0.050+0.110:D,"frost",,:S,"kein","kalt",0.060+0.130
+</PATH>
+<PATH id="(signer01-010)" word_cnt="14" file="04february_2010_thursday_heute-7970" channel="1" sequence="61" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"bis",0.000+0.010:C,"nord","nord",0.010+0.030:I,,"nordost",0.020+0.050:S,"tag","sued",0.030+0.070:S,"regen","drei",0.040+0.090:S,"kommen","region",0.050+0.110:S,"noch-nicht","kuehl",0.060+0.130:C,"sonne","sonne",0.070+0.150:C,"freundlich","freundlich",0.080+0.170:C,"sonne","sonne",0.090+0.190:C,"dabei","dabei",0.100+0.210:D,"und",,:S,"sturm","auch",0.110+0.230:C,"wind","wind",0.120+0.250
+</PATH>
+<PATH id="(signer01-011)" word_cnt="9" file="04january_2010_monday_heute-7399" channel="1" sequence="62" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"schwarz",,:D,"wald",,:D,"fuenf",,:D,"zwanzig",,:D,"c+m",,:S,"harz","ost",0.000+0.010:C,"bis","bis",0.010+0.030:D,"sechzig",,:S,"c+m","sieben",0.020+0.050
+</PATH>
+<PATH id="(signer01-012)" word_cnt="8" file="04january_2010_monday_heute-7401" channel="1" sequence="63" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"region","region",0.000+0.010:S,"anders","trocken",0.010+0.030:S,"mild","auch",0.020+0.050:S,"hinreichend","trocken",0.030+0.070:C,"heute","heute",0.040+0.090:C,"nacht","nacht",0.050+0.110:D,"hinreichend",,:D,"schnee",,
+</PATH>
+<PATH id="(signer01-013)" word_cnt="15" file="04may_2011_wednesday_heute-3996" channel="1" sequence="70" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"langsam",,:D,"steigen",,:C,"warm","warm",0.000+0.010:D,"fluss",,:D,"achtzehn",,:C,"bis","bis",0.010+0.030:D,"zwanzig",,:C,"grad","grad",0.020+0.050:C,"region","region",0.030+0.070:D,"zwoelf",,:C,"bis","bis",0.040+0.090:D,"achtzehn",,:C,"grad","grad",0.050+0.110:D,"kuehl",,:S,"poss-sein","sonne",0.060+0.130
+</PATH>
+<PATH id="(signer01-014)" word_cnt="5" file="04october_2010_monday_heute-5945" channel="1" sequence="71" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"lieb",,:D,"zuschauer",,:S,"poss-euch","sonne",0.000+0.010:S,"gut","heute",0.010+0.030:S,"abend","nacht",0.020+0.050
+</PATH>
+<PATH id="(signer01-015)" word_cnt="5" file="04october_2010_monday_heute-5954" channel="1" sequence="72" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"zwanzig","eins",0.000+0.010:C,"bis","bis",0.010+0.030:S,"ueber","eins",0.020+0.050:C,"zwanzig","zwanzig",0.030+0.070:C,"grad","grad",0.040+0.090
+</PATH>
+<PATH id="(signer01-016)" word_cnt="6" file="05april_2011_tuesday_tagesschau-6420" channel="1" sequence="74" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"sued",0.000+0.010:C,"region","region",0.010+0.030:C,"kommen","kommen",0.020+0.050:C,"sonne","sonne",0.030+0.070:D,"sehen",,:D,"koennen",,
+</PATH>
+<PATH id="(signer01-017)" word_cnt="11" file="05december_2009_saturday_tagesschau-4701" channel="1" sequence="75" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"ix",,:D,"auch",,:D,"wind",,:S,"dabei","bis",0.000+0.010:S,"temperatur","sturm",0.010+0.030:S,"fuenf","verschwinden",0.020+0.050:C,"bis","bis",0.030+0.070:D,"ungefaehr",,:D,"dreizehn",,:C,"grad","grad",0.040+0.090:C,"region","region",0.050+0.110
+</PATH>
+<PATH id="(signer01-018)" word_cnt="11" file="05february_2010_friday_tagesschau-2919" channel="1" sequence="76" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:D,"temperatur",,:S,"minus","grad",0.020+0.050:S,"fuenf","bis",0.030+0.070:C,"nord","nord",0.040+0.090:C,"bis","bis",0.050+0.110:D,"plus",,:D,"drei",,:D,"west",,:D,"fluss",,
+</PATH>
+<PATH id="(signer01-019)" word_cnt="9" file="05february_2010_friday_tagesschau-2920" channel="1" sequence="77" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"ix","bis",0.000+0.010:S,"plus","sieben",0.010+0.030:S,"sechs","zwanzig",0.020+0.050:C,"grad","grad",0.030+0.070:D,"vor",,:S,"pommern","bis",0.040+0.090:S,"region","morgen",0.050+0.110:C,"bisschen","bisschen",0.060+0.130:S,"frost","sturm",0.070+0.150
+</PATH>
+<PATH id="(signer01-020)" word_cnt="10" file="05january_2010_tuesday_tagesschau-2672" channel="1" sequence="79" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:D,"minus",,:D,"zwei",,:C,"nord","nord",0.020+0.050:D,"mitte",,:D,"minus",,:D,"eins",,:S,"zwanzig","bis",0.030+0.070:C,"grad","grad",0.040+0.090
+</PATH>
+<PATH id="(signer01-021)" word_cnt="8" file="05july_2010_monday_tagesschau-1200" channel="1" sequence="80" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"tag","nord",0.000+0.010:C,"sonne","sonne",0.010+0.030:D,"wolke",,:C,"wechselhaft","wechselhaft",0.020+0.050:S,"teilweise","teil",0.030+0.070:S,"auch","gewitter",0.040+0.090:S,"lang","berg",0.050+0.110:C,"sonne","sonne",0.060+0.130
+</PATH>
+<PATH id="(signer01-022)" word_cnt="5" file="05october_2011_wednesday_heute-1069" channel="1" sequence="82" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"lieb",,:D,"zuschauer",,:D,"poss-euch",,:C,"gut","gut",0.000+0.010:S,"abend","nacht",0.010+0.030
+</PATH>
+<PATH id="(signer01-023)" word_cnt="6" file="06january_2010_wednesday_heute-3523" channel="1" sequence="92" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:D,"mehr",,:S,"schnee","ost",0.020+0.050:S,"nord","hoch",0.030+0.070:S,"suedost","sued",0.040+0.090
+</PATH>
+<PATH id="(signer01-024)" word_cnt="8" file="06january_2010_wednesday_heute-3525" channel="1" sequence="93" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:S,"besonders","region",0.010+0.030:C,"nord","nord",0.020+0.050:C,"region","region",0.030+0.070:D,"und",,:C,"west","west",0.040+0.090:D,"regen",,:S,"koennen","bisschen",0.050+0.110
+</PATH>
+<PATH id="(signer01-025)" word_cnt="5" file="06january_2010_wednesday_heute-3530" channel="1" sequence="94" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"wind","wind",0.000+0.010:D,"kommen",,:S,"dann","sturm",0.010+0.030:S,"schnee","wie-aussehen",0.020+0.050:S,"witterung","bis",0.030+0.070
+</PATH>
+<PATH id="(signer01-026)" word_cnt="13" file="06january_2010_wednesday_tagesschau-7726" channel="1" sequence="95" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"grossbritannien",,:D,"region",,:D,"frankreich",,:D,"mitte",,:S,"europa","heute",0.000+0.010:S,"region","ix",0.010+0.030:S,"tief","teil",0.020+0.050:S,"kommen","ost",0.030+0.070:S,"schneien","deutsch",0.040+0.090:C,"schnee","schnee",0.050+0.110:D,"wenig",,:D,"nur",,:C,"ix","ix",0.060+0.130
+</PATH>
+<PATH id="(signer01-027)" word_cnt="6" file="06may_2011_friday_tagesschau-6438" channel="1" sequence="101" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"montag",,:S,"weiter","dann",0.000+0.010:S,"sonne","mehr",0.010+0.030:C,"west","west",0.020+0.050:S,"schauer","grad",0.030+0.070:C,"gewitter","gewitter",0.040+0.090
+</PATH>
+<PATH id="(signer01-028)" word_cnt="12" file="06october_2010_wednesday_tagesschau-632" channel="1" sequence="102" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"in-kommend",,:D,"bleiben",,:S,"luft","sued",0.000+0.010:S,"druck","teil",0.010+0.030:S,"hoch","alpen",0.020+0.050:C,"kommen","kommen",0.030+0.070:S,"bedeuten","teil",0.040+0.090:S,"nebel","berg",0.050+0.110:C,"himmel","himmel",0.060+0.130:D,"und",,:C,"sonne","sonne",0.070+0.150:D,"mischung",,
+</PATH>
+<PATH id="(signer01-029)" word_cnt="12" file="06october_2010_wednesday_tagesschau-640" channel="1" sequence="103" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"dreizehn",,:D,"region",,:D,"suedwest",,:D,"ix",,:D,"vier",,:C,"zwanzig","zwanzig",0.010+0.030:D,"grad",,:D,"passen",,:D,"fast",,:D,"wie",,:S,"sommer","bis",0.020+0.050
+</PATH>
+<PATH id="(signer01-030)" word_cnt="4" file="06october_2011_thursday_heute-5532" channel="1" sequence="104" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"lieb",,:D,"zuschauer",,:S,"gut","sonne",0.000+0.010:S,"abend","nacht",0.010+0.030
+</PATH>
+<PATH id="(signer01-031)" word_cnt="10" file="07april_2011_thursday_tagesschau-8102" channel="1" sequence="111" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sued","sued",0.000+0.010:D,"wehen",,:D,"ix",,:D,"wehen",,:S,"koennen","klar",0.010+0.030:C,"sturm","sturm",0.020+0.050:C,"koennen","koennen",0.030+0.070:C,"nord","nord",0.040+0.090:D,"schwer",,:C,"sturm","sturm",0.050+0.110
+</PATH>
+<PATH id="(signer01-032)" word_cnt="8" file="08october_2009_thursday_tagesschau-5348" channel="1" sequence="130" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:C,"nord","nord",0.020+0.050:S,"mitte","bis",0.030+0.070:C,"klar","klar",0.040+0.090:S,"stern","auch",0.050+0.110:C,"koennen","koennen",0.060+0.130:D,"sehen",,
+</PATH>
+<PATH id="(signer01-033)" word_cnt="2" file="08october_2009_thursday_tagesschau-5349" channel="1" sequence="131" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"region","region",0.000+0.010:S,"nebel","kommen",0.010+0.030
+</PATH>
+<PATH id="(signer01-034)" word_cnt="6" file="08october_2009_thursday_tagesschau-5350" channel="1" sequence="132" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sued","sued",0.000+0.010:C,"regen","regen",0.010+0.030:C,"koennen","koennen",0.020+0.050:D,"dabei",,:D,"blitz",,:S,"donner","gewitter",0.030+0.070
+</PATH>
+<PATH id="(signer01-035)" word_cnt="10" file="08october_2009_thursday_tagesschau-5351" channel="1" sequence="133" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"morgen",,:C,"region","region",0.000+0.010:D,"regen",,:S,"dabei","bis",0.010+0.030:C,"nord","nord",0.020+0.050:D,"dann",,:S,"aufloesen","bis",0.030+0.070:S,"dann","freundlich",0.040+0.090:C,"sonne","sonne",0.050+0.110:C,"dabei","dabei",0.060+0.130
+</PATH>
+<PATH id="(signer01-036)" word_cnt="8" file="09august_2009_sunday_tagesschau-1179" channel="1" sequence="136" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"west","west",0.010+0.030:D,"tief",,:C,"kommen","kommen",0.020+0.050:D,"richtung",,:C,"ost","ost",0.030+0.070:I,,"kommen",0.040+0.090:S,"aufziehen","regen",0.050+0.110
+</PATH>
+<PATH id="(signer01-037)" word_cnt="3" file="09august_2009_sunday_tagesschau-1180" channel="1" sequence="137" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"regen",,:C,"gewitter","gewitter",0.000+0.010:C,"stark","stark",0.010+0.030
+</PATH>
+<PATH id="(signer01-038)" word_cnt="3" file="09august_2009_sunday_tagesschau-1181" channel="1" sequence="138" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"nordwest","sued",0.000+0.010:S,"spaeter","nord",0.010+0.030:S,"aufloesen","im-verlauf",0.020+0.050
+</PATH>
+<PATH id="(signer01-039)" word_cnt="7" file="09august_2009_sunday_tagesschau-1182" channel="1" sequence="139" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"jetzt",,:S,"in-kommend","meistens",0.000+0.010:S,"ix","im-verlauf",0.010+0.030:C,"regen","regen",0.020+0.050:C,"gewitter","gewitter",0.030+0.070:C,"koennen","koennen",0.040+0.090:S,"stark","meistens",0.050+0.110
+</PATH>
+<PATH id="(signer01-040)" word_cnt="6" file="09july_2009_thursday_tagesschau-7110" channel="1" sequence="151" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"wetter","wetter",0.010+0.030:C,"wie-aussehen","wie-aussehen",0.020+0.050:C,"freitag","freitag",0.030+0.070:D,"zehnte",,:S,"juli","wetter",0.040+0.090
+</PATH>
+<PATH id="(signer01-041)" word_cnt="10" file="09july_2009_thursday_tagesschau-7122" channel="1" sequence="152" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"samstag","samstag",0.000+0.010:S,"suedwest","sued",0.010+0.030:S,"ueberwiegend","meistens",0.020+0.050:C,"trocken","trocken",0.030+0.070:S,"ix","wind",0.040+0.090:C,"sonne","sonne",0.050+0.110:C,"schauer","schauer",0.060+0.130:S,"nordwest","nord",0.070+0.150:S,"dann","ix",0.080+0.170:C,"gewitter","gewitter",0.090+0.190
+</PATH>
+<PATH id="(signer01-042)" word_cnt="11" file="09march_2011_wednesday_heute-1742" channel="1" sequence="154" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"und",0.000+0.010:C,"auch","auch",0.010+0.030:C,"wind","wind",0.020+0.050:I,,"sturm",0.030+0.070:S,"stark","wind",0.040+0.090:S,"stroemen","meistens",0.050+0.110:S,"region","sieben",0.060+0.130:S,"sturm","wie-aussehen",0.070+0.150:S,"orkan","region",0.080+0.170:S,"kueste","sonne",0.090+0.190:C,"koennen","koennen",0.100+0.210
+</PATH>
+<PATH id="(signer01-043)" word_cnt="8" file="09may_2011_monday_tagesschau-8583" channel="1" sequence="155" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"zwanzig",,:S,"grad","eins",0.010+0.030:C,"nord","nord",0.020+0.050:C,"bis","bis",0.030+0.070:D,"acht",,:D,"zwanzig",,:S,"region","eins",0.040+0.090
+</PATH>
+<PATH id="(signer01-044)" word_cnt="7" file="09may_2011_monday_tagesschau-8585" channel="1" sequence="156" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"donnerstag","viel",0.000+0.010:C,"sonne","sonne",0.010+0.030:I,,"auch",0.020+0.050:S,"teilweise","berg",0.030+0.070:C,"regen","regen",0.040+0.090:S,"stark","kalt",0.050+0.110:C,"gewitter","gewitter",0.060+0.130
+</PATH>
+<PATH id="(signer01-045)" word_cnt="4" file="09may_2011_monday_tagesschau-8586" channel="1" sequence="157" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"freitag","freitag",0.000+0.010:D,"ruhig",,:S,"mehr","region",0.010+0.030:C,"kuehl","kuehl",0.020+0.050
+</PATH>
+<PATH id="(signer01-046)" word_cnt="7" file="10august_2009_monday_heute-6891" channel="1" sequence="159" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"aber","auch",0.000+0.010:S,"jetzt","wetter",0.010+0.030:C,"ost","ost",0.020+0.050:C,"kommen","kommen",0.030+0.070:D,"schwuel",,:S,"luft","region",0.040+0.090:S,"aufziehen","wetter",0.050+0.110
+</PATH>
+<PATH id="(signer01-047)" word_cnt="8" file="10august_2009_monday_heute-6892" channel="1" sequence="160" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"neu",,:S,"kommen","schnee",0.000+0.010:C,"regen","regen",0.010+0.030:D,"aber",,:D,"mehr",,:S,"angenehm","gewitter",0.020+0.050:S,"nase","im-verlauf",0.030+0.070:S,"luft","wie-aussehen",0.040+0.090
+</PATH>
+<PATH id="(signer01-048)" word_cnt="6" file="10december_2011_saturday_tagesschau-5420" channel="1" sequence="167" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"ab","sonst",0.000+0.010:C,"montag","montag",0.010+0.030:D,"in-kommend",,:S,"wetter","wolke",0.020+0.050:C,"wechselhaft","wechselhaft",0.030+0.070:C,"wind","wind",0.040+0.090
+</PATH>
+<PATH id="(signer01-049)" word_cnt="4" file="10december_2011_saturday_tagesschau-5421" channel="1" sequence="168" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"ab",,:D,"dienstag",,:C,"sturm","sturm",0.000+0.010:C,"koennen","koennen",0.010+0.030
+</PATH>
+<PATH id="(signer01-050)" word_cnt="5" file="10december_2011_saturday_tagesschau-5422" channel="1" sequence="169" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"teil","teil",0.000+0.010:C,"regen","regen",0.010+0.030:C,"berg","berg",0.020+0.050:C,"moeglich","moeglich",0.030+0.070:S,"schnee","regen",0.040+0.090
+</PATH>
+<PATH id="(signer01-051)" word_cnt="8" file="10december_2011_saturday_tagesschau-5423" channel="1" sequence="170" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"aber","dann",0.000+0.010:S,"in-kommend","mehr",0.010+0.030:S,"mild","verschwinden",0.020+0.050:C,"dann","dann",0.030+0.070:D,"wieder",,:D,"schnee",,:S,"grenze","ix",0.040+0.090:S,"auf","himmel",0.050+0.110
+</PATH>
+<PATH id="(signer01-052)" word_cnt="7" file="10january_2011_monday_heute-1375" channel="1" sequence="172" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"regen",,:D,"dann",,:D,"mittwoch",,:D,"regen",,:S,"donnerstag","bis",0.000+0.010:S,"stark","alpen",0.010+0.030:S,"regen","gewitter",0.020+0.050
+</PATH>
+<PATH id="(signer01-053)" word_cnt="7" file="10january_2011_monday_tagesschau-6404" channel="1" sequence="173" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"heute",0.000+0.010:S,"heute-nacht","nacht",0.010+0.030:C,"trocken","trocken",0.020+0.050:D,"ix",,:D,"regen",,:S,"meistens","bisschen",0.030+0.070:S,"region","kommen",0.040+0.090
+</PATH>
+<PATH id="(signer01-054)" word_cnt="7" file="10january_2011_monday_tagesschau-6409" channel="1" sequence="174" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"heute-nacht",,:D,"ix",,:D,"eins",,:S,"grad","heute",0.000+0.010:S,"minus","nacht",0.010+0.030:S,"sieben","bis",0.020+0.050:C,"region","region",0.030+0.070
+</PATH>
+<PATH id="(signer01-055)" word_cnt="14" file="10march_2011_thursday_heute-51" channel="1" sequence="175" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"suedwest",,:S,"kommen","sued",0.000+0.010:C,"warm","warm",0.010+0.030:C,"morgen","morgen",0.020+0.050:D,"schon",,:D,"frankreich",,:D,"region",,:S,"fuenfzehn","sonst",0.030+0.070:C,"bis","bis",0.040+0.090:D,"zwanzig",,:S,"grad","freundlich",0.050+0.110:S,"wochenende","bis",0.060+0.130:S,"kommen","fuenf",0.070+0.150:C,"warm","warm",0.080+0.170
+</PATH>
+<PATH id="(signer01-056)" word_cnt="11" file="10march_2011_thursday_tagesschau-5086" channel="1" sequence="176" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sonntag","sonntag",0.000+0.010:C,"west","west",0.010+0.030:C,"nordwest","nordwest",0.020+0.050:D,"wieder",,:S,"viel","wind",0.030+0.070:S,"wolke","nord",0.040+0.090:C,"bisschen","bisschen",0.050+0.110:D,"regen",,:S,"ost","grad",0.060+0.130:S,"kommen","region",0.070+0.150:C,"freundlich","freundlich",0.080+0.170
+</PATH>
+<PATH id="(signer01-057)" word_cnt="7" file="11february_2011_friday_tagesschau-7755" channel="1" sequence="185" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"wochenende",,:C,"im-verlauf","im-verlauf",0.000+0.010:C,"montag","montag",0.010+0.030:D,"dienstag",,:D,"nordost",,:S,"dann","ost",0.020+0.050:C,"kalt","kalt",0.030+0.070
+</PATH>
+<PATH id="(signer01-058)" word_cnt="6" file="11may_2010_tuesday_tagesschau-1960" channel="1" sequence="187" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:S,"wetter","nacht",0.010+0.030:C,"wie-aussehen","wie-aussehen",0.020+0.050:S,"mittwoch","freitag",0.030+0.070:S,"zwoelf","bis",0.040+0.090:S,"mai","eins",0.050+0.110
+</PATH>
+<PATH id="(signer01-059)" word_cnt="9" file="11may_2010_tuesday_tagesschau-1964" channel="1" sequence="188" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"tag","nord",0.000+0.010:S,"dann","auch",0.010+0.030:C,"nord","nord",0.020+0.050:C,"region","region",0.030+0.070:C,"regen","regen",0.040+0.090:D,"suedost",,:D,"doch",,:S,"bisschen","sued",0.050+0.110:C,"freundlich","freundlich",0.060+0.130
+</PATH>
+<PATH id="(signer01-060)" word_cnt="8" file="11may_2010_tuesday_tagesschau-1971" channel="1" sequence="189" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"samstag","sonne",0.000+0.010:C,"nord","nord",0.010+0.030:D,"suedost",,:C,"regen","regen",0.020+0.050:S,"aber","gewitter",0.030+0.070:S,"gleich","wechselhaft",0.040+0.090:S,"zeit","klar",0.050+0.110:C,"wind","wind",0.060+0.130
+</PATH>
+<PATH id="(signer01-061)" word_cnt="8" file="12july_2009_sunday_tagesschau-2573" channel="1" sequence="203" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"sonne","sonne",0.010+0.030:C,"wolke","wolke",0.020+0.050:C,"wechselhaft","wechselhaft",0.030+0.070:C,"nord","nord",0.040+0.090:D,"region",,:C,"sonne","sonne",0.050+0.110:D,"oft",,
+</PATH>
+<PATH id="(signer01-062)" word_cnt="6" file="12july_2009_sunday_tagesschau-2574" channel="1" sequence="204" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"ix","bis",0.000+0.010:S,"schauer","regen",0.010+0.030:S,"suedwest","sued",0.020+0.050:S,"abend","nacht",0.030+0.070:C,"gewitter","gewitter",0.040+0.090:S,"koennen","dabei",0.050+0.110
+</PATH>
+<PATH id="(signer01-063)" word_cnt="7" file="12july_2010_monday_heute-244" channel="1" sequence="205" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"deutschland",,:S,"zwei","region",0.000+0.010:S,"teil","eins",0.010+0.030:S,"regen","berg",0.020+0.050:S,"schwuel","himmel",0.030+0.070:S,"frisch","wind",0.040+0.090:S,"kuehl","frost",0.050+0.110
+</PATH>
+<PATH id="(signer01-064)" word_cnt="6" file="12july_2011_tuesday_heute-1274" channel="1" sequence="206" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"gewitter","gewitter",0.000+0.010:D,"enorm",,:S,"suedwest","wind",0.010+0.030:S,"bis-morgen","sued",0.020+0.050:S,"nacht","sonne",0.030+0.070:C,"kommen","kommen",0.040+0.090
+</PATH>
+<PATH id="(signer01-065)" word_cnt="13" file="12july_2011_tuesday_heute-1279" channel="1" sequence="207" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"gewitter","gewitter",0.010+0.030:C,"meistens","meistens",0.020+0.050:D,"wo",,:D,"suedost",,:D,"region",,:D,"brand",,:D,"burg",,:S,"ix","sued",0.030+0.070:C,"nord","nord",0.040+0.090:I,,"teil",0.050+0.110:S,"teilweise","berg",0.060+0.130:C,"regen","regen",0.070+0.150
+</PATH>
+<PATH id="(signer01-066)" word_cnt="3" file="12july_2011_tuesday_heute-1280" channel="1" sequence="208" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"west","west",0.000+0.010:S,"langsam","fuenf",0.010+0.030:C,"verschwinden","verschwinden",0.020+0.050
+</PATH>
+<PATH id="(signer01-067)" word_cnt="4" file="12july_2011_tuesday_heute-1281" channel="1" sequence="209" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"wind","wind",0.000+0.010:I,,"sonne",0.010+0.030:S,"kueste","himmel",0.020+0.050:C,"auch","auch",0.030+0.070
+</PATH>
+<PATH id="(signer01-068)" word_cnt="10" file="12may_2010_wednesday_tagesschau-318" channel="1" sequence="211" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"tag",,:S,"dann","im-verlauf",0.000+0.010:C,"sued","sued",0.010+0.030:D,"suedost",,:D,"regen",,:S,"nach","kommen",0.020+0.050:S,"mittag","auch",0.030+0.070:S,"ix","koennen",0.040+0.090:C,"auch","auch",0.050+0.110:C,"gewitter","gewitter",0.060+0.130
+</PATH>
+<PATH id="(signer01-069)" word_cnt="3" file="12september_2010_sunday_tagesschau-3919" channel="1" sequence="218" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"in-kommend",,:S,"wetter","sued",0.000+0.010:C,"wechselhaft","wechselhaft",0.010+0.030
+</PATH>
+<PATH id="(signer01-070)" word_cnt="9" file="13july_2010_tuesday_tagesschau-4317" channel="1" sequence="227" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"ost","ost",0.000+0.010:D,"druckflaeche",,:D,"stark",,:S,"besonders","sieben",0.010+0.030:S,"in-kommend","meistens",0.020+0.050:S,"koennen","sued",0.030+0.070:C,"gewitter","gewitter",0.040+0.090:I,,"bis",0.050+0.110:C,"regen","regen",0.060+0.130
+</PATH>
+<PATH id="(signer01-071)" word_cnt="3" file="14july_2010_wednesday_tagesschau-1865" channel="1" sequence="236" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"sonntag",,:D,"ruhig",,:S,"verschwinden","region",0.000+0.010
+</PATH>
+<PATH id="(signer01-072)" word_cnt="4" file="14october_2009_wednesday_tagesschau-529" channel="1" sequence="237" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"besonders",,:C,"nordwest","nordwest",0.000+0.010:C,"wind","wind",0.010+0.030:C,"stark","stark",0.020+0.050
+</PATH>
+<PATH id="(signer01-073)" word_cnt="4" file="15february_2010_monday_tagesschau-1843" channel="1" sequence="241" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"nordwest",,:S,"schnee","nord",0.000+0.010:C,"bisschen","bisschen",0.010+0.030:C,"koennen","koennen",0.020+0.050
+</PATH>
+<PATH id="(signer01-074)" word_cnt="13" file="16february_2010_tuesday_tagesschau-6098" channel="1" sequence="252" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"west","sonntag",0.000+0.010:S,"tag","teil",0.010+0.030:C,"regen","regen",0.020+0.050:S,"ix","gewitter",0.030+0.070:C,"koennen","koennen",0.040+0.090:C,"schnee","schnee",0.050+0.110:D,"regen",,:S,"kalt","sturm",0.060+0.130:S,"frost","dabei",0.070+0.150:C,"ost","ost",0.080+0.170:D,"wolke",,:S,"bewoelkt","region",0.090+0.190:C,"freundlich","freundlich",0.100+0.210
+</PATH>
+<PATH id="(signer01-075)" word_cnt="12" file="18april_2011_monday_tagesschau-1316" channel="1" sequence="271" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"hoch",,:C,"region","region",0.000+0.010:C,"bis","bis",0.010+0.030:I,,"gewitter",0.020+0.050:I,,"auch",0.030+0.070:C,"freitag","freitag",0.040+0.090:C,"meistens","meistens",0.050+0.110:S,"wetter","abend",0.060+0.130:C,"freundlich","freundlich",0.070+0.150:C,"sonne","sonne",0.080+0.170:D,"temperatur",,:S,"steigen","grad",0.090+0.190
+</PATH>
+<PATH id="(signer01-076)" word_cnt="5" file="20december_2010_monday_tagesschau-3199" channel="1" sequence="292" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nord","nord",0.000+0.010:D,"kalt",,:D,"kommen",,:S,"zone","sonne",0.010+0.030:S,"dazwischen","region",0.020+0.050
+</PATH>
+<PATH id="(signer01-077)" word_cnt="5" file="20december_2010_monday_tagesschau-3204" channel="1" sequence="293" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nord","nord",0.000+0.010:D,"fluss",,:C,"sued","sued",0.010+0.030:C,"trocken","trocken",0.020+0.050:C,"ix","ix",0.030+0.070
+</PATH>
+<PATH id="(signer01-078)" word_cnt="8" file="20december_2010_monday_tagesschau-3205" channel="1" sequence="294" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"zone",,:S,"koennen","bis",0.000+0.010:C,"regen","regen",0.010+0.030:S,"teilweise","teil",0.020+0.050:C,"schnee","schnee",0.030+0.070:D,"regen",,:D,"umwandeln",,:S,"gefrieren","wind",0.040+0.090
+</PATH>
+<PATH id="(signer01-079)" word_cnt="6" file="20december_2010_monday_tagesschau-3208" channel="1" sequence="295" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"neun",,:D,"grad",,:S,"region","acht",0.000+0.010:S,"minus","bis",0.010+0.030:C,"acht","acht",0.020+0.050:S,"nordost","nord",0.030+0.070
+</PATH>
+<PATH id="(signer01-080)" word_cnt="3" file="20march_2010_saturday_heute-7288" channel="1" sequence="304" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"west",,:S,"verbreiten","nord",0.010+0.030
+</PATH>
+<PATH id="(signer01-081)" word_cnt="6" file="20march_2010_saturday_heute-7296" channel="1" sequence="305" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"in-kommend",,:D,"mehr",,:S,"kuehl","sued",0.000+0.010:S,"weniger","alpen",0.010+0.030:C,"wind","wind",0.020+0.050:C,"stark","stark",0.030+0.070
+</PATH>
+<PATH id="(signer01-082)" word_cnt="3" file="20march_2010_saturday_heute-7297" channel="1" sequence="306" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"berg","berg",0.000+0.010:D,"region",,:C,"regen","regen",0.010+0.030
+</PATH>
+<PATH id="(signer01-083)" word_cnt="4" file="20september_2010_monday_heute-2934" channel="1" sequence="317" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"dabei","dabei",0.000+0.010:C,"nord","nord",0.010+0.030:S,"mehr","teil",0.020+0.050:S,"mild","verschwinden",0.030+0.070
+</PATH>
+<PATH id="(signer01-084)" word_cnt="5" file="20september_2010_monday_heute-2935" channel="1" sequence="318" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"aber",,:D,"tagsueber",,:S,"ix","auch",0.000+0.010:C,"mehr","mehr",0.010+0.030:S,"kuehl","sonne",0.020+0.050
+</PATH>
+<PATH id="(signer01-085)" word_cnt="5" file="20september_2010_monday_tagesschau-7029" channel="1" sequence="319" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"besonders",,:D,"nah",,:S,"fluss","sonst",0.000+0.010:S,"nebel","im-verlauf",0.010+0.030:S,"feld","berg",0.020+0.050
+</PATH>
+<PATH id="(signer01-086)" word_cnt="10" file="22november_2010_monday_heute-279" channel="1" sequence="346" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"ix","ix",0.000+0.010:D,"koennen",,:D,"gefahr",,:D,"glatt",,:D,"besonders",,:S,"mitte","ost",0.010+0.030:C,"region","region",0.020+0.050:C,"sued","sued",0.030+0.070:S,"dann","bis",0.040+0.090:S,"kalt","frost",0.050+0.110
+</PATH>
+<PATH id="(signer01-087)" word_cnt="5" file="23september_2009_wednesday_tagesschau-7582" channel="1" sequence="368" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"woche",,:D,"dann",,:S,"hoch","bis",0.000+0.010:C,"kommen","kommen",0.010+0.030:S,"warm","acht",0.020+0.050
+</PATH>
+<PATH id="(signer01-088)" word_cnt="7" file="23september_2009_wednesday_tagesschau-7583" channel="1" sequence="369" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"mitte","zwanzig",0.000+0.010:C,"nord","nord",0.010+0.030:C,"heute","heute",0.020+0.050:C,"nacht","nacht",0.030+0.070:D,"bisschen",,:C,"regen","regen",0.040+0.090:S,"ix","koennen",0.050+0.110
+</PATH>
+<PATH id="(signer01-089)" word_cnt="6" file="23september_2009_wednesday_tagesschau-7593" channel="1" sequence="370" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sonntag","sonntag",0.000+0.010:S,"scheinen","kommen",0.010+0.030:S,"alpen","berg",0.020+0.050:C,"auch","auch",0.030+0.070:D,"schauer",,:S,"moeglich","koennen",0.040+0.090
+</PATH>
+<PATH id="(signer01-090)" word_cnt="8" file="23september_2010_thursday_heute-6476" channel="1" sequence="371" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"west",,:S,"aus","ost",0.000+0.010:C,"fuenf","fuenf",0.010+0.030:C,"zwanzig","zwanzig",0.020+0.050:D,"vierzehn",,:C,"bis","bis",0.030+0.070:D,"achtzehn",,:S,"grad","auch",0.040+0.090
+</PATH>
+<PATH id="(signer01-091)" word_cnt="4" file="23september_2010_thursday_tagesschau-3444" channel="1" sequence="372" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"region","region",0.000+0.010:D,"bis",,:S,"abend","nacht",0.010+0.030:S,"trocken","sturm",0.020+0.050
+</PATH>
+<PATH id="(signer01-092)" word_cnt="15" file="24january_2011_monday_heute-6980" channel="1" sequence="377" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"meistens",,:D,"zwei",,:C,"bis","bis",0.010+0.030:I,,"sieben",0.020+0.050:S,"sechs","zwanzig",0.030+0.070:C,"grad","grad",0.040+0.090:D,"aber",,:D,"bayern",,:D,"region",,:D,"bisschen",,:S,"kalt","auch",0.050+0.110:S,"mitte","sonntag",0.060+0.130:S,"region","bis",0.070+0.150:C,"auch","auch",0.080+0.170
+</PATH>
+<PATH id="(signer01-093)" word_cnt="8" file="24january_2011_monday_heute-6983" channel="1" sequence="378" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"regen","regen",0.000+0.010:C,"region","region",0.010+0.030:D,"und",,:D,"ix",,:D,"teilweise",,:D,"auch",,:C,"sonne","sonne",0.020+0.050:C,"dabei","dabei",0.030+0.070
+</PATH>
+<PATH id="(signer01-094)" word_cnt="10" file="24january_2011_monday_heute-6984" channel="1" sequence="379" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"mittwoch","mittwoch",0.000+0.010:C,"sonne","sonne",0.010+0.030:D,"nicht",,:D,"nur",,:C,"west","west",0.020+0.050:D,"schnee",,:D,"regen",,:D,"mischung",,:D,"dann",,:S,"beiseite","kommen",0.030+0.070
+</PATH>
+<PATH id="(signer01-095)" word_cnt="4" file="24january_2011_monday_tagesschau-3712" channel="1" sequence="380" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nord","nord",0.000+0.010:D,"europa",,:D,"tief",,:S,"kommen","region",0.010+0.030
+</PATH>
+<PATH id="(signer01-096)" word_cnt="6" file="24january_2011_monday_tagesschau-3720" channel="1" sequence="381" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"wind",,:D,"wehen",,:S,"frisch","wechselhaft",0.000+0.010:S,"kommen","region",0.010+0.030:S,"hoch","heute",0.020+0.050:C,"sturm","sturm",0.030+0.070
+</PATH>
+<PATH id="(signer01-097)" word_cnt="3" file="24october_2009_saturday_tagesschau-4283" channel="1" sequence="393" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"suedost","sued",0.000+0.010:S,"regen","alpen",0.010+0.030:S,"viel","wie-aussehen",0.020+0.050
+</PATH>
+<PATH id="(signer01-098)" word_cnt="6" file="24october_2009_saturday_tagesschau-4284" channel="1" sequence="394" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"dann",0.000+0.010:S,"ix","bis",0.010+0.030:S,"regen","wolke",0.020+0.050:C,"koennen","koennen",0.030+0.070:D,"besonders",,:C,"nord","nord",0.040+0.090
+</PATH>
+<PATH id="(signer01-099)" word_cnt="7" file="24october_2009_saturday_tagesschau-4285" channel="1" sequence="395" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"nord",0.000+0.010:S,"tag","teil",0.010+0.030:S,"dann","gewitter",0.020+0.050:S,"west","teil",0.030+0.070:C,"freundlich","freundlich",0.040+0.090:C,"sonne","sonne",0.050+0.110:C,"dabei","dabei",0.060+0.130
+</PATH>
+<PATH id="(signer01-100)" word_cnt="14" file="25april_2010_sunday_tagesschau-4942" channel="1" sequence="397" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"koennen","koennen",0.000+0.010:D,"ix",,:S,"mehr","bis",0.010+0.030:S,"kuehl","klar",0.020+0.050:C,"kommen","kommen",0.030+0.070:D,"ab",,:C,"dienstag","dienstag",0.040+0.090:D,"luft",,:D,"hoch",,:D,"hoeher",,:D,"temperatur",,:S,"hoeher","zwanzig",0.050+0.110:S,"mehr","grad",0.060+0.130:C,"freundlich","freundlich",0.070+0.150
+</PATH>
+<PATH id="(signer01-101)" word_cnt="7" file="25april_2010_sunday_tagesschau-4951" channel="1" sequence="398" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"donnerstag","sonne",0.000+0.010:C,"bis","bis",0.010+0.030:D,"sechs",,:C,"zwanzig","zwanzig",0.020+0.050:C,"grad","grad",0.030+0.070:S,"viel","berg",0.040+0.090:C,"sonne","sonne",0.050+0.110
+</PATH>
+<PATH id="(signer01-102)" word_cnt="4" file="25april_2010_sunday_tagesschau-4952" channel="1" sequence="399" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"west","west",0.000+0.010:D,"mehr",,:D,"schauer",,:C,"gewitter","gewitter",0.010+0.030
+</PATH>
+<PATH id="(signer01-103)" word_cnt="5" file="25august_2009_tuesday_tagesschau-7090" channel="1" sequence="400" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"heute",0.000+0.010:I,,"nacht",0.010+0.030:S,"heute-nacht","wind",0.020+0.050:C,"sturm","sturm",0.030+0.070:C,"koennen","koennen",0.040+0.090
+</PATH>
+<PATH id="(signer01-104)" word_cnt="5" file="25august_2009_tuesday_tagesschau-7091" channel="1" sequence="401" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"schwach",,:D,"maessig",,:D,"zeigen-bildschirm",,:S,"wind","west",0.010+0.030
+</PATH>
+<PATH id="(signer01-105)" word_cnt="7" file="25august_2009_tuesday_tagesschau-7093" channel="1" sequence="402" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"eins","eins",0.010+0.030:D,"zwanzig",,:C,"region","region",0.020+0.050:C,"bis","bis",0.030+0.070:C,"acht","acht",0.040+0.090:D,"zwanzig",,
+</PATH>
+<PATH id="(signer01-106)" word_cnt="11" file="25august_2009_tuesday_tagesschau-7094" channel="1" sequence="403" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"unten","nord",0.000+0.010:S,"region","alpen",0.010+0.030:C,"in-kommend","in-kommend",0.020+0.050:S,"wie-aussehen","nordost",0.030+0.070:C,"teil","teil",0.040+0.090:C,"wechselhaft","wechselhaft",0.050+0.110:C,"sonne","sonne",0.060+0.130:C,"wolke","wolke",0.070+0.150:D,"unterschied",,:C,"gewitter","gewitter",0.080+0.170:C,"koennen","koennen",0.090+0.190
+</PATH>
+<PATH id="(signer01-107)" word_cnt="8" file="25june_2010_friday_tagesschau-3884" channel="1" sequence="413" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"fuenfzehn",,:D,"grad",,:C,"region","region",0.000+0.010:D,"sauer",,:D,"land",,:C,"nur","nur",0.010+0.030:D,"sechs",,:C,"grad","grad",0.020+0.050
+</PATH>
+<PATH id="(signer01-108)" word_cnt="6" file="25june_2010_friday_tagesschau-3887" channel="1" sequence="414" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"sued",0.000+0.010:I,,"morgen",0.010+0.030:S,"montag","viel",0.020+0.050:C,"sonne","sonne",0.030+0.070:C,"warm","warm",0.040+0.090:C,"weiter","weiter",0.050+0.110
+</PATH>
+<PATH id="(signer01-109)" word_cnt="8" file="25october_2010_monday_tagesschau-22" channel="1" sequence="419" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"mittwoch","mittwoch",0.000+0.010:D,"regen",,:C,"koennen","koennen",0.010+0.030:D,"nordwest",,:D,"wahrscheinlich",,:C,"nord","nord",0.020+0.050:S,"stark","sturm",0.030+0.070:S,"wind","sonne",0.040+0.090
+</PATH>
+<PATH id="(signer01-110)" word_cnt="8" file="26april_2010_monday_heute-3398" channel="1" sequence="421" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"suedwest",,:S,"klar","sued",0.000+0.010:C,"morgen","morgen",0.010+0.030:D,"vier",,:C,"bis","bis",0.020+0.050:C,"neun","neun",0.030+0.070:I,,"acht",0.040+0.090:C,"grad","grad",0.050+0.110
+</PATH>
+<PATH id="(signer01-111)" word_cnt="4" file="26april_2010_monday_tagesschau-7271" channel="1" sequence="422" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"temperatur","temperatur",0.000+0.010:I,,"grad",0.010+0.030:S,"in-kommend","sued",0.020+0.050:S,"mehr","ix",0.030+0.070
+</PATH>
+<PATH id="(signer01-112)" word_cnt="14" file="26april_2010_monday_tagesschau-7273" channel="1" sequence="423" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"nord",0.000+0.010:S,"tag","wolke",0.010+0.030:S,"besonders","nord",0.020+0.050:S,"nordost","ost",0.030+0.070:S,"alpen","sonne",0.040+0.090:S,"schauer","suedost",0.050+0.110:S,"koennen","schnee",0.060+0.130:S,"dann","kalt",0.070+0.150:C,"sonne","sonne",0.080+0.170:D,"wolke",,:C,"wechselhaft","wechselhaft",0.090+0.190:D,"suedwest",,:S,"hauptsaechlich","sued",0.100+0.210:C,"sonne","sonne",0.110+0.230
+</PATH>
+<PATH id="(signer01-113)" word_cnt="10" file="26august_2009_wednesday_tagesschau-3225" channel="1" sequence="424" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"freitag","freitag",0.000+0.010:I,,"sued",0.010+0.030:C,"suedost","suedost",0.020+0.050:C,"sonne","sonne",0.030+0.070:C,"freitag","freitag",0.040+0.090:D,"dann",,:D,"mehr",,:S,"wolke","kommen",0.050+0.110:C,"regen","regen",0.060+0.130:C,"koennen","koennen",0.070+0.150
+</PATH>
+<PATH id="(signer01-114)" word_cnt="8" file="26october_2010_tuesday_tagesschau-5789" channel="1" sequence="433" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"nord","nord",0.010+0.030:D,"west",,:D,"regen",,:D,"region",,:S,"nebel","sued",0.020+0.050:S,"wolke","mehr",0.030+0.070:C,"himmel","himmel",0.040+0.090
+</PATH>
+<PATH id="(signer01-115)" word_cnt="3" file="26october_2010_tuesday_tagesschau-5796" channel="1" sequence="434" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"kueste","nord",0.000+0.010:C,"wind","wind",0.010+0.030:S,"haben","koennen",0.020+0.050
+</PATH>
+<PATH id="(signer01-116)" word_cnt="7" file="27august_2009_thursday_tagesschau-3276" channel="1" sequence="439" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nord","nord",0.000+0.010:C,"suedost","suedost",0.010+0.030:C,"auch","auch",0.020+0.050:D,"koennen",,:C,"regen","regen",0.030+0.070:C,"gewitter","gewitter",0.040+0.090:D,"dabei",,
+</PATH>
+<PATH id="(signer01-117)" word_cnt="3" file="27august_2009_thursday_tagesschau-3284" channel="1" sequence="440" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"sonntag",,:D,"ueberwiegend",,:C,"sonne","sonne",0.000+0.010
+</PATH>
+<PATH id="(signer01-118)" word_cnt="2" file="27august_2009_thursday_tagesschau-3285" channel="1" sequence="441" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"nord","nordost",0.000+0.010:S,"schauer","auch",0.010+0.030
+</PATH>
+<PATH id="(signer01-119)" word_cnt="7" file="27august_2009_thursday_tagesschau-3286" channel="1" sequence="442" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"montag",,:D,"aehnlich",,:D,"wetter",,:S,"aber","morgen",0.000+0.010:S,"bisschen","wechselhaft",0.010+0.030:S,"mehr","auch",0.020+0.050:C,"warm","warm",0.030+0.070
+</PATH>
+<PATH id="(signer01-120)" word_cnt="13" file="27january_2013_sunday_tagesschau-8836" channel="1" sequence="443" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:D,"plus",,:S,"drei","im-verlauf",0.020+0.050:C,"region","region",0.030+0.070:D,"null",,:D,"zwischen",,:D,"leicht",,:D,"frost",,:D,"minus",,:D,"eins",,:S,"minus","wind",0.040+0.090:S,"zwei","bis",0.050+0.110
+</PATH>
+<PATH id="(signer01-121)" word_cnt="7" file="28february_2011_monday_tagesschau-4984" channel="1" sequence="452" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"wehen","nord",0.000+0.010:C,"wind","wind",0.010+0.030:D,"schwach",,:S,"maessig","wechselhaft",0.020+0.050:C,"berg","berg",0.030+0.070:D,"frisch",,:C,"wind","wind",0.040+0.090
+</PATH>
+<PATH id="(signer01-122)" word_cnt="11" file="28july_2011_thursday_tagesschau-8521" channel="1" sequence="454" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"west",,:S,"suedwest","sonntag",0.000+0.010:S,"tief","sued",0.010+0.030:C,"kommen","kommen",0.020+0.050:C,"schauer","schauer",0.030+0.070:C,"gewitter","gewitter",0.040+0.090:C,"koennen","koennen",0.050+0.110:C,"deutsch","deutsch",0.060+0.130:D,"wetter",,:D,"dienst",,:S,"warnung","dann",0.070+0.150
+</PATH>
+<PATH id="(signer01-123)" word_cnt="7" file="29march_2010_monday_tagesschau-8384" channel="1" sequence="474" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"jetzt",,:C,"morgen","morgen",0.000+0.010:C,"wetter","wetter",0.010+0.030:C,"wie-aussehen","wie-aussehen",0.020+0.050:D,"dienstag",,:D,"dreissig",,:S,"maerz","grad",0.030+0.070
+</PATH>
+<PATH id="(signer01-124)" word_cnt="8" file="29march_2011_tuesday_tagesschau-8117" channel="1" sequence="475" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"ost",0.000+0.010:S,"rostock","auch",0.010+0.030:C,"acht","acht",0.020+0.050:C,"region","region",0.030+0.070:D,"leipzig",,:D,"achtzehn",,:D,"grad",,:S,"zone","bis",0.040+0.090
+</PATH>
+<PATH id="(signer01-125)" word_cnt="3" file="29may_2011_sunday_tagesschau-764" channel="1" sequence="476" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"wehen",,:D,"schwach",,:S,"maessig","[empty]",0.000+0.030
+</PATH>
+<PATH id="(signer01-126)" word_cnt="15" file="30december_2010_thursday_tagesschau-2236" channel="1" sequence="488" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:D,"ix",,:D,"region",,:D,"null",,:S,"grad","heute",0.020+0.050:S,"wenn","berg",0.030+0.070:S,"stern","nur",0.040+0.090:C,"koennen","koennen",0.050+0.110:S,"sehen","gewitter",0.060+0.130:C,"bis","bis",0.070+0.150:D,"minus",,:D,"zwei",,:D,"zwanzig",,:C,"grad","grad",0.080+0.170
+</PATH>
+<PATH id="(signer01-127)" word_cnt="10" file="30july_2011_saturday_tagesschau-8591" channel="1" sequence="493" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"regen","kommen",0.000+0.010:C,"region","region",0.010+0.030:S,"viel","berg",0.020+0.050:C,"himmel","himmel",0.030+0.070:C,"region","region",0.040+0.090:D,"suedwest",,:D,"auch",,:D,"loch",,:S,"neg-wolke","sued",0.050+0.110:S,"negalp-kein","ix",0.060+0.130
+</PATH>
+<PATH id="(signer01-128)" word_cnt="8" file="30march_2010_tuesday_tagesschau-5694" channel="1" sequence="494" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"jetzt",,:C,"wetter","wetter",0.000+0.010:C,"wie-aussehen","wie-aussehen",0.010+0.030:C,"morgen","morgen",0.020+0.050:C,"mittwoch","mittwoch",0.030+0.070:C,"eins","eins",0.040+0.090:D,"dreissig",,:S,"maerz","grad",0.050+0.110
+</PATH>
+<PATH id="(signer01-129)" word_cnt="14" file="30may_2011_monday_heute-3677" channel="1" sequence="497" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"ost","ost",0.000+0.010:C,"warm","warm",0.010+0.030:D,"region",,:C,"bis","bis",0.020+0.050:D,"dreissig",,:D,"grad",,:D,"region",,:D,"ueberspringen",,:S,"region","west",0.030+0.070:S,"kuehl","sturm",0.040+0.090:S,"nur","deutsch",0.050+0.110:S,"fuenfzehn","bis",0.060+0.130:S,"sechszehn","zwanzig",0.070+0.150:C,"grad","grad",0.080+0.170
+</PATH>
+<PATH id="(signer01-130)" word_cnt="9" file="30november_2011_wednesday_tagesschau-6289" channel="1" sequence="504" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"tag","tag",0.000+0.010:C,"fuenf","fuenf",0.010+0.030:D,"grad",,:D,"nebel",,:D,"und",,:D,"fuenfzehn",,:C,"grad","grad",0.020+0.050:D,"foehn",,:D,"region",,
+</PATH>
+<PATH id="(signer01-131)" word_cnt="4" file="30november_2011_wednesday_tagesschau-6291" channel="1" sequence="505" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"suedost","sued",0.000+0.010:S,"poss-sein","bis",0.010+0.030:C,"freundlich","freundlich",0.020+0.050:C,"sonne","sonne",0.030+0.070
+</PATH>
+<PATH id="(signer01-132)" word_cnt="10" file="30november_2011_wednesday_tagesschau-6292" channel="1" sequence="506" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"samstag","samstag",0.000+0.010:C,"sonntag","sonntag",0.010+0.030:D,"dann",,:D,"wechselhaft",,:S,"ix","bis",0.020+0.050:C,"regen","regen",0.030+0.070:D,"besonders",,:S,"sonntag","wolke",0.040+0.090:S,"koennen","alpen",0.050+0.110:C,"sturm","sturm",0.060+0.130
+</PATH>
+<PATH id="(signer01-133)" word_cnt="4" file="31august_2010_tuesday_tagesschau-5174" channel="1" sequence="512" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"wind","wind",0.000+0.010:C,"schwach","schwach",0.010+0.030:D,"wehen",,:S,"zeigen-bildschirm","wetter",0.020+0.050
+</PATH>
+<PATH id="(signer01-134)" word_cnt="10" file="31january_2013_thursday_tagesschau-2710" channel="1" sequence="514" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"ix","ix",0.000+0.010:S,"dann","bisschen",0.010+0.030:S,"schnee","regen",0.020+0.050:C,"koennen","koennen",0.030+0.070:S,"abend","heute",0.040+0.090:S,"dann","nacht",0.050+0.110:C,"nord","nord",0.060+0.130:D,"schnee",,:S,"flach","berg",0.070+0.150:S,"schnee","alpen",0.080+0.170
+</PATH>
+<PATH id="(signer01-135)" word_cnt="6" file="31may_2011_tuesday_heute-1899" channel="1" sequence="515" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"hoffen",,:D,"region",,:C,"jetzt","jetzt",0.000+0.010:D,"nordost",,:S,"verlaufen","nord",0.010+0.030:S,"verschwinden","kommen",0.020+0.050
+</PATH>
+<PATH id="(signer01-136)" word_cnt="4" file="31may_2011_tuesday_tagesschau-4294" channel="1" sequence="516" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"deutsch",,:D,"wetter",,:D,"dienst",,:S,"warnung","gewitter",0.000+0.010
+</PATH>
+<PATH id="(signer01-137)" word_cnt="6" file="31may_2011_tuesday_tagesschau-4295" channel="1" sequence="517" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"nordwest",,:S,"ix","nordost",0.000+0.010:S,"auch","freundlich",0.010+0.030:C,"kommen","kommen",0.020+0.050:C,"sonne","sonne",0.030+0.070:C,"meistens","meistens",0.040+0.090
+</PATH>
+</SPEAKER>
+<SPEAKER id="signer03">
+<PATH id="(signer03-000)" word_cnt="8" file="01october_2009_thursday_tagesschau-417" channel="1" sequence="18" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"zehn",,:D,"grad",,:D,"ix",,:D,"siebzehn",,:S,"grad","auch",0.010+0.030:S,"ober","sieben",0.020+0.050:S,"fluss","bis",0.030+0.070
+</PATH>
+<PATH id="(signer03-001)" word_cnt="9" file="02october_2009_friday_tagesschau-1354" channel="1" sequence="32" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"dazu",,:C,"morgen","morgen",0.000+0.010:I,,"ost",0.010+0.030:S,"nord","region",0.020+0.050:C,"wetter","wetter",0.030+0.070:C,"wechselhaft","wechselhaft",0.040+0.090:D,"sonntag",,:D,"auch",,:D,"mitte",,
+</PATH>
+<PATH id="(signer03-002)" word_cnt="2" file="02october_2009_friday_tagesschau-1355" channel="1" sequence="33" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"region","region",0.000+0.010:S,"so","schwach",0.010+0.030
+</PATH>
+<PATH id="(signer03-003)" word_cnt="9" file="02october_2009_friday_tagesschau-1362" channel="1" sequence="34" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"montag","morgen",0.000+0.010:C,"nord","nord",0.010+0.030:C,"region","region",0.020+0.050:C,"regen","regen",0.030+0.070:C,"region","region",0.040+0.090:D,"besser",,:C,"im-verlauf","im-verlauf",0.050+0.110:S,"region","ost",0.060+0.130:C,"regen","regen",0.070+0.150
+</PATH>
+<PATH id="(signer03-004)" word_cnt="6" file="05april_2010_monday_tagesschau-3546" channel="1" sequence="73" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"jetzt",,:C,"wetter","wetter",0.000+0.010:C,"morgen","morgen",0.010+0.030:D,"dienstag",,:D,"sechste",,:S,"april","nord",0.020+0.050
+</PATH>
+<PATH id="(signer03-005)" word_cnt="4" file="06april_2010_tuesday_tagesschau-308" channel="1" sequence="85" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"wind","wind",0.000+0.010:S,"schwach","wetter",0.010+0.030:C,"maessig","maessig",0.020+0.050:S,"wehen","region",0.030+0.070
+</PATH>
+<PATH id="(signer03-006)" word_cnt="9" file="08june_2010_tuesday_tagesschau-5527" channel="1" sequence="129" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:S,"elf","zwanzig",0.020+0.050:C,"grad","grad",0.030+0.070:D,"berg",,:S,"allgaeu","alpen",0.040+0.090:C,"bis","bis",0.050+0.110:D,"siebzehn",,:D,"fluss",,
+</PATH>
+<PATH id="(signer03-007)" word_cnt="6" file="09february_2010_tuesday_tagesschau-4495" channel="1" sequence="146" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"auch","auch",0.000+0.010:D,"ober",,:D,"fluss",,:D,"hoch",,:S,"fluss","bis",0.010+0.030:S,"frost","wind",0.020+0.050
+</PATH>
+<PATH id="(signer03-008)" word_cnt="3" file="09february_2010_tuesday_tagesschau-4496" channel="1" sequence="147" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"auch",,:C,"schnee","schnee",0.000+0.010:S,"kommen","region",0.010+0.030
+</PATH>
+<PATH id="(signer03-009)" word_cnt="2" file="09february_2010_tuesday_tagesschau-4497" channel="1" sequence="148" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"bleiben",,:S,"im-verlauf","bis",0.000+0.010
+</PATH>
+<PATH id="(signer03-010)" word_cnt="7" file="10february_2010_wednesday_tagesschau-2524" channel="1" sequence="171" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sonntag","sonntag",0.000+0.010:D,"schnee",,:S,"wenig","gewitter",0.010+0.030:C,"nord","nord",0.020+0.050:D,"region",,:D,"moeglich",,:C,"sonne","sonne",0.030+0.070
+</PATH>
+<PATH id="(signer03-011)" word_cnt="11" file="12january_2010_tuesday_heute-2545" channel="1" sequence="200" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"im-verlauf",,:D,"schnee",,:S,"umkehren","wehen",0.000+0.010:C,"regen","regen",0.010+0.030:D,"aber",,:S,"eis","maessig",0.020+0.050:C,"regen","regen",0.030+0.070:D,"vorsicht",,:D,"strasse",,:S,"glatt","wie-aussehen",0.040+0.090:S,"moeglich","koennen",0.050+0.110
+</PATH>
+<PATH id="(signer03-012)" word_cnt="9" file="12january_2010_tuesday_heute-2546" channel="1" sequence="201" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"tag",,:C,"im-verlauf","im-verlauf",0.010+0.030:S,"suedwest","ost",0.020+0.050:C,"region","region",0.030+0.070:D,"bleiben",,:S,"so","trocken",0.040+0.090:S,"moeglich","auch",0.050+0.110:S,"schnee","regen",0.060+0.130
+</PATH>
+<PATH id="(signer03-013)" word_cnt="6" file="13may_2010_thursday_tagesschau-7916" channel="1" sequence="228" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:C,"wetter","wetter",0.010+0.030:C,"morgen","morgen",0.020+0.050:C,"freitag","freitag",0.030+0.070:D,"vierzehn",,:S,"mai","bis",0.040+0.090
+</PATH>
+<PATH id="(signer03-014)" word_cnt="3" file="13may_2010_thursday_tagesschau-7926" channel="1" sequence="229" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"region","region",0.000+0.010:D,"mehr",,:C,"sonne","sonne",0.010+0.030
+</PATH>
+<PATH id="(signer03-015)" word_cnt="8" file="15october_2009_thursday_tagesschau-7719" channel="1" sequence="244" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"ost","ost",0.010+0.030:D,"region",,:D,"zwei",,:D,"grad",,:C,"region","region",0.020+0.050:D,"dreizehn",,:C,"grad","grad",0.030+0.070
+</PATH>
+<PATH id="(signer03-016)" word_cnt="10" file="16april_2010_friday_tagesschau-6577" channel="1" sequence="248" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"hoch",,:S,"kommen","nord",0.000+0.010:S,"ost","wolke",0.010+0.030:C,"kommen","kommen",0.020+0.050:D,"morgen",,:S,"deutsch","tag",0.030+0.070:S,"land","nord",0.040+0.090:C,"viel","viel",0.050+0.110:C,"sonne","sonne",0.060+0.130:D,"trocken",,
+</PATH>
+<PATH id="(signer03-017)" word_cnt="7" file="17april_2010_saturday_tagesschau-396" channel="1" sequence="259" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"luft",,:S,"druck","heute",0.000+0.010:C,"hoch","hoch",0.010+0.030:D,"deshalb",,:S,"morgen","tag",0.020+0.050:C,"sonne","sonne",0.030+0.070:S,"ueberall","wind",0.040+0.090
+</PATH>
+<PATH id="(signer03-018)" word_cnt="6" file="19august_2010_thursday_tagesschau-995" channel="1" sequence="282" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"samstag","samstag",0.000+0.010:S,"hauptsaechlich","meistens",0.010+0.030:C,"sonne","sonne",0.020+0.050:S,"nord","nordost",0.030+0.070:C,"bisschen","bisschen",0.040+0.090:C,"regen","regen",0.050+0.110
+</PATH>
+<PATH id="(signer03-019)" word_cnt="9" file="19may_2010_wednesday_heute-1119" channel="1" sequence="289" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"west",,:D,"fluss",,:D,"west",,:D,"region",,:D,"nach",,:S,"mittag","teil",0.000+0.010:S,"besser","kommen",0.010+0.030:C,"sonne","sonne",0.020+0.050:D,"moeglich",,
+</PATH>
+<PATH id="(signer03-020)" word_cnt="10" file="20july_2010_tuesday_heute-5251" channel="1" sequence="298" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:S,"im-moment","wie-aussehen",0.010+0.030:C,"nacht","nacht",0.020+0.050:D,"noch",,:C,"warm","warm",0.030+0.070:D,"ix",,:C,"morgen","morgen",0.040+0.090:D,"frueh",,:D,"mehr",,:C,"kuehl","kuehl",0.050+0.110
+</PATH>
+<PATH id="(signer03-021)" word_cnt="8" file="20july_2010_tuesday_tagesschau-7877" channel="1" sequence="299" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"hoch","hoch",0.000+0.010:S,"ost","nord",0.010+0.030:C,"kommen","kommen",0.020+0.050:D,"morgen",,:D,"soll",,:S,"einfluss","ost",0.030+0.070:S,"deutsch","nord",0.040+0.090:S,"land","region",0.050+0.110
+</PATH>
+<PATH id="(signer03-022)" word_cnt="10" file="20july_2010_tuesday_tagesschau-7883" channel="1" sequence="300" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"heute",,:C,"nacht","nacht",0.000+0.010:D,"ruhrgebiet",,:S,"zwanzig","fluss",0.010+0.030:C,"grad","grad",0.020+0.050:D,"mitte",,:D,"berg",,:S,"moeglich","wechselhaft",0.030+0.070:S,"elf","zwanzig",0.040+0.090:C,"grad","grad",0.050+0.110
+</PATH>
+<PATH id="(signer03-023)" word_cnt="7" file="20may_2010_thursday_tagesschau-3151" channel="1" sequence="307" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:C,"wetter","wetter",0.010+0.030:C,"morgen","morgen",0.020+0.050:C,"freitag","freitag",0.030+0.070:S,"eins","fuenf",0.040+0.090:C,"zwanzig","zwanzig",0.050+0.110:S,"mai","montag",0.060+0.130
+</PATH>
+<PATH id="(signer03-024)" word_cnt="11" file="22april_2010_thursday_heute-2120" channel="1" sequence="334" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"morgen","nordost",0.000+0.010:C,"sonne","sonne",0.010+0.030:D,"ueberall",,:S,"kueste","nord",0.020+0.050:C,"region","region",0.030+0.070:C,"wolke","wolke",0.040+0.090:I,,"ost",0.050+0.110:C,"moeglich","moeglich",0.060+0.130:I,,"koennen",0.070+0.150:C,"regen","regen",0.080+0.170:D,"neg-viel",,
+</PATH>
+<PATH id="(signer03-025)" word_cnt="2" file="22april_2010_thursday_heute-2124" channel="1" sequence="335" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"trocken","trocken",0.000+0.010:D,"enorm",,
+</PATH>
+<PATH id="(signer03-026)" word_cnt="2" file="22april_2010_thursday_heute-2125" channel="1" sequence="336" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"abend","nacht",0.000+0.010:S,"wuenschen","wechselhaft",0.010+0.030
+</PATH>
+<PATH id="(signer03-027)" word_cnt="11" file="25august_2010_wednesday_heute-6001" channel="1" sequence="404" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:S,"schon","teil",0.020+0.050:C,"west","west",0.030+0.070:I,,"region",0.040+0.090:C,"regen","regen",0.050+0.110:S,"langsam","wolke",0.060+0.130:C,"kommen","kommen",0.070+0.150:D,"fluss",,:C,"region","region",0.080+0.170:D,"noch",,
+</PATH>
+<PATH id="(signer03-028)" word_cnt="2" file="25august_2010_wednesday_heute-6008" channel="1" sequence="405" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"wie",,:S,"herbst","gewitter",0.000+0.010
+</PATH>
+<PATH id="(signer03-029)" word_cnt="3" file="25august_2010_wednesday_heute-6009" channel="1" sequence="406" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"schoen",,:D,"abend",,:S,"wuenschen","nord",0.000+0.010
+</PATH>
+<PATH id="(signer03-030)" word_cnt="11" file="25january_2010_monday_heute-1467" channel="1" sequence="408" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sued","sued",0.000+0.010:D,"region",,:D,"mehr",,:C,"wolke","wolke",0.010+0.030:D,"fluss",,:C,"alpen","alpen",0.020+0.050:C,"moeglich","moeglich",0.030+0.070:D,"schnee",,:D,"aber",,:C,"im-verlauf","im-verlauf",0.040+0.090:D,"weniger",,
+</PATH>
+<PATH id="(signer03-031)" word_cnt="8" file="25january_2010_monday_tagesschau-8298" channel="1" sequence="409" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"und",,:C,"jetzt","jetzt",0.000+0.010:C,"wetter","wetter",0.010+0.030:C,"morgen","morgen",0.020+0.050:D,"dienstag",,:D,"sechs",,:S,"zwanzig","maessig",0.030+0.070:S,"januar","trocken",0.040+0.090
+</PATH>
+<PATH id="(signer03-032)" word_cnt="7" file="25january_2010_monday_tagesschau-8305" channel="1" sequence="410" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"wind","wind",0.000+0.010:C,"nord","nord",0.010+0.030:D,"wehen",,:S,"wenig","wolke",0.020+0.050:S,"unten","auch",0.030+0.070:C,"stark","stark",0.040+0.090:S,"wehen","region",0.050+0.110
+</PATH>
+<PATH id="(signer03-033)" word_cnt="7" file="26august_2010_thursday_tagesschau-4265" channel="1" sequence="425" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"jetzt",,:C,"wetter","wetter",0.000+0.010:D,"morgen",,:S,"freitag","tag",0.010+0.030:C,"sieben","sieben",0.020+0.050:D,"zwanzig",,:S,"august","teil",0.030+0.070
+</PATH>
+<PATH id="(signer03-034)" word_cnt="3" file="26january_2010_tuesday_heute-107" channel="1" sequence="426" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"schoen",,:S,"abend","nord",0.000+0.010:S,"wuenschen","bleiben",0.010+0.030
+</PATH>
+<PATH id="(signer03-035)" word_cnt="8" file="26january_2010_tuesday_tagesschau-2787" channel="1" sequence="427" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"und",,:C,"im-verlauf","im-verlauf",0.000+0.010:D,"ueberall",,:C,"wechselhaft","wechselhaft",0.010+0.030:I,,"land",0.020+0.050:I,,"region",0.030+0.070:S,"moeglich","wechselhaft",0.040+0.090:S,"schnee","heute",0.050+0.110
+</PATH>
+<PATH id="(signer03-036)" word_cnt="7" file="27june_2010_sunday_tagesschau-7386" channel="1" sequence="445" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"dienstag","nord",0.000+0.010:C,"mittwoch","mittwoch",0.010+0.030:D,"tief",,:C,"kommen","kommen",0.020+0.050:C,"moeglich","moeglich",0.030+0.070:D,"regen",,:C,"gewitter","gewitter",0.040+0.090
+</PATH>
+<PATH id="(signer03-037)" word_cnt="6" file="29april_2010_thursday_heute-8622" channel="1" sequence="465" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"morgen","nord",0.000+0.010:S,"nach","region",0.010+0.030:S,"mittag","warm",0.020+0.050:C,"gewitter","gewitter",0.030+0.070:C,"regen","regen",0.040+0.090:D,"auch",,
+</PATH>
+<PATH id="(signer03-038)" word_cnt="6" file="29april_2010_thursday_heute-8623" channel="1" sequence="466" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"temperatur","temperatur",0.010+0.030:C,"acht","acht",0.020+0.050:C,"bis","bis",0.030+0.070:D,"sechszehn",,:C,"grad","grad",0.040+0.090
+</PATH>
+<PATH id="(signer03-039)" word_cnt="9" file="29april_2010_thursday_heute-8625" channel="1" sequence="467" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"ost","ost",0.000+0.010:C,"region","region",0.010+0.030:D,"zuerst",,:C,"warm","warm",0.020+0.050:D,"vier",,:S,"auch","grad",0.030+0.070:C,"sued","sued",0.040+0.090:S,"bayern","sonntag",0.050+0.110:S,"warm","nord",0.060+0.130
+</PATH>
+<PATH id="(signer03-040)" word_cnt="7" file="29june_2010_tuesday_tagesschau-7704" channel="1" sequence="471" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"wind","wind",0.000+0.010:C,"nord","nord",0.010+0.030:C,"schwach","schwach",0.020+0.050:S,"maessig","wechselhaft",0.030+0.070:S,"wehen","region",0.040+0.090:S,"schwach","acht",0.050+0.110:S,"wehen","region",0.060+0.130
+</PATH>
+<PATH id="(signer03-041)" word_cnt="7" file="29june_2010_tuesday_tagesschau-7705" channel="1" sequence="472" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"heute",,:C,"nacht","nacht",0.000+0.010:D,"temperatur",,:D,"elf",,:C,"bis","bis",0.010+0.030:D,"achtzehn",,:C,"grad","grad",0.020+0.050
+</PATH>
+<PATH id="(signer03-042)" word_cnt="14" file="29november_2009_sunday_tagesschau-7043" channel="1" sequence="477" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:S,"regen","schnee",0.010+0.030:C,"kommen","kommen",0.020+0.050:D,"schwarz",,:D,"wald",,:S,"berg","nacht",0.030+0.070:C,"region","region",0.040+0.090:D,"schnee",,:D,"siebenhundert",,:D,"fuenfhundert",,:S,"meter","hoch",0.050+0.110:S,"berg","bleiben",0.060+0.130:S,"schon","trocken",0.070+0.150:S,"schnee","nord",0.080+0.170
+</PATH>
+<PATH id="(signer03-043)" word_cnt="8" file="30november_2009_monday_tagesschau-5749" channel="1" sequence="498" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"sued",,:D,"vierhundert",,:D,"siebenhundert",,:D,"meter",,:D,"hoehe",,:S,"moeglich","sonst",0.000+0.010:S,"schnee","schauer",0.010+0.030:S,"enorm","sturm",0.020+0.050
+</PATH>
+<PATH id="(signer03-044)" word_cnt="10" file="30november_2009_monday_tagesschau-5755" channel="1" sequence="499" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:C,"temperatur","temperatur",0.010+0.030:D,"null",,:C,"bis","bis",0.020+0.050:C,"sieben","sieben",0.030+0.070:C,"grad","grad",0.040+0.090:D,"fluss",,:D,"moeglich",,:D,"acht",,:S,"grad","schnee",0.050+0.110
+</PATH>
+<PATH id="(signer03-045)" word_cnt="3" file="30october_2009_friday_tagesschau-2275" channel="1" sequence="507" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"wind",,:S,"maessig","wechselhaft",0.000+0.010:S,"wehen","region",0.010+0.030
+</PATH>
+<PATH id="(signer03-046)" word_cnt="12" file="30october_2009_friday_tagesschau-2276" channel="1" sequence="508" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"west",,:C,"region","region",0.000+0.010:D,"heute",,:C,"nacht","nacht",0.010+0.030:C,"fuenf","fuenf",0.020+0.050:D,"grad",,:C,"region","region",0.030+0.070:D,"hauptsaechlich",,:S,"frost","meistens",0.040+0.090:S,"moeglich","sturm",0.050+0.110:S,"glatt","bleiben",0.060+0.130:S,"vorsicht","wie-aussehen",0.070+0.150
+</PATH>
+<PATH id="(signer03-047)" word_cnt="10" file="31october_2009_saturday_tagesschau-7147" channel="1" sequence="518" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"moeglich","auch",0.000+0.010:C,"heute","heute",0.010+0.030:C,"nacht","nacht",0.020+0.050:D,"frost",,:D,"glatt",,:D,"vorsicht",,:S,"fluss","wind",0.030+0.070:S,"moeglich","neun",0.040+0.090:S,"plus","auch",0.050+0.110:S,"acht","sieben",0.060+0.130
+</PATH>
+</SPEAKER>
+<SPEAKER id="signer07">
+<PATH id="(signer07-000)" word_cnt="4" file="02december_2010_thursday_heute-8444" channel="1" sequence="20" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"gut","gut",0.000+0.010:D,"abend",,:S,"lieb","nacht",0.010+0.030:S,"zuschauer","grad",0.020+0.050
+</PATH>
+<PATH id="(signer07-001)" word_cnt="18" file="02december_2010_thursday_heute-8445" channel="1" sequence="21" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"so",,:D,"viel",,:D,"schnee",,:D,"anfang",,:D,"dezember",,:D,"tja",,:D,"selten",,:D,"bisher",,:D,"wenn",,:D,"ueber",,:D,"sicht",,:S,"null","eins",0.000+0.010:S,"fast","nur",0.010+0.030:S,"region","mittag",0.020+0.050:S,"deutschland","nacht",0.030+0.070:C,"region","region",0.040+0.090:D,"schnee",,:S,"haben2","grad",0.050+0.110
+</PATH>
+<PATH id="(signer07-002)" word_cnt="6" file="02december_2010_thursday_tagesschau-3636" channel="1" sequence="22" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nord","nord",0.000+0.010:C,"nordwest","nordwest",0.010+0.030:I,,"west",0.020+0.050:C,"mehr","mehr",0.030+0.070:D,"viel",,:D,"wolke",,
+</PATH>
+<PATH id="(signer07-003)" word_cnt="4" file="02december_2010_thursday_tagesschau-3637" channel="1" sequence="23" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"schnee","teil",0.000+0.010:C,"mehr","mehr",0.010+0.030:C,"kueste","kueste",0.020+0.050:D,"region",,
+</PATH>
+<PATH id="(signer07-004)" word_cnt="6" file="03november_2010_wednesday_tagesschau-6505" channel="1" sequence="46" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"fluss",,:C,"sued","sued",0.000+0.010:S,"moeglich","koennen",0.010+0.030:S,"sonne","kalt",0.020+0.050:C,"bleiben","bleiben",0.030+0.070:S,"trocken","verschwinden",0.040+0.090
+</PATH>
+<PATH id="(signer07-005)" word_cnt="22" file="03november_2010_wednesday_tagesschau-6506" channel="1" sequence="47" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"sued",,:D,"wehen",,:D,"bisschen",,:S,"wehen","sonntag",0.000+0.010:S,"nord","bis",0.010+0.030:S,"frisch","koennen",0.020+0.050:S,"natur","nordost",0.030+0.070:S,"stark","wechselhaft",0.040+0.090:C,"sturm","sturm",0.050+0.110:I,,"koennen",0.060+0.130:S,"see","klar",0.070+0.150:S,"meer","berg",0.080+0.170:S,"schwer","meistens",0.090+0.190:C,"sturm","sturm",0.100+0.210:I,,"wind",0.110+0.230:C,"berg","berg",0.120+0.250:I,,"gewitter",0.130+0.270:S,"e+r+z","bis",0.140+0.290:S,"berg","schnee",0.150+0.310:C,"auch","auch",0.160+0.330:I,,"kalt",0.170+0.350:S,"orkan","wind",0.180+0.370
+</PATH>
+<PATH id="(signer07-006)" word_cnt="8" file="03november_2010_wednesday_tagesschau-6507" channel="1" sequence="48" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"koeln",,:D,"region",,:S,"ix","deutsch",0.000+0.010:S,"dreizehn","bis",0.010+0.030:S,"grad","wechselhaft",0.020+0.050:C,"alpen","alpen",0.030+0.070:D,"drei",,:S,"grad","zwanzig",0.040+0.090
+</PATH>
+<PATH id="(signer07-007)" word_cnt="12" file="04july_2011_monday_heute-6440" channel="1" sequence="67" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"ihr",,:D,"wuenschen",,:D,"wissen",,:D,"sommer",,:D,"weiter",,:D,"wie",,:D,"laufen",,:D,"wie-aussehen",,:D,"damen",,:D,"und",,:D,"herren",,:S,"poss-euch","bis",0.000+0.010
+</PATH>
+<PATH id="(signer07-008)" word_cnt="5" file="04july_2011_monday_heute-6441" channel="1" sequence="68" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"bleiben",,:D,"hoch",,:D,"tief",,:S,"hoch","deutsch",0.000+0.010:S,"tief","bis",0.010+0.030
+</PATH>
+<PATH id="(signer07-009)" word_cnt="3" file="06december_2011_tuesday_heute-1553" channel="1" sequence="87" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sturm","sturm",0.000+0.010:D,"tagsueber",,:S,"dabei","montag",0.010+0.030
+</PATH>
+<PATH id="(signer07-010)" word_cnt="5" file="06december_2011_tuesday_heute-1554" channel="1" sequence="88" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"ihr",,:S,"wuenschen","mittwoch",0.000+0.010:S,"abend","heute",0.010+0.030:S,"machen","nacht",0.020+0.050:S,"gut","schnee",0.030+0.070
+</PATH>
+<PATH id="(signer07-011)" word_cnt="14" file="06december_2011_tuesday_tagesschau-6842" channel="1" sequence="89" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"berg",,:D,"meistens",,:D,"schnee",,:C,"regen","regen",0.000+0.010:S,"berg","mehr",0.010+0.030:S,"aber","regen",0.020+0.050:C,"sued","sued",0.030+0.070:D,"region",,:C,"regen","regen",0.040+0.090:D,"ungefaehr",,:D,"tausend",,:S,"zweihundert","freitag",0.050+0.110:S,"ix","temperatur",0.060+0.130:S,"schnee","regen",0.070+0.150
+</PATH>
+<PATH id="(signer07-012)" word_cnt="13" file="06july_2011_wednesday_tagesschau-6870" channel="1" sequence="99" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"tag","tag",0.000+0.010:D,"eins",,:D,"zwanzig",,:D,"grad",,:D,"sylt",,:D,"ix",,:D,"und",,:D,"neun",,:C,"zwanzig","zwanzig",0.010+0.030:D,"grad",,:D,"region",,:D,"und",,:D,"region",,
+</PATH>
+<PATH id="(signer07-013)" word_cnt="8" file="07december_2010_tuesday_heute-5626" channel="1" sequence="112" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"leider",,:S,"durchgehend","im-verlauf",0.000+0.010:S,"dauer","mehr",0.010+0.030:S,"regen","heute",0.020+0.050:C,"nacht","nacht",0.030+0.070:D,"sued",,:D,"deutschland",,:D,"regen",,
+</PATH>
+<PATH id="(signer07-014)" word_cnt="8" file="07december_2010_tuesday_tagesschau-4152" channel="1" sequence="113" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"tag","tag",0.000+0.010:D,"minus",,:D,"drei",,:S,"nordost","bis",0.010+0.030:S,"plus","warm",0.020+0.050:S,"vierzehn","nord",0.030+0.070:C,"grad","grad",0.040+0.090:C,"sued","sued",0.050+0.110
+</PATH>
+<PATH id="(signer07-015)" word_cnt="7" file="07february_2011_monday_tagesschau-1612" channel="1" sequence="115" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nacht","nacht",0.000+0.010:C,"nord","nord",0.010+0.030:C,"mehr","mehr",0.020+0.050:C,"sturm","sturm",0.030+0.070:S,"auch","moeglich",0.040+0.090:S,"kueste","sturm",0.050+0.110:S,"orkan","bis",0.060+0.130
+</PATH>
+<PATH id="(signer07-016)" word_cnt="12" file="07february_2011_monday_tagesschau-1613" channel="1" sequence="116" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"tag","warm",0.000+0.010:C,"schwach","schwach",0.010+0.030:C,"maessig","maessig",0.020+0.050:S,"wehen","wolke",0.030+0.070:C,"nord","nord",0.040+0.090:D,"nordost",,:D,"frisch",,:D,"maessig",,:D,"wehen",,:S,"ost","trocken",0.050+0.110:S,"stark","nord",0.060+0.130:S,"wehen","meistens",0.070+0.150
+</PATH>
+<PATH id="(signer07-017)" word_cnt="15" file="09february_2011_wednesday_heute-7538" channel="1" sequence="149" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:S,"aufklaren","bisschen",0.020+0.050:S,"morgen","kommen",0.030+0.070:S,"nach","freundlich",0.040+0.090:C,"mittag","mittag",0.050+0.110:D,"schon",,:C,"nord","nord",0.060+0.130:D,"see",,:D,"schon",,:D,"bisschen",,:S,"regen","viel",0.070+0.150:S,"ix","schnee",0.080+0.170:C,"mild","mild",0.090+0.190:S,"luft","sieben",0.100+0.210
+</PATH>
+<PATH id="(signer07-018)" word_cnt="8" file="11october_2010_monday_tagesschau-4607" channel="1" sequence="190" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"auch",,:D,"nah",,:D,"fluss",,:D,"und",,:S,"alpen","koennen",0.000+0.010:S,"auch","berg",0.010+0.030:S,"moeglich","koennen",0.020+0.050:S,"nebel","region",0.030+0.070
+</PATH>
+<PATH id="(signer07-019)" word_cnt="9" file="11october_2010_monday_tagesschau-4612" channel="1" sequence="191" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"tag","tag",0.000+0.010:D,"zehn",,:D,"grad",,:D,"bisschen",,:D,"bewoelkt",,:S,"achtzehn","sieben",0.010+0.030:C,"grad","grad",0.020+0.050:S,"fluss","region",0.030+0.070:S,"ix","bis",0.040+0.090
+</PATH>
+<PATH id="(signer07-020)" word_cnt="13" file="11october_2010_monday_tagesschau-4615" channel="1" sequence="192" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"freitag","freitag",0.000+0.010:D,"bisschen",,:D,"verschwinden",,:C,"bisschen","bisschen",0.010+0.030:D,"verschwinden",,:C,"nord","nord",0.020+0.050:D,"bisschen",,:C,"regen","regen",0.030+0.070:C,"bisschen","bisschen",0.040+0.090:D,"stellenweise",,:D,"vierzehn",,:C,"grad","grad",0.050+0.110:D,"ungefaehr",,
+</PATH>
+<PATH id="(signer07-021)" word_cnt="7" file="12march_2011_saturday_tagesschau-2455" channel="1" sequence="210" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"tag","tag",0.000+0.010:D,"teil",,:D,"nur",,:D,"eins",,:C,"grad","grad",0.010+0.030:C,"nord","nord",0.020+0.050:D,"see",,
+</PATH>
+<PATH id="(signer07-022)" word_cnt="8" file="13april_2011_wednesday_tagesschau-1683" channel="1" sequence="219" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"rest",,:C,"region","region",0.000+0.010:C,"sonne","sonne",0.010+0.030:C,"wolke","wolke",0.020+0.050:D,"nur",,:D,"ort",,:C,"bisschen","bisschen",0.030+0.070:D,"regen",,
+</PATH>
+<PATH id="(signer07-023)" word_cnt="8" file="14october_2010_thursday_tagesschau-298" channel="1" sequence="238" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"samstag","samstag",0.000+0.010:C,"regen","regen",0.010+0.030:C,"berg","berg",0.020+0.050:C,"regen","regen",0.030+0.070:S,"teilweise","teil",0.040+0.090:S,"umwandeln","bis",0.050+0.110:S,"schnee","wechselhaft",0.060+0.130:S,"schneien","regen",0.070+0.150
+</PATH>
+<PATH id="(signer07-024)" word_cnt="4" file="14october_2010_thursday_tagesschau-299" channel="1" sequence="239" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"schoen","berg",0.000+0.010:S,"wo","klar",0.010+0.030:S,"meer","kueste",0.020+0.050:C,"region","region",0.030+0.070
+</PATH>
+<PATH id="(signer07-025)" word_cnt="9" file="17february_2011_thursday_tagesschau-6307" channel="1" sequence="260" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"wetter",,:D,"so",,:D,"knapp",,:D,"veraendern",,:D,"meistens",,:S,"bleiben","jetzt",0.000+0.010:S,"wolke","koennen",0.010+0.030:C,"trocken","trocken",0.020+0.050:C,"wetter","wetter",0.030+0.070
+</PATH>
+<PATH id="(signer07-026)" word_cnt="7" file="17january_2011_monday_tagesschau-7001" channel="1" sequence="263" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sued","sued",0.000+0.010:S,"noch","auch",0.010+0.030:C,"bisschen","bisschen",0.020+0.050:D,"noch",,:D,"wetter",,:D,"gut",,:S,"wetter","auch",0.030+0.070
+</PATH>
+<PATH id="(signer07-027)" word_cnt="10" file="17january_2011_monday_tagesschau-7003" channel="1" sequence="264" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"rest",,:S,"region","bis",0.000+0.010:S,"mehr","nacht",0.010+0.030:S,"meistens","hauptsaechlich",0.020+0.050:C,"wolke","wolke",0.030+0.070:S,"besonders","bisschen",0.040+0.090:C,"kueste","kueste",0.050+0.110:D,"ix",,:C,"mehr","mehr",0.060+0.130:S,"regen","schnee",0.070+0.150
+</PATH>
+<PATH id="(signer07-028)" word_cnt="10" file="18september_2010_saturday_tagesschau-4197" channel="1" sequence="280" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"mittwoch",,:S,"alle","mittag",0.000+0.010:S,"gut","freundlich",0.010+0.030:C,"sonne","sonne",0.020+0.050:D,"schoen",,:S,"sechszehn","warm",0.030+0.070:C,"bis","bis",0.040+0.090:D,"fuenf",,:C,"zwanzig","zwanzig",0.050+0.110:C,"grad","grad",0.060+0.130
+</PATH>
+<PATH id="(signer07-029)" word_cnt="14" file="19january_2011_wednesday_heute-2680" channel="1" sequence="284" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"in-kommend",,:D,"tag",,:D,"bleiben",,:D,"kalt",,:D,"mitte",,:D,"europa",,:D,"ungefaehr",,:S,"null","sonntag",0.000+0.010:S,"zwischen","frost",0.010+0.030:S,"mitte","mehr",0.020+0.050:S,"meer","teil",0.030+0.070:S,"zehn","sieben",0.040+0.090:C,"bis","bis",0.050+0.110:D,"fuenfzehn",,
+</PATH>
+<PATH id="(signer07-030)" word_cnt="8" file="19january_2011_wednesday_tagesschau-7068" channel="1" sequence="285" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:C,"wetter","wetter",0.010+0.030:D,"voraus",,:S,"informieren","sturm",0.020+0.050:C,"morgen","morgen",0.030+0.070:C,"donnerstag","donnerstag",0.040+0.090:C,"zwanzig","zwanzig",0.050+0.110:S,"januar","maessig",0.060+0.130
+</PATH>
+<PATH id="(signer07-031)" word_cnt="3" file="20june_2011_monday_heute-6514" channel="1" sequence="301" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"dann",,:D,"wetter",,:C,"wechselhaft","wechselhaft",0.000+0.010
+</PATH>
+<PATH id="(signer07-032)" word_cnt="7" file="20june_2011_monday_heute-6521" channel="1" sequence="302" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"mitte","mitte",0.000+0.010:S,"zone","wechselhaft",0.010+0.030:S,"neg-moegen","mehr",0.020+0.050:C,"stark","stark",0.030+0.070:C,"wolke","wolke",0.040+0.090:D,"oder",,:C,"regen","regen",0.050+0.110
+</PATH>
+<PATH id="(signer07-033)" word_cnt="6" file="20june_2011_monday_tagesschau-1253" channel="1" sequence="303" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"tag",,:D,"ix",,:D,"regen",,:C,"auch","auch",0.000+0.010:S,"kommen","wolke",0.010+0.030:C,"ost","ost",0.020+0.050
+</PATH>
+<PATH id="(signer07-034)" word_cnt="6" file="21june_2011_tuesday_tagesschau-1264" channel="1" sequence="327" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"suedost",,:D,"schoen",,:D,"rest",,:S,"neg-region","alpen",0.000+0.010:S,"schon","region",0.010+0.030:C,"regen","regen",0.020+0.050
+</PATH>
+<PATH id="(signer07-035)" word_cnt="6" file="21november_2011_monday_heute-5433" channel="1" sequence="331" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"sued","sued",0.000+0.010:D,"nebel",,:C,"region","region",0.010+0.030:D,"koennen",,:D,"lang",,:D,"nebel",,
+</PATH>
+<PATH id="(signer07-036)" word_cnt="11" file="21november_2011_monday_heute-5434" channel="1" sequence="332" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"wenn",,:D,"sonne",,:D,"haben",,:D,"dann",,:D,"schaffen",,:S,"elf","samstag",0.000+0.010:S,"grad","mehr",0.010+0.030:S,"nebel","region",0.020+0.050:C,"nur","nur",0.030+0.070:D,"drei",,:D,"grad",,
+</PATH>
+<PATH id="(signer07-037)" word_cnt="16" file="22june_2011_wednesday_heute-4381" channel="1" sequence="343" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"so",,:C,"gewitter","gewitter",0.000+0.010:D,"von",,:D,"hoch",,:D,"ix",,:D,"region",,:C,"nord","nord",0.010+0.030:D,"europa",,:D,"region",,:D,"warm",,:D,"luft",,:D,"kommen",,:D,"kuehl",,:D,"luft",,:C,"west","west",0.020+0.050:D,"kommen",,
+</PATH>
+<PATH id="(signer07-038)" word_cnt="8" file="22november_2011_tuesday_tagesschau-3647" channel="1" sequence="347" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"wieder",,:D,"wetter",,:D,"ruhig",,:D,"freundlich",,:D,"wetter",,:D,"hoch",,:S,"druck","bleiben",0.010+0.030
+</PATH>
+<PATH id="(signer07-039)" word_cnt="8" file="23december_2010_thursday_tagesschau-1430" channel="1" sequence="356" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:C,"wetter","wetter",0.010+0.030:S,"voraussage","koennen",0.020+0.050:C,"morgen","morgen",0.030+0.070:C,"freitag","freitag",0.040+0.090:D,"vier",,:S,"zwanzig","fuenf",0.050+0.110:S,"dezember","teilweise",0.060+0.130
+</PATH>
+<PATH id="(signer07-040)" word_cnt="8" file="24december_2010_friday_tagesschau-5128" channel="1" sequence="374" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+I,,"auch",0.000+0.010:C,"mehr","mehr",0.010+0.030:S,"schnee","nord",0.020+0.050:S,"schneien","regen",0.030+0.070:C,"moeglich","moeglich",0.040+0.090:S,"schneien","regen",0.050+0.110:C,"auch","auch",0.060+0.130:D,"moeglich",,
+</PATH>
+<PATH id="(signer07-041)" word_cnt="6" file="24december_2010_friday_tagesschau-5129" channel="1" sequence="375" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"wetter",,:D,"warnung",,:D,"von",,:D,"deutsch",,:S,"wetter","wechselhaft",0.000+0.010:S,"dienst","freitag",0.010+0.030
+</PATH>
+<PATH id="(signer07-042)" word_cnt="5" file="24january_2013_thursday_heute-7254" channel="1" sequence="382" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"endlich",,:D,"sonne",,:D,"aber",,:D,"deutsch",,:S,"kaum","nord",0.000+0.010
+</PATH>
+<PATH id="(signer07-043)" word_cnt="14" file="24january_2013_thursday_heute-7265" channel="1" sequence="383" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"aber",,:S,"mild","verschwinden",0.000+0.010:C,"mehr","mehr",0.010+0.030:D,"meer",,:D,"ix",,:D,"oder",,:D,"suedwest",,:D,"minus",,:D,"eins",,:D,"minus",,:D,"zwei",,:S,"grad","regen",0.020+0.050:S,"ungefaehr","bis",0.030+0.070:S,"mehr","dabei",0.040+0.090
+</PATH>
+<PATH id="(signer07-044)" word_cnt="6" file="24january_2013_thursday_tagesschau-6323" channel="1" sequence="384" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"ost","ost",0.000+0.010:D,"suedost",,:D,"ueberwiegend",,:S,"wolke","kommen",0.010+0.030:C,"bisschen","bisschen",0.020+0.050:D,"schnee",,
+</PATH>
+<PATH id="(signer07-045)" word_cnt="13" file="24january_2013_thursday_tagesschau-6327" channel="1" sequence="385" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:C,"klar","klar",0.020+0.050:C,"himmel","himmel",0.030+0.070:C,"koennen","koennen",0.040+0.090:D,"minus",,:S,"fuenfzehn","bis",0.050+0.110:C,"grad","grad",0.060+0.130:S,"nordost","nord",0.070+0.150:C,"wehen","wehen",0.080+0.170:D,"minus",,:S,"drei","ix",0.090+0.190:C,"grad","grad",0.100+0.210
+</PATH>
+<PATH id="(signer07-046)" word_cnt="12" file="26november_2011_saturday_tagesschau-5848" channel="1" sequence="432" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nacht","nacht",0.000+0.010:D,"see",,:S,"schwer","kuehl",0.010+0.030:C,"sturm","sturm",0.020+0.050:C,"morgen","morgen",0.030+0.070:S,"orkan","ost",0.040+0.090:S,"haben","sturm",0.050+0.110:S,"deshalb","wind",0.060+0.130:S,"frisch","region",0.070+0.150:S,"maessig","nord",0.080+0.170:C,"wehen","wehen",0.090+0.190:I,,"region",0.100+0.210
+</PATH>
+<PATH id="(signer07-047)" word_cnt="11" file="28november_2011_monday_heute-1587" channel="1" sequence="456" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"auch",,:C,"morgen","morgen",0.000+0.010:D,"wetter",,:D,"super",,:D,"neg-haben",,:D,"fuenf",,:D,"grad",,:S,"nordost","tag",0.010+0.030:S,"mild","warm",0.020+0.050:S,"wo","nord",0.030+0.070:S,"suedwest","bleiben",0.040+0.090
+</PATH>
+<PATH id="(signer07-048)" word_cnt="6" file="28november_2011_monday_tagesschau-165" channel="1" sequence="457" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"tag",,:C,"sued","sued",0.000+0.010:D,"mitte",,:D,"wolke",,:D,"kraeftig",,:S,"nebel","bisschen",0.010+0.030
+</PATH>
+<PATH id="(signer07-049)" word_cnt="8" file="28november_2011_monday_tagesschau-168" channel="1" sequence="458" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nacht","nacht",0.000+0.010:D,"fuenf",,:D,"grad",,:D,"see",,:S,"minus","region",0.010+0.030:S,"vier","schnee",0.020+0.050:S,"berg","bis",0.030+0.070:S,"ix","alpen",0.040+0.090
+</PATH>
+<PATH id="(signer07-050)" word_cnt="8" file="28november_2011_monday_tagesschau-172" channel="1" sequence="459" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"aber","auch",0.000+0.010:C,"regen","regen",0.010+0.030:D,"erst",,:C,"freitag","freitag",0.020+0.050:D,"abend",,:D,"sued",,:D,"kommen",,:S,"regen","nacht",0.030+0.070
+</PATH>
+<PATH id="(signer07-051)" word_cnt="7" file="29june_2011_wednesday_tagesschau-4482" channel="1" sequence="473" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"darum",,:D,"warnung",,:D,"deutsch",,:D,"wetter",,:D,"dienst",,:S,"warnung","ix",0.000+0.010:S,"informieren","auch",0.010+0.030
+</PATH>
+<PATH id="(signer07-052)" word_cnt="3" file="29november_2011_tuesday_heute-8095" channel="1" sequence="478" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"schoen","warm",0.000+0.010:C,"abend","abend",0.010+0.030:D,"poss-euch",,
+</PATH>
+<PATH id="(signer07-053)" word_cnt="7" file="29november_2011_tuesday_tagesschau-5612" channel="1" sequence="479" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"wolke","wolke",0.000+0.010:C,"heute","heute",0.010+0.030:C,"nacht","nacht",0.020+0.050:S,"nordwest","nord",0.030+0.070:S,"wolke","region",0.040+0.090:C,"bisschen","bisschen",0.050+0.110:S,"regen","schnee",0.060+0.130
+</PATH>
+<PATH id="(signer07-054)" word_cnt="7" file="29november_2011_tuesday_tagesschau-5619" channel="1" sequence="480" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nacht","nacht",0.000+0.010:D,"sechs",,:D,"grad",,:D,"see",,:D,"minus",,:D,"drei",,:D,"fluss",,
+</PATH>
+<PATH id="(signer07-055)" word_cnt="4" file="30august_2011_tuesday_heute-783" channel="1" sequence="486" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"lieb",,:D,"zuschauer",,:S,"gut","nacht",0.000+0.010:S,"abend","bis",0.010+0.030
+</PATH>
+<PATH id="(signer07-056)" word_cnt="16" file="30august_2011_tuesday_heute-784" channel="1" sequence="487" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"sommer","nord",0.000+0.010:S,"zweitausend","bis",0.010+0.030:S,"elf","eins",0.020+0.050:S,"fast","zwanzig",0.030+0.070:S,"vorbei","bis",0.040+0.090:C,"deutsch","deutsch",0.050+0.110:S,"land","region",0.060+0.130:C,"bisschen","bisschen",0.070+0.150:D,"warm",,:D,"mehr",,:D,"wenig",,:C,"sonne","sonne",0.080+0.170:D,"aber",,:D,"enorm",,:S,"viel","bisschen",0.090+0.190:C,"regen","regen",0.100+0.210
+</PATH>
+<PATH id="(signer07-057)" word_cnt="9" file="30january_2011_sunday_tagesschau-6345" channel="1" sequence="489" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"jetzt","jetzt",0.000+0.010:C,"wetter","wetter",0.010+0.030:D,"voraus",,:D,"informieren",,:C,"morgen","morgen",0.020+0.050:D,"montag",,:C,"eins","eins",0.030+0.070:S,"dreissig","zwanzig",0.040+0.090:S,"januar","grad",0.050+0.110
+</PATH>
+</SPEAKER>
+<SPEAKER id="signer02">
+<PATH id="(signer02-000)" word_cnt="2" file="08december_2009_tuesday_heute-4211" channel="1" sequence="124" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"andere",,:S,"temperatur","klar",0.000+0.010
+</PATH>
+<PATH id="(signer02-001)" word_cnt="4" file="08december_2009_tuesday_heute-4212" channel="1" sequence="125" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"gleich",,:D,"ost",,:S,"vier","alpen",0.000+0.010:C,"grad","grad",0.010+0.030
+</PATH>
+<PATH id="(signer02-002)" word_cnt="5" file="08december_2009_tuesday_heute-4213" channel="1" sequence="126" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"mild","verschwinden",0.000+0.010:C,"acht","acht",0.010+0.030:D,"bis",,:D,"neun",,:S,"grad","schnee",0.020+0.050
+</PATH>
+<PATH id="(signer02-003)" word_cnt="6" file="09december_2009_wednesday_tagesschau-2561" channel="1" sequence="144" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nord","nord",0.000+0.010:C,"region","region",0.010+0.030:I,,"mehr",0.020+0.050:C,"schwach","schwach",0.030+0.070:C,"maessig","maessig",0.040+0.090:S,"wind","sonne",0.050+0.110
+</PATH>
+<PATH id="(signer02-004)" word_cnt="9" file="09december_2009_wednesday_tagesschau-2562" channel="1" sequence="145" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"heute","heute",0.000+0.010:C,"nacht","nacht",0.010+0.030:I,,"bis",0.020+0.050:S,"rhein","mehr",0.030+0.070:C,"acht","acht",0.040+0.090:S,"grad","berg",0.050+0.110:C,"alpen","alpen",0.060+0.130:S,"minus","bis",0.070+0.150:S,"sechs","sieben",0.080+0.170
+</PATH>
+<PATH id="(signer02-005)" word_cnt="7" file="10december_2009_thursday_tagesschau-7482" channel="1" sequence="166" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"jetzt",,:D,"wie-aussehen",,:S,"wetter","tag",0.000+0.010:C,"morgen","morgen",0.010+0.030:D,"freitag",,:D,"elf",,:S,"dezember","montag",0.020+0.050
+</PATH>
+</SPEAKER>
+<SPEAKER id="signer06">
+<PATH id="(signer06-000)" word_cnt="9" file="25january_2013_friday_tagesschau-7813" channel="1" sequence="411" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"region","region",0.000+0.010:D,"luft",,:C,"tief","tief",0.010+0.030:C,"kommen","kommen",0.020+0.050:D,"dann",,:C,"sonntag","sonntag",0.030+0.070:C,"schnee","schnee",0.040+0.090:C,"regen","regen",0.050+0.110:S,"gefrieren","wind",0.060+0.130
+</PATH>
+<PATH id="(signer06-001)" word_cnt="11" file="25january_2013_friday_tagesschau-7815" channel="1" sequence="412" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"morgen","morgen",0.000+0.010:D,"teil",,:S,"ueberwiegend","wind",0.010+0.030:C,"wolke","wolke",0.020+0.050:S,"teil","viel",0.030+0.070:C,"sonne","sonne",0.040+0.090:C,"ost","ost",0.050+0.110:D,"ueberwiegend",,:S,"mehr","region",0.060+0.130:C,"sonne","sonne",0.070+0.150:D,"dabei",,
+</PATH>
+<PATH id="(signer06-002)" word_cnt="5" file="28september_2012_friday_tagesschau-916" channel="1" sequence="462" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"suedwest",,:D,"europa",,:C,"sued","sued",0.000+0.010:D,"bekommen",,:S,"regen","im-verlauf",0.010+0.030
+</PATH>
+<PATH id="(signer06-003)" word_cnt="3" file="28september_2012_friday_tagesschau-917" channel="1" sequence="463" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"region",,:D,"lang",,:C,"freundlich","freundlich",0.000+0.010
+</PATH>
+<PATH id="(signer06-004)" word_cnt="12" file="28september_2012_friday_tagesschau-922" channel="1" sequence="464" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"sued",,:S,"wind","sonntag",0.000+0.010:C,"schwach","schwach",0.010+0.030:C,"nord","nord",0.020+0.050:D,"maessig",,:D,"frisch",,:S,"schauer","wind",0.030+0.070:S,"kueste","regen",0.040+0.090:S,"berg","wie-aussehen",0.050+0.110:C,"teil","teil",0.060+0.130:D,"sturm",,:S,"orkan","wind",0.070+0.150
+</PATH>
+<PATH id="(signer06-005)" word_cnt="10" file="29september_2012_saturday_tagesschau-2966" channel="1" sequence="484" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"montag",,:D,"viel",,:S,"region","freitag",0.000+0.010:C,"freundlich","freundlich",0.010+0.030:C,"kueste","kueste",0.020+0.050:D,"suedost",,:D,"kurz",,:D,"wolke",,:C,"teil","teil",0.030+0.070:D,"regen",,
+</PATH>
+<PATH id="(signer06-006)" word_cnt="5" file="29september_2012_saturday_tagesschau-2967" channel="1" sequence="485" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+S,"dienstag","auch",0.000+0.010:C,"west","west",0.010+0.030:D,"mehr",,:D,"wolke",,:S,"schauer","kommen",0.020+0.050
+</PATH>
+<PATH id="(signer06-007)" word_cnt="9" file="30september_2012_sunday_tagesschau-4033" channel="1" sequence="509" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+C,"nacht","nacht",0.000+0.010:D,"sylt",,:D,"dreizehn",,:C,"grad","grad",0.010+0.030:D,"mitte",,:D,"berg",,:D,"tal",,:S,"null","sued",0.020+0.050:S,"grad","koennen",0.030+0.070
+</PATH>
+<PATH id="(signer06-008)" word_cnt="3" file="30september_2012_sunday_tagesschau-4037" channel="1" sequence="510" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"mittwoch",,:S,"naechste","sonntag",0.000+0.010:S,"dasselbe","minus",0.010+0.030
+</PATH>
+<PATH id="(signer06-009)" word_cnt="9" file="30september_2012_sunday_tagesschau-4038" channel="1" sequence="511" R_T1="0.000" R_T2="inf" word_aux="h_t1+t2">
+D,"donnerstag",,:D,"deutsch",,:S,"land","bisschen",0.000+0.010:C,"wechselhaft","wechselhaft",0.010+0.030:S,"ueberwiegend","meistens",0.020+0.050:C,"regen","regen",0.030+0.070:D,"moeglich",,:D,"stark",,:S,"wind","koennen",0.040+0.090
+</PATH>
+</SPEAKER>
+</SYSTEM>

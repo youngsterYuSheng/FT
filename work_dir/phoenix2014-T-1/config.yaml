@@ -1,0 +1,58 @@
+batch_size: 1
+config: ./configs/baseline.yaml
+dataset: phoenix2014-T
+dataset_info:
+  dataset_root: ./dataset/phoenix2014-T
+  dict_path: ./preprocess/phoenix2014-T/gloss_dict.npy
+  evaluation_dir: ./evaluation/slr_eval
+  evaluation_prefix: phoenix2014-T-groundtruth
+decode_mode: beam
+device: '0'
+eval_interval: 1
+evaluate_tool: sclite
+feeder: dataset.dataloader_video.BaseFeeder
+feeder_args:
+  datatype: video
+  drop_ratio: 1.0
+  frame_interval: 1
+  image_scale: 1.0
+  input_size: 224
+  mode: train
+  num_gloss: -1
+ignore_weights: []
+load_checkpoints: null
+load_weights: null
+log_interval: 10000
+loss_weights:
+  ConvCTC: 1.0
+  Cp: 0.0005
+  Cu: 0.0005
+  Dist: 25.0
+  SeqCTC: 1.0
+model: slr_network.SLRModel
+model_args:
+  c2d_type: resnet18
+  conv_type: 2
+  num_classes: 1296
+  share_classifier: true
+  use_bn: 1
+  weight_norm: true
+num_epoch: 200
+num_worker: 10
+optimizer_args:
+  base_lr: 0.0001
+  learning_ratio: 1
+  nesterov: false
+  optimizer: Adam
+  start_epoch: 0
+  step:
+  - 40
+  - 60
+  weight_decay: 0.0001
+phase: train
+print_log: true
+random_fix: true
+random_seed: 0
+save_interval: 5
+test_batch_size: 2
+work_dir: ./work_dir/phoenix2014-T-1/
