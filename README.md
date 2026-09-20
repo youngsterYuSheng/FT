@@ -1,131 +1,262 @@
-# TDSign
+TDSign
 
-Official PyTorch implementation of **TDSign** for continuous sign language recognition (CSLR).
+Official PyTorch implementation of TDSign: Adaptive Enhancement of Fine-Grained Temporal Details for Continuous Sign Language Recognition.
 
-TDSign focuses on fine-grained temporal details that can be overlooked within holistic sign motion. It contains two main components:
+TDSign is designed to capture fine-grained temporal details that can be overlooked within holistic sign motion. It contains two complementary components:
 
-* **Adaptive Temporal Detail Enhancement (ATDE)** extracts multiscale temporal residuals and selectively adjusts local details according to their reliability and holistic motion context.
-* **Detail-Aware Spatiotemporal Supervision (DSTS)** preserves enhanced spatial details and models their temporal variations to provide auxiliary CTC supervision during training. DSTS is removed at inference.
+Adaptive Temporal Detail Enhancement (ATDE) extracts multiscale temporal residuals and combines detail reliability with holistic motion context to selectively adjust informative local details.
 
-## Framework
+Detail-Aware Spatiotemporal Supervision (DSTS) preserves enhanced spatial details and models their variations across temporal scales to provide auxiliary CTC supervision. DSTS is used only during training and removed at inference.
 
-<p align="center">
-  <img src="figures/framework.png" width="95%">
-</p>
+Method
 
-## Main Results
+TDSign follows a CNN-BiLSTM CSLR pipeline. A ResNet34 visual backbone extracts frame-wise features, a 1D temporal encoder models local temporal patterns, and a two-layer BiLSTM captures long-range dependencies.
 
-Word error rate (WER, %) on three CSLR benchmarks:
+ATDE is inserted after Stages 2, 3, and 4 of the visual backbone. DSTS adapts the corresponding intermediate features into auxiliary sequences using:
 
-| Method | PHOENIX14 Dev | PHOENIX14 Test | PHOENIX14-T Dev | PHOENIX14-T Test | CSL-Daily Dev | CSL-Daily Test |
-| ------ | ------------: | -------------: | --------------: | ---------------: | ------------: | -------------: |
-| TDSign |     `<value>` |      `<value>` |       `<value>` |        `<value>` |     `<value>` |      `<value>` |
+Detail-aware Weighted Aggregation (DWA) for spatial compression while preserving localized detail responses;
 
-Please replace the entries above with the final results reported in the paper.
+Temporal Detail Modeling (TDM) for lightweight multiscale temporal modeling.
 
-## Requirements
+Results
 
-```bash
+Word error rate (WER, %) on three continuous sign language recognition benchmarks. Lower is better.
+
+Method
+
+PHOENIX14 Dev
+
+PHOENIX14 Test
+
+PHOENIX14-T Dev
+
+PHOENIX14-T Test
+
+CSL-Daily Dev
+
+CSL-Daily Test
+
+TDSign
+
+16.8
+
+16.9
+
+16.4
+
+17.8
+
+25.0
+
+24.1
+
+TDSign uses RGB input only.
+
+Datasets
+
+Experiments are conducted on three public CSLR datasets:
+
+PHOENIX-2014: 6,841 German Sign Language videos from television weather forecasts, with 1,295 glosses.
+
+PHOENIX-2014T: an extension of PHOENIX-2014 with German translation annotations and a vocabulary of 1,085 glosses.
+
+CSL-Daily: 20,654 Chinese Sign Language videos covering daily-life topics, with 2,000 glosses.
+
+Please obtain the datasets from their official providers and follow their licenses and terms of use. Dataset files are not distributed with this repository.
+
+Implementation Details
+
+The experiments reported in the paper use the following settings:
+
+ImageNet-pretrained ResNet34 visual backbone;
+
+temporal encoder following the TLP configuration;
+
+two-layer BiLSTM with a hidden dimension of 1,024;
+
+Adam optimizer;
+
+80 training epochs;
+
+batch size of 2;
+
+initial learning rate of $1\times10^{-4}$;
+
+weight decay of $1\times10^{-4}$;
+
+learning-rate decay by a factor of 0.2 at epochs 40 and 60;
+
+$224\times224$ RGB crops as input;
+
+training on a single NVIDIA L20 GPU.
+
+Installation
+
+Create a Python environment and install the dependencies required by the project:
+
 conda create -n tdsign python=3.8
 conda activate tdsign
 pip install -r requirements.txt
-```
 
-The main dependencies include:
+The project requires PyTorch, NumPy, OpenCV, and a CTC decoder compatible with the supplied training framework.
 
-* Python 3.8
-* PyTorch
-* torchvision
-* NumPy
-* OpenCV
-* ctcdecode
+Code Structure
 
-Exact package versions are provided in `requirements.txt`.
+The main TDSign components are implemented in:
 
-## Datasets
+modules/resnet.py: ResNet34 visual backbone and ATDE;
 
-Our experiments are conducted on:
+slr_network.py: DSTS, the recognition network, and auxiliary CTC supervision.
 
-* PHOENIX-2014
-* PHOENIX-2014T
-* CSL-Daily
+DSTS is active only during training and introduces no additional inference overhead.
 
-Please download the datasets from their official sources and organize them according to the preprocessing instructions of this repository.
+ATDE Ablation Settings
 
-The dataset path can be specified in the corresponding configuration file:
+The ATDE implementation provides the following experimental settings through type:
 
-```yaml
-dataset_root: /path/to/dataset
-```
+type
 
-## Training
+Learned Gain
 
-Train TDSign using:
+Reliability
 
-```bash
-python <training_script>.py \
-    --config <path_to_config>
-```
+Description
 
-ATDE is inserted into the visual backbone, while DSTS provides auxiliary supervision only during training.
+0
 
-## Evaluation
+-
 
-Evaluate a trained model using:
+-
 
-```bash
-python <evaluation_script>.py \
-    --config <path_to_config> \
-    --weights <path_to_checkpoint>
-```
+Equal-weight residual aggregation
 
-DSTS is automatically removed during inference and therefore introduces no additional inference overhead.
+1
 
-## Pretrained Models
+Yes
 
-| Dataset       | Checkpoint                      |   Dev WER |  Test WER |
-| ------------- | ------------------------------- | --------: | --------: |
-| PHOENIX-2014  | [Download](`<checkpoint_link>`) | `<value>` | `<value>` |
-| PHOENIX-2014T | [Download](`<checkpoint_link>`) | `<value>` | `<value>` |
-| CSL-Daily     | [Download](`<checkpoint_link>`) | `<value>` | `<value>` |
+-
 
-## Key Implementation
+Learned gain estimation without reliability cues
 
-The main components are implemented in:
+2
 
-* `modules/resnet.py`: visual backbone and ATDE
-* `slr_network.py`: DSTS and the overall recognition network
+Yes
 
-The ATDE ablation setting can be selected through `type`:
+Yes
 
-| `type` | Learned Gain | Reliability | Description                         |
-| -----: | :----------: | :---------: | ----------------------------------- |
-|    `0` |       —      |      —      | Equal-weight residual aggregation   |
-|    `1` |       ✓      |      —      | Gain estimation without reliability |
-|    `2` |       ✓      |      ✓      | Full ATDE                           |
-|    `3` |       —      |      ✓      | Direct reliability weighting        |
+Full ATDE used by TDSign
 
-The complete model uses `type=2`.
+3
 
-## Citation
+-
 
-If you find this work useful, please cite:
+Yes
 
-```bibtex
-@inproceedings{tdsign,
-  title     = {<Paper Title>},
-  author    = {<Authors>},
-  booktitle = {<Conference>},
-  year      = {<Year>}
+Direct reliability weighting without learned gains
+
+The complete TDSign model uses type=2.
+
+Ablation Results
+
+ATDE and DSTS
+
+ATDE
+
+DSTS
+
+Dev WER
+
+Test WER
+
+-
+
+-
+
+18.9
+
+18.9
+
+Yes
+
+-
+
+17.5
+
+17.6
+
+-
+
+Yes
+
+18.0
+
+18.3
+
+Yes
+
+Yes
+
+16.8
+
+16.9
+
+Reliability-Guided Gain Estimation
+
+Learned Gain
+
+Reliability
+
+Dev WER
+
+Test WER
+
+-
+
+-
+
+17.4
+
+17.6
+
+Yes
+
+-
+
+17.2
+
+17.7
+
+-
+
+Yes
+
+17.1
+
+17.4
+
+Yes
+
+Yes
+
+16.8
+
+16.9
+
+These results show that combining reliability cues with learned gain estimation gives the best performance among the evaluated variants.
+
+Citation
+
+If this work is useful for your research, please cite:
+
+@misc{yu2026tdsign,
+  title  = {TDSign: Adaptive Enhancement of Fine-Grained Temporal Details for Continuous Sign Language Recognition},
+  author = {Yu, Weihuang and Kong, Guangqian and Duan, Xun},
+  year   = {2026}
 }
-```
 
-The complete citation will be updated after publication.
+The citation information will be updated after publication.
 
-## Acknowledgements
+Acknowledgment
 
-We thank the authors of the public CSLR datasets and open-source implementations that supported this work.
+This work was supported by the Guizhou Provincial Basic Research Program (Natural Science) under Grant No. Qiankehe Foundation MS[2026]081.
 
-## License
-
-This project is released under the `<license name>` License. See `LICENSE` for details.
