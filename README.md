@@ -8,43 +8,39 @@ Official PyTorch implementation of the manuscript:
 
 TDSign captures fine-grained temporal details that can be overlooked within holistic sign motion. It contains two complementary components:
 
+## Results
 
+Word error rate (WER, %) on three CSLR benchmarks. Lower is better. TDSign uses RGB input only.
 
+| Method | PHOENIX14 Dev | PHOENIX14 Test | PHOENIX14-T Dev | PHOENIX14-T Test | CSL-Daily Dev | CSL-Daily Test |
+|---|---:|---:|---:|---:|---:|---:|
+| TDSign | **16.8** | **16.9** | **16.4** | **17.8** | **25.0** | **24.1** |
 
-##
+## Ablation Studies
+Ablation experiments are conducted on the PHOENIX14 dataset to verify the effectiveness of ATDE and DSTS. Word error rate (WER, %) is reported, lower is better.
 
-在三个CSLR基准测试中的词错误率（WER，%）。数值越低越好。TDSign仅使用RGB输入。
-
-|方法|PHOENIX14开发集|PHOENIX14测试集|PHOENIX14-T开发集|PHOENIX14-T测试集|CSL-Daily开发集|CSL-Daily测试集|
-
-| TDSign | ** | **16.9** | **16.4** | **17.8** | **25.0** | **24.1** |
-
-##消融研究
-在PHOENIX14数据集上开展消融实验，以验证ATDE和DSTS的有效性。报告词错误率（WER，%），数值越低越好。
-
-|设置|PHOENIX14开发集|PHOENIX14测试集|
+| Setting | PHOENIX14 Dev | PHOENIX14 Test |
 |---|---:|---:|
-|基线| 18.9 | 18.9 |
-|仅使用ATDE| 17.4 | 17.6 |
-|仅使用DSTS| 18.2 | 18.4 |
-|带 ATDE + DSTS（TDSign）| **16.8** | **16.9** |
+| Baseline | 18.9 | 18.9 |
+| w/ ATDE only | 17.4 | 17.6 |
+| w/ DSTS only | 18.2 | 18.4 |
+| w/ ATDE + DSTS (TDSign) | **16.8** | **16.9** |
 
-##先决条件
+## Prerequisites
 
 - Python 3.8
 - PyTorch
-- `ctcdecode`用于束搜索解码
-- `sclite`（可选）用于生成详细评估统计信息
+- `ctcdecode` for beam-search decoding
+- `sclite` (optional) for detailed evaluation statistics
 
-使用以下命令安装其余依赖项：
+Install the remaining dependencies with:
 
 ```bash
 pip install -r requirements.txt
-```
 
-##实现
+##Implementation
 
-主要组件位于：
+The main components are located in：
 
 - `modules/resnet.py`: ResNet34 visual backbone and ATDE;
 - `slr_network.py`: DSTS, sequence modeling, and auxiliary CTC supervision.
