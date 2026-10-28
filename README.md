@@ -33,11 +33,6 @@ Ablation experiments are conducted on the PHOENIX14 dataset to verify the effect
 - `ctcdecode` for beam-search decoding
 - `sclite` (optional) for detailed evaluation statistics
 
-Install the remaining dependencies with:
-
-```bash
-pip install -r requirements.txt
-
 ## Implementation
 
 The main components are located in：
